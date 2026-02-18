@@ -2,7 +2,8 @@ site_url: https://reia-motors.netlify.app
 display_url: https://reia-motors.netlify.app
 
 backend:
-  name: git-gateway
+  name: github
+  repo: Xinamayca/reia-motors
   branch: main
 
 media_folder: "uploads"
