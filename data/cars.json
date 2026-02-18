@@ -12,6 +12,19 @@
       "id": "jeep-wrangler-2022",
       "image": "/uploads/black-jeep-.png",
       "year": 2022
+    },
+    {
+      "km": 38000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 72500,
+      "featured": true,
+      "currency": "AWG ",
+      "fuel": "Gasoline",
+      "title": "2021 Toyota RAV4 XLE",
+      "id": "toyota-rav4-2021",
+      "image": "/uploads/toyota-rav4.png",
+      "year": 2021
     }
   ]
 }
