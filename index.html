@@ -225,18 +225,24 @@
 
   </main>
 
-  <!-- Identity token redirect -->
   <script>
-    (function () {
-      const hash = window.location.hash || "";
-      if (hash.includes("invite_token=") || hash.includes("recovery_token=")) {
-        window.location.href = "/admin/" + hash;
-        return;
-      }
-      if (window.netlifyIdentity) {
+    if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", () => {
+        const hash = window.location.hash || "";
+
+        // If Netlify sends confirmation / invite / recovery token
+        if (
+            hash.includes("confirmation_token=") ||
+            hash.includes("invite_token=") ||
+            hash.includes("recovery_token=")
+        ) {
+            window.location.href = "/admin/";
+            return;
+        }
+        });
+
         window.netlifyIdentity.init();
-      }
-    })();
+    }
   </script>
 
   <script src="app.js"></script>

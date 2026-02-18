@@ -1,26 +1,27 @@
 <!doctype html>
-<html lang="en">
+<html>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>REIA Admin</title>
+
+    <!-- Netlify Identity -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   </head>
 
   <body>
-    <!-- Decap CMS mounts into this -->
-    <div id="nc-root"></div>
-
-    <!-- Netlify Identity (required for login/invite/recovery) -->
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
-    <!-- Decap CMS -->
-    <script src="https://unpkg.com/decap-cms@^3.10.0/dist/decap-cms.js"></script>
-
     <script>
-      // Optional but helpful: if you're logged in, go straight to CMS
       if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", (user) => {
+          if (!user) {
+            window.netlifyIdentity.open("login");
+          }
+        });
         window.netlifyIdentity.init();
       }
     </script>
+
+    <!-- Decap CMS -->
+    <script src="https://unpkg.com/decap-cms@^3.0.0/dist/decap-cms.js"></script>
   </body>
 </html>
