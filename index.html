@@ -5,8 +5,27 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>REIA Motors — Aruba</title>
   <meta name="description" content="Browse quality used vehicles in Aruba. Clear info, real photos, and fast WhatsApp response." />
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   <link rel="stylesheet" href="styles.css" />
 </head>
+
+<script>
+  if (window.netlifyIdentity) {
+    window.netlifyIdentity.on("init", (user) => {
+      const hash = window.location.hash;
+
+      // If Netlify sent a recovery/invite token, open the right modal
+      if (hash.includes("recovery_token")) {
+        window.netlifyIdentity.open("recovery");
+      }
+      if (hash.includes("invite_token")) {
+        window.netlifyIdentity.open("signup");
+      }
+    });
+
+    window.netlifyIdentity.init();
+  }
+</script>
 
 <body>
   <!-- HEADER -->
