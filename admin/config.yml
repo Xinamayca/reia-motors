@@ -1,0 +1,27 @@
+backend:
+  name: git-gateway
+  branch: main
+
+media_folder: "uploads"
+public_folder: "/uploads"
+
+collections:
+  - name: "cars"
+    label: "Cars"
+    file: "data/cars.json"
+    format: "json"
+    fields:
+      - label: "Cars"
+        name: "cars"
+        widget: "list"
+        fields:
+          - { label: "ID", name: "id", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Price", name: "price", widget: "number" }
+          - { label: "Currency", name: "currency", widget: "select", options: ["AWG"] }
+          - { label: "Body Type", name: "body", widget: "select", options: ["SUV","Sedan","Hatchback","Truck"] }
+          - { label: "Fuel", name: "fuel", widget: "select", options: ["Gasoline","Diesel","Hybrid","Electric"] }
+          - { label: "KM", name: "km", widget: "number" }
+          - { label: "Transmission", name: "trans", widget: "select", options: ["Automatic","Manual"] }
+          - { label: "Year", name: "year", widget: "number" }
+          - { label: "Image", name: "image", widget: "image" }
