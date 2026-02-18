@@ -8,20 +8,27 @@ public_folder: "/uploads"
 collections:
   - name: "cars"
     label: "Cars"
-    file: "data/cars.json"
-    format: "json"
-    fields:
-      - label: "Cars"
+    folder: "data"
+    create: false
+    delete: false
+    slug: "cars"
+    files:
+      - label: "Cars Data"
         name: "cars"
-        widget: "list"
+        file: "data/cars.json"
         fields:
-          - { label: "ID", name: "id", widget: "string" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Price", name: "price", widget: "number" }
-          - { label: "Currency", name: "currency", widget: "select", options: ["AWG"] }
-          - { label: "Body Type", name: "body", widget: "select", options: ["SUV","Sedan","Hatchback","Truck"] }
-          - { label: "Fuel", name: "fuel", widget: "select", options: ["Gasoline","Diesel","Hybrid","Electric"] }
-          - { label: "KM", name: "km", widget: "number" }
-          - { label: "Transmission", name: "trans", widget: "select", options: ["Automatic","Manual"] }
-          - { label: "Year", name: "year", widget: "number" }
-          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Cars", name: "cars", widget: "list", fields:
+              [
+                { label: "ID", name: "id", widget: "string" },
+                { label: "Title", name: "title", widget: "string" },
+                { label: "Price", name: "price", widget: "number" },
+                { label: "Currency", name: "currency", widget: "string", default: "AWG" },
+                { label: "Body", name: "body", widget: "string" },
+                { label: "Fuel", name: "fuel", widget: "string" },
+                { label: "KM", name: "km", widget: "number" },
+                { label: "Transmission", name: "trans", widget: "string" },
+                { label: "Year", name: "year", widget: "number" },
+                { label: "Image", name: "image", widget: "image" },
+                { label: "Featured", name: "featured", widget: "boolean", default: false }
+              ]
+            }
