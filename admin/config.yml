@@ -8,21 +8,25 @@ public_folder: "/uploads"
 collections:
   - name: "cars"
     label: "Cars"
-    file: "data/cars.json"
-    format: "json"
-    fields:
-      - label: "Cars"
-        name: "cars"
-        widget: "list"
+    files:
+      - name: "carsdata"
+        label: "Cars List"
+        file: "data/cars.json"
+        format: "json"
         fields:
-          - { label: "ID", name: "id", widget: "string" }
-          - { label: "Title", name: "title", widget: "string" }
-          - { label: "Currency", name: "currency", widget: "string", default: "AWG" }
-          - { label: "Price", name: "price", widget: "number" }
-          - { label: "Body", name: "body", widget: "string" }
-          - { label: "Fuel", name: "fuel", widget: "string" }
-          - { label: "KM", name: "km", widget: "number" }
-          - { label: "Transmission", name: "trans", widget: "string" }
-          - { label: "Year", name: "year", widget: "number" }
-          - { label: "Image", name: "image", widget: "image" }
-          - { label: "Featured", name: "featured", widget: "boolean", default: false }
+          - label: "Cars"
+            name: "cars"
+            widget: "list"
+            summary: "{{fields.title}} — AWG {{fields.price}}"
+            fields:
+              - { label: "ID", name: "id", widget: "string" }
+              - { label: "Title", name: "title", widget: "string" }
+              - { label: "Currency", name: "currency", widget: "string", default: "AWG" }
+              - { label: "Price", name: "price", widget: "number" }
+              - { label: "Body type", name: "body", widget: "select", options: ["SUV","Sedan","Hatchback","Truck"] }
+              - { label: "Fuel", name: "fuel", widget: "select", options: ["Gasoline","Diesel","Hybrid","Electric"] }
+              - { label: "Transmission", name: "trans", widget: "select", options: ["Automatic","Manual"] }
+              - { label: "KM", name: "km", widget: "number" }
+              - { label: "Year", name: "year", widget: "number" }
+              - { label: "Image", name: "image", widget: "image" }
+              - { label: "Featured", name: "featured", widget: "boolean", default: false }
