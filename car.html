@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Car — REIA Motors</title>
+  <meta name="description" content="Vehicle details — REIA Motors Aruba" />
+  <link rel="stylesheet" href="styles.css" />
+  <link rel="stylesheet" href="browse.css" /> <!-- optional: keeps same card/button styles -->
+  <link rel="stylesheet" href="car.css" />     <!-- new: detail page styles -->
+</head>
+
+<body>
+  <!-- HEADER (same as home) -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html#home" aria-label="REIA Motors home">
+        <span class="brand-stack">
+          <span class="brand-name">REIA</span>
+          <span class="brand-tag">Driven by value. Backed by trust.</span>
+        </span>
+      </a>
+
+      <nav class="nav desktop-nav" aria-label="Primary">
+        <a href="index.html#home">Home</a>
+        <a href="browse.html">Browse Cars</a>
+        <a href="index.html#why">About</a>
+        <a href="index.html#contact">Contact</a>
+      </nav>
+
+      <a class="btn btn-primary btn-sm desktop-cta"
+         href="https://wa.me/2970000000" target="_blank" rel="noreferrer">
+        WhatsApp
+      </a>
+
+      <button class="nav-toggle" id="navToggle" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+
+    <div class="mobile-nav" id="mobileNav" aria-label="Mobile menu">
+      <a href="browse.html">Browse Cars</a>
+      <a href="index.html#why">About</a>
+      <a href="index.html#contact">Contact</a>
+      <a class="btn btn-primary" href="https://wa.me/2970000000" target="_blank" rel="noreferrer">WhatsApp</a>
+    </div>
+  </header>
+
+  <main class="page">
+    <div class="container">
+
+      <div class="crumbs">
+        <a href="browse.html">← Back to Browse</a>
+      </div>
+
+      <!-- Loading / error -->
+      <div id="state" class="state">Loading car…</div>
+
+      <!-- Detail -->
+      <section id="carWrap" class="car-wrap" hidden>
+        <div class="car-media">
+          <div class="car-image">
+            <img id="carImage" src="" alt="" />
+          </div>
+        </div>
+
+        <div class="car-info">
+          <div class="car-top">
+            <h1 id="carTitle"></h1>
+            <div id="carPrice" class="car-price"></div>
+          </div>
+
+          <div class="car-specs" id="carSpecs"></div>
+
+          <div class="car-actions">
+            <a id="btnWhatsapp" class="btn btn-primary" target="_blank" rel="noreferrer">WhatsApp about this car</a>
+            <a class="btn btn-secondary" href="browse.html">Browse more</a>
+          </div>
+        </div>
+      </section>
+
+    </div>
+  </main>
+
+  <script src="car.js"></script>
+</body>
+</html>
