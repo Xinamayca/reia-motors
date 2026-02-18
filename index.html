@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>REIA Motors — Aruba</title>
+  <meta name="description" content="Browse quality used vehicles in Aruba. Clear info, real photos, and fast WhatsApp response." />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+
+<body>
+  <!-- HEADER -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#home" aria-label="REIA Motors home">
+    
+        <span class="brand-stack">
+          <span class="brand-name">REIA</span>
+          <span class="brand-tag">Driven by value. Backed by trust.</span>
+        </span>
+      </a>
+
+      <nav class="nav desktop-nav" aria-label="Primary">
+        <a href="#home">Home</a>
+        <a href="browse.html">Browse Cars</a>
+        <a href="#why">About</a>
+        <a href="#contact">Contact</a>
+      </nav>
+
+      <a class="btn btn-primary btn-sm desktop-cta"
+         href="https://wa.me/2970000000" target="_blank" rel="noreferrer">
+        WhatsApp
+      </a>
+
+      <button class="nav-toggle" id="navToggle" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+
+    <!-- MOBILE NAV -->
+    <div class="mobile-nav" id="mobileNav" aria-label="Mobile menu">
+      <a href="#featured">Browse Cars</a>
+      <a href="#why">About</a>
+      <a href="#contact">Contact</a>
+      <a class="btn btn-primary" href="https://wa.me/2970000000" target="_blank" rel="noreferrer">WhatsApp</a>
+    </div>
+  </header>
+
+  <main id="home">
+     <!-- Global decorative blob -->
+        <img class="global-blob" src="img/blob.png" alt="" aria-hidden="true" />
+    <!-- HERO (image is a background so it never pushes content) -->
+    <section class="hero" aria-label="Hero">
+      <div class="container hero-inner">
+        <div class="hero-copy">
+          <h1>Find your next car in Aruba.</h1>
+          <p class="muted">
+            Browse quality used vehicles, get clear information, and book a test drive. 
+            Fastest way to reach us: WhatsApp.
+          </p>
+
+          <form class="search" action="#featured" method="GET">
+            <div class="search-bar">
+              <div class="field">
+                <label for="q">Search make/model</label>
+                <input id="q" name="q" placeholder="Toyota, Jeep, Kia" />
+              </div>
+
+              <div class="field">
+                <label for="body">Body type</label>
+                <select id="body" name="body">
+                  <option value="">Any</option>
+                  <option>SUV</option>
+                  <option>Sedan</option>
+                  <option>Hatchback</option>
+                  <option>Truck</option>
+                </select>
+              </div>
+
+              <div class="field">
+                <label for="fuel">Fuel type</label>
+                <select id="fuel" name="fuel">
+                  <option value="">Any</option>
+                  <option>Gasoline</option>
+                  <option>Diesel</option>
+                  <option>Hybrid</option>
+                  <option>Electric</option>
+                </select>
+              </div>
+
+              <div class="field">
+                <label for="trans">Transmission</label>
+                <select id="trans" name="trans">
+                  <option value="">Any</option>
+                  <option>Automatic</option>
+                  <option>Manual</option>
+                </select>
+              </div>
+
+              <button class="btn btn-primary search-btn" type="submit">Search</button>
+            </div>
+
+            <div class="hero-actions">
+              <a class="btn btn-secondary" href="#featured">Browse all vehicles</a>
+              <a class="btn btn-primary"
+                 href="https://wa.me/2970000000?text=Hi%20REIA%20Motors%2C%20what%27s%20new%20in%20your%20inventory%3F"
+                 target="_blank" rel="noreferrer">
+                Ask what's new
+              </a>
+            </div>
+          </form>
+        </div>
+      </div>
+    </section>
+
+    <!-- FEATURED -->
+    <section class="section" id="featured">
+      <div class="container">
+        <div class="section-head">
+          <h2>Featured vehicles</h2>
+          <p class="muted">These are popular right now. Looking for something specific? Message us on WhatsApp.</p>
+        </div>
+
+        <div class="cards" id="featuredGrid" aria-live="polite"></div>
+      </div>
+    </section>
+
+    <!-- WHY -->
+    <section class="section why" id="why">
+      <div class="container why-inner">
+
+
+        <div class="why-copy">
+          <h2>Why REIA Motors?</h2>
+          <p class="muted">We keep the process simple: clear info, real photos, and quick communication.</p>
+
+          <div class="why-cards">
+            <div class="why-card">
+              <h3>Inspected vehicles</h3>
+              <p>We share condition details and key specs so you can decide confidently.</p>
+            </div>
+            <div class="why-card">
+              <h3>Transparent pricing</h3>
+              <p>No confusing surprises — you'll see the price and the important details upfront.</p>
+            </div>
+            <div class="why-card">
+              <h3>Trade-ins welcome</h3>
+              <p>Visit our shop and our team will handle photos + consistent listing details.</p>
+            </div>
+            <div class="why-card">
+              <h3>Fast WhatsApp response</h3>
+              <p>Questions about availability, paperwork, or test drives? We reply quickly.</p>
+            </div>
+          </div>
+        </div>
+
+    </section>
+
+    <!-- CTA -->
+    <section class="cta">
+      <div class="container cta-inner">
+        <div class="cta-copy">
+          <h2>Sell your car with REIA.</h2>
+          <p class="muted-dark">
+            Want to sell quickly or trade in? Visit our showroom and we’ll guide you through next steps.
+          </p>
+
+          <div class="cta-actions">
+            <a class="btn btn-primary"
+               href="https://wa.me/2970000000?text=Hi%20REIA%20Motors%2C%20I%20want%20to%20sell%20or%20trade%20in%20my%20car.%20Can%20I%20book%20a%20visit%3F"
+               target="_blank" rel="noreferrer">
+              Get an offer on WhatsApp
+            </a>
+            <a class="btn btn-secondary" href="#contact">Contact</a>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- CONTACT -->
+    <section class="section" id="contact">
+      <div class="container contact-grid">
+
+        <div class="contact-card">
+          <h2>Let's talk</h2>
+
+          <div class="contact-block">
+            <h3>Call us</h3>
+            <p class="muted">Have a question or need quick support? Our team is happy to help during office hours.</p>
+            <a class="contact-link" href="tel:+2970000000">+297 000 0000</a>
+          </div>
+
+          <div class="contact-block">
+            <h3>Visit us</h3>
+            <p class="muted">Visit our office in Aruba to view vehicles and book test drives.</p>
+            <div class="muted">Address</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- FOOTER -->
+    <footer class="footer">
+      <div class="container footer-inner">
+        <div class="muted">© <span id="year"></span> REIA Motors • Aruba</div>
+        <div class="footer-links">
+          <a href="#featured">Inventory</a>
+          <a href="#why">About</a>
+          <a href="#contact">Contact</a>
+        </div>
+      </div>
+    </footer>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,134 @@
+<!-- =========================
+     browse.html (FULL)
+     Matches home navbar + your Browse layout
+     ========================= -->
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Browse Cars — REIA Motors</title>
+  <meta name="description" content="Browse quality used vehicles in Aruba. Filter by body type, fuel, transmission, price, and year." />
+  <!-- IMPORTANT: home styles first -->
+  <link rel="stylesheet" href="styles.css" />
+  <!-- browse page tweaks -->
+  <link rel="stylesheet" href="browse.css" />
+</head>
+
+<body>
+  <!-- HEADER (same as HOME) -->
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="index.html#home" aria-label="REIA Motors home">
+        <span class="brand-stack">
+          <span class="brand-name">REIA</span>
+          <span class="brand-tag">Driven by value. Backed by trust.</span>
+        </span>
+      </a>
+
+      <nav class="nav desktop-nav" aria-label="Primary">
+        <a href="index.html#home">Home</a>
+        <a href="browse.html" aria-current="page">Browse Cars</a>
+        <a href="index.html#why">About</a>
+        <a href="index.html#contact">Contact</a>
+      </nav>
+
+      <a class="btn btn-primary btn-sm desktop-cta"
+         href="https://wa.me/2970000000" target="_blank" rel="noreferrer">
+        WhatsApp
+      </a>
+
+      <button class="nav-toggle" id="navToggle" aria-label="Open menu" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+    </div>
+
+    <div class="mobile-nav" id="mobileNav" aria-label="Mobile menu">
+      <a href="browse.html">Browse Cars</a>
+      <a href="index.html#why">About</a>
+      <a href="index.html#contact">Contact</a>
+      <a class="btn btn-primary" href="https://wa.me/2970000000" target="_blank" rel="noreferrer">WhatsApp</a>
+    </div>
+  </header>
+
+  <!-- PAGE -->
+  <main class="page">
+    <div class="container">
+      <div class="page-head">
+        <div>
+          <h1>Browse Cars</h1>
+          <p class="muted"><span id="countText">0</span> Vehicle(s) found</p>
+        </div>
+      </div>
+
+      <div class="layout">
+        <!-- Filters -->
+        <aside class="filters">
+          <form class="filters-card" id="filtersForm">
+            <div class="f-group">
+              <label for="q">Search</label>
+              <input id="q" name="q" placeholder="Toyota, Jeep, 2020…" />
+            </div>
+
+            <div class="f-group">
+              <label for="body">Body type</label>
+              <select id="body" name="body">
+                <option value="">Any</option>
+                <option value="SUV">SUV</option>
+                <option value="Sedan">Sedan</option>
+                <option value="Hatchback">Hatchback</option>
+                <option value="Truck">Truck</option>
+              </select>
+            </div>
+
+            <div class="f-group">
+              <label for="fuel">Fuel</label>
+              <select id="fuel" name="fuel">
+                <option value="">Any</option>
+                <option value="Gasoline">Gasoline</option>
+                <option value="Diesel">Diesel</option>
+                <option value="Hybrid">Hybrid</option>
+                <option value="Electric">Electric</option>
+              </select>
+            </div>
+
+            <div class="f-group">
+              <label for="trans">Transmission</label>
+              <select id="trans" name="trans">
+                <option value="">Any</option>
+                <option value="Automatic">Automatic</option>
+                <option value="Manual">Manual</option>
+              </select>
+            </div>
+
+            <div class="f-group">
+              <label>Price range</label>
+              <div class="f-row">
+                <input id="minPrice" name="minPrice" inputmode="numeric" placeholder="Min" />
+                <input id="maxPrice" name="maxPrice" inputmode="numeric" placeholder="Max" />
+              </div>
+            </div>
+
+            <div class="f-group">
+              <label>Year</label>
+              <div class="f-row">
+                <input id="minYear" name="minYear" inputmode="numeric" placeholder="From" />
+                <input id="maxYear" name="maxYear" inputmode="numeric" placeholder="To" />
+              </div>
+            </div>
+
+            <button class="btn btn-primary f-apply" type="submit">Apply</button>
+          </form>
+        </aside>
+
+        <!-- Results -->
+        <section class="results">
+          <div class="results-grid" id="resultsGrid" aria-live="polite"></div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <script src="browse.js"></script>
+</body>
+</html>
