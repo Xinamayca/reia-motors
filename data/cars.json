@@ -1,3 +1,17 @@
 {
-  "cars": []
+  "cars": [
+    {
+      "km": 42000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Test Car",
+      "id": "test-car",
+      "image": "/uploads/toyota-rav4.png",
+      "year": 2020
+    }
+  ]
 }
