@@ -5,34 +5,19 @@
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>REIA Motors — Aruba</title>
   <meta name="description" content="Browse quality used vehicles in Aruba. Clear info, real photos, and fast WhatsApp response." />
+
+  <!-- Netlify Identity -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+
   <link rel="stylesheet" href="styles.css" />
 </head>
 
-<script>
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", (user) => {
-      const hash = window.location.hash;
-
-      // If Netlify sent a recovery/invite token, open the right modal
-      if (hash.includes("recovery_token")) {
-        window.netlifyIdentity.open("recovery");
-      }
-      if (hash.includes("invite_token")) {
-        window.netlifyIdentity.open("signup");
-      }
-    });
-
-    window.netlifyIdentity.init();
-  }
-</script>
-
 <body>
+
   <!-- HEADER -->
   <header class="site-header">
     <div class="container header-inner">
       <a class="brand" href="#home" aria-label="REIA Motors home">
-    
         <span class="brand-stack">
           <span class="brand-name">REIA</span>
           <span class="brand-tag">Driven by value. Backed by trust.</span>
@@ -47,7 +32,9 @@
       </nav>
 
       <a class="btn btn-primary btn-sm desktop-cta"
-         href="https://wa.me/2970000000" target="_blank" rel="noreferrer">
+         href="https://wa.me/2970000000"
+         target="_blank"
+         rel="noreferrer">
         WhatsApp
       </a>
 
@@ -56,30 +43,37 @@
       </button>
     </div>
 
-    <!-- MOBILE NAV -->
     <div class="mobile-nav" id="mobileNav" aria-label="Mobile menu">
-      <a href="#featured">Browse Cars</a>
+      <a href="browse.html">Browse Cars</a>
       <a href="#why">About</a>
       <a href="#contact">Contact</a>
-      <a class="btn btn-primary" href="https://wa.me/2970000000" target="_blank" rel="noreferrer">WhatsApp</a>
+      <a class="btn btn-primary"
+         href="https://wa.me/2970000000"
+         target="_blank"
+         rel="noreferrer">
+        WhatsApp
+      </a>
     </div>
   </header>
 
   <main id="home">
-     <!-- Global decorative blob -->
-        <img class="global-blob" src="img/blob.png" alt="" aria-hidden="true" />
-    <!-- HERO (image is a background so it never pushes content) -->
+
+    <!-- Decorative blob -->
+    <img class="global-blob" src="img/blob.png" alt="" aria-hidden="true" />
+
+    <!-- HERO -->
     <section class="hero" aria-label="Hero">
       <div class="container hero-inner">
         <div class="hero-copy">
           <h1>Find your next car in Aruba.</h1>
           <p class="muted">
-            Browse quality used vehicles, get clear information, and book a test drive. 
+            Browse quality used vehicles, get clear information, and book a test drive.
             Fastest way to reach us: WhatsApp.
           </p>
 
           <form class="search" action="#featured" method="GET">
             <div class="search-bar">
+
               <div class="field">
                 <label for="q">Search make/model</label>
                 <input id="q" name="q" placeholder="Toyota, Jeep, Kia" />
@@ -116,14 +110,18 @@
                 </select>
               </div>
 
-              <button class="btn btn-primary search-btn" type="submit">Search</button>
+              <button class="btn btn-primary search-btn" type="submit">
+                Search
+              </button>
+
             </div>
 
             <div class="hero-actions">
               <a class="btn btn-secondary" href="#featured">Browse all vehicles</a>
               <a class="btn btn-primary"
                  href="https://wa.me/2970000000?text=Hi%20REIA%20Motors%2C%20what%27s%20new%20in%20your%20inventory%3F"
-                 target="_blank" rel="noreferrer">
+                 target="_blank"
+                 rel="noreferrer">
                 Ask what's new
               </a>
             </div>
@@ -137,7 +135,10 @@
       <div class="container">
         <div class="section-head">
           <h2>Featured vehicles</h2>
-          <p class="muted">These are popular right now. Looking for something specific? Message us on WhatsApp.</p>
+          <p class="muted">
+            These are popular right now. Looking for something specific?
+            Message us on WhatsApp.
+          </p>
         </div>
 
         <div class="cards" id="featuredGrid" aria-live="polite"></div>
@@ -147,11 +148,11 @@
     <!-- WHY -->
     <section class="section why" id="why">
       <div class="container why-inner">
-
-
         <div class="why-copy">
           <h2>Why REIA Motors?</h2>
-          <p class="muted">We keep the process simple: clear info, real photos, and quick communication.</p>
+          <p class="muted">
+            We keep the process simple: clear info, real photos, and quick communication.
+          </p>
 
           <div class="why-cards">
             <div class="why-card">
@@ -160,19 +161,19 @@
             </div>
             <div class="why-card">
               <h3>Transparent pricing</h3>
-              <p>No confusing surprises — you'll see the price and the important details upfront.</p>
+              <p>No confusing surprises — you'll see the price upfront.</p>
             </div>
             <div class="why-card">
               <h3>Trade-ins welcome</h3>
-              <p>Visit our shop and our team will handle photos + consistent listing details.</p>
+              <p>Visit our shop and we’ll handle photos and listing details.</p>
             </div>
             <div class="why-card">
               <h3>Fast WhatsApp response</h3>
-              <p>Questions about availability, paperwork, or test drives? We reply quickly.</p>
+              <p>Questions? We reply quickly.</p>
             </div>
           </div>
         </div>
-
+      </div>
     </section>
 
     <!-- CTA -->
@@ -181,14 +182,15 @@
         <div class="cta-copy">
           <h2>Sell your car with REIA.</h2>
           <p class="muted-dark">
-            Want to sell quickly or trade in? Visit our showroom and we’ll guide you through next steps.
+            Visit our showroom and we’ll guide you through next steps.
           </p>
 
           <div class="cta-actions">
             <a class="btn btn-primary"
-               href="https://wa.me/2970000000?text=Hi%20REIA%20Motors%2C%20I%20want%20to%20sell%20or%20trade%20in%20my%20car.%20Can%20I%20book%20a%20visit%3F"
-               target="_blank" rel="noreferrer">
-              Get an offer on WhatsApp
+               href="https://wa.me/2970000000?text=Hi%20REIA%20Motors%2C%20I%20want%20to%20sell%20or%20trade%20in%20my%20car."
+               target="_blank"
+               rel="noreferrer">
+              Get an offer
             </a>
             <a class="btn btn-secondary" href="#contact">Contact</a>
           </div>
@@ -199,20 +201,14 @@
     <!-- CONTACT -->
     <section class="section" id="contact">
       <div class="container contact-grid">
-
         <div class="contact-card">
           <h2>Let's talk</h2>
 
           <div class="contact-block">
             <h3>Call us</h3>
-            <p class="muted">Have a question or need quick support? Our team is happy to help during office hours.</p>
-            <a class="contact-link" href="tel:+2970000000">+297 000 0000</a>
-          </div>
-
-          <div class="contact-block">
-            <h3>Visit us</h3>
-            <p class="muted">Visit our office in Aruba to view vehicles and book test drives.</p>
-            <div class="muted">Address</div>
+            <a class="contact-link" href="tel:+2970000000">
+              +297 000 0000
+            </a>
           </div>
         </div>
       </div>
@@ -221,16 +217,29 @@
     <!-- FOOTER -->
     <footer class="footer">
       <div class="container footer-inner">
-        <div class="muted">© <span id="year"></span> REIA Motors • Aruba</div>
-        <div class="footer-links">
-          <a href="#featured">Inventory</a>
-          <a href="#why">About</a>
-          <a href="#contact">Contact</a>
+        <div class="muted">
+          © <span id="year"></span> REIA Motors • Aruba
         </div>
       </div>
     </footer>
+
   </main>
 
+  <!-- Identity token redirect -->
+  <script>
+    (function () {
+      const hash = window.location.hash || "";
+      if (hash.includes("invite_token=") || hash.includes("recovery_token=")) {
+        window.location.href = "/admin/" + hash;
+        return;
+      }
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.init();
+      }
+    })();
+  </script>
+
   <script src="app.js"></script>
+
 </body>
 </html>
