@@ -17,7 +17,7 @@ collections:
           - label: "Cars"
             name: "cars"
             widget: "list"
-            summary: "{{fields.title}} — AWG {{fields.price}}"
+            summary: "{{title}} — {{currency}} {{price}}"
             fields:
               - { label: "ID", name: "id", widget: "string" }
               - { label: "Title", name: "title", widget: "string" }
