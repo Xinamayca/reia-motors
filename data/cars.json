@@ -12,6 +12,19 @@
       "id": "test-car",
       "image": "/uploads/toyota-rav4.png",
       "year": 2020
+    },
+    {
+      "km": 15000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 10000,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Jeep ",
+      "id": "Test Jeep",
+      "image": "/uploads/black-jeep-.png",
+      "year": 2022
     }
   ]
 }
