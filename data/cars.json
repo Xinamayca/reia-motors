@@ -26,5 +26,109 @@
       "image": "/uploads/toyota-rav4.png",
       "year": 2021
     }
+    {
+      "id": "toyota-rav4-2021",
+      "title": "2021 Toyota RAV4 XLE",
+      "currency": "AWG",
+      "price": 72500,
+      "body": "SUV",
+      "fuel": "Gasoline",
+      "trans": "Automatic",
+      "km": 38000,
+      "year": 2021,
+      "image": "/uploads/black-jeep-.png",
+      "featured": false
+    },
+    {
+      "id": "nissan-rogue-2020",
+      "title": "2020 Nissan Rogue SV",
+      "currency": "AWG",
+      "price": 67500,
+      "body": "SUV",
+      "fuel": "Gasoline",
+      "trans": "Automatic",
+      "km": 42000,
+      "year": 2020,
+      "image": "/uploads/black-jeep-.png",
+      "featured": true
+    },
+    {
+      "id": "kia-sportage-2019",
+      "title": "2019 Kia Sportage LX",
+      "currency": "AWG",
+      "price": 58900,
+      "body": "SUV",
+      "fuel": "Gasoline",
+      "trans": "Automatic",
+      "km": 55000,
+      "year": 2019,
+      "image": "/uploads/black-jeep-.png",
+      "featured": false
+    },
+    {
+      "id": "ford-ranger-2021",
+      "title": "2021 Ford Ranger XLT",
+      "currency": "AWG",
+      "price": 98500,
+      "body": "Truck",
+      "fuel": "Diesel",
+      "trans": "Automatic",
+      "km": 31000,
+      "year": 2021,
+      "image": "/uploads/black-jeep-.png",
+      "featured": true
+    },
+    {
+      "id": "hyundai-accent-2018",
+      "title": "2018 Hyundai Accent",
+      "currency": "AWG",
+      "price": 34500,
+      "body": "Sedan",
+      "fuel": "Gasoline",
+      "trans": "Automatic",
+      "km": 73000,
+      "year": 2018,
+      "image": "/uploads/black-jeep-.png",
+      "featured": false
+    },
+    {
+      "id": "honda-civic-2020",
+      "title": "2020 Honda Civic Sport",
+      "currency": "AWG",
+      "price": 65900,
+      "body": "Sedan",
+      "fuel": "Gasoline",
+      "trans": "Automatic",
+      "km": 47000,
+      "year": 2020,
+      "image": "/uploads/black-jeep-.png",
+      "featured": false
+    },
+    {
+      "id": "chevrolet-colorado-2022",
+      "title": "2022 Chevrolet Colorado",
+      "currency": "AWG",
+      "price": 104900,
+      "body": "Truck",
+      "fuel": "Diesel",
+      "trans": "Automatic",
+      "km": 18000,
+      "year": 2022,
+      "image": "/uploads/black-jeep-.png",
+      "featured": true
+    },
+    {
+      "id": "mazda-cx5-2021",
+      "title": "2021 Mazda CX-5 Touring",
+      "currency": "AWG",
+      "price": 71500,
+      "body": "SUV",
+      "fuel": "Gasoline",
+      "trans": "Automatic",
+      "km": 36000,
+      "year": 2021,
+      "image": "/uploads/black-jeep-.png",
+      "featured": false
+    }
   ]
 }
