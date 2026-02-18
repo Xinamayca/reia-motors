@@ -25,19 +25,6 @@
       "id": "toyota-rav4-2021",
       "image": "/uploads/toyota-rav4.png",
       "year": 2021
-    }
-    {
-      "id": "toyota-rav4-2021",
-      "title": "2021 Toyota RAV4 XLE",
-      "currency": "AWG",
-      "price": 72500,
-      "body": "SUV",
-      "fuel": "Gasoline",
-      "trans": "Automatic",
-      "km": 38000,
-      "year": 2021,
-      "image": "/uploads/black-jeep-.png",
-      "featured": false
     },
     {
       "id": "nissan-rogue-2020",
