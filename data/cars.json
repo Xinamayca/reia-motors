@@ -1,3 +1,17 @@
 {
-  "cars": []
+  "cars": [
+    {
+      "km": 20000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 122490,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "2022 Jeep Wrangler Sahar",
+      "id": "jeep-wrangler-2022",
+      "image": "/uploads/black-jeep-.png",
+      "year": 2022
+    }
+  ]
 }
