@@ -8,16 +8,21 @@ public_folder: "/uploads"
 collections:
   - name: "cars"
     label: "Cars"
-    folder: "data/cars"
-    create: true
-    slug: "{{slug}}"
+    file: "data/cars.json"
+    format: "json"
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Price", name: "price", widget: "string" }
-      - { label: "Body", name: "body", widget: "string" }
-      - { label: "Fuel", name: "fuel", widget: "string" }
-      - { label: "KM", name: "km", widget: "string" }
-      - { label: "Transmission", name: "trans", widget: "string" }
-      - { label: "Year", name: "year", widget: "number" }
-      - { label: "Image", name: "image", widget: "image" }
-      - { label: "Featured", name: "featured", widget: "boolean", default: false }
+      - label: "Cars"
+        name: "cars"
+        widget: "list"
+        fields:
+          - { label: "ID", name: "id", widget: "string" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Currency", name: "currency", widget: "string", default: "AWG" }
+          - { label: "Price", name: "price", widget: "number" }
+          - { label: "Body", name: "body", widget: "string" }
+          - { label: "Fuel", name: "fuel", widget: "string" }
+          - { label: "KM", name: "km", widget: "number" }
+          - { label: "Transmission", name: "trans", widget: "string" }
+          - { label: "Year", name: "year", widget: "number" }
+          - { label: "Image", name: "image", widget: "image" }
+          - { label: "Featured", name: "featured", widget: "boolean", default: false }
