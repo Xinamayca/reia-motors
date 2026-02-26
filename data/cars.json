@@ -25,6 +25,19 @@
       "id": "Test Jeep",
       "image": "/uploads/black-jeep-.png",
       "year": 2022
+    },
+    {
+      "km": 40000,
+      "body": "Truck",
+      "trans": "Manual",
+      "price": 100000,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Diesel",
+      "title": "Big car",
+      "id": "car",
+      "image": "/uploads/blue-nissan.png",
+      "year": 2000
     }
   ]
 }
