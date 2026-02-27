@@ -28,16 +28,16 @@
     },
     {
       "km": 40000,
-      "body": "Truck",
-      "trans": "Manual",
-      "price": 100000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 50000,
       "featured": true,
       "currency": "AWG",
-      "fuel": "Diesel",
-      "title": "Big car",
-      "id": "car",
-      "image": "/uploads/blue-nissan.png",
-      "year": 2000
+      "fuel": "Gasoline",
+      "title": "Honda Civic Hatchback ",
+      "id": "0065",
+      "image": "/uploads/whatsapp-image-2026-02-26-at-15.38.28.jpeg",
+      "year": 2021
     }
   ]
 }
