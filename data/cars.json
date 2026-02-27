@@ -1,16 +1,16 @@
 {
   "cars": [
     {
-      "km": 42000,
-      "body": "SUV",
+      "km": 100,
+      "body": "Hatchback",
       "trans": "Automatic",
-      "price": 20000,
+      "price": 22,
       "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "Test Car",
-      "id": "test-car",
-      "image": "/uploads/toyota-rav4.png",
+      "title": "Kia Picanto ",
+      "id": "0560",
+      "image": "/uploads/whatsapp-image-2026-02-26-at-17.15.51.jpeg-.jpeg",
       "year": 2020
     },
     {
