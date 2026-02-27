@@ -1,10 +1,10 @@
 {
   "cars": [
     {
-      "km": 100,
+      "km": 100000,
       "body": "Hatchback",
       "trans": "Automatic",
-      "price": 23,
+      "price": 23000,
       "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
