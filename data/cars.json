@@ -64,6 +64,19 @@
       "id": "2796",
       "image": "/uploads/whatsapp-image-2026-02-26-at-15.31.25.jpeg",
       "year": 2018
+    },
+    {
+      "km": 111998,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 70000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Ford Expedition ",
+      "id": "5658",
+      "image": "/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg",
+      "year": 2019
     }
   ]
 }
