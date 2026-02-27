@@ -38,6 +38,19 @@
       "id": "0065",
       "image": "/uploads/whatsapp-image-2026-02-26-at-15.38.28.jpeg",
       "year": 2021
+    },
+    {
+      "km": 49000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Hyundai Sonata ",
+      "id": "1869",
+      "image": "/uploads/whatsapp-image-2026-02-26-at-15.28.18.jpeg",
+      "year": 2014
     }
   ]
 }
