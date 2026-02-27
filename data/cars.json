@@ -51,6 +51,19 @@
       "id": "1869",
       "image": "/uploads/whatsapp-image-2026-02-26-at-15.28.18.jpeg",
       "year": 2014
+    },
+    {
+      "km": 129000,
+      "body": "SUV",
+      "trans": "Manual",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Ford Transit Van ",
+      "id": "2796",
+      "image": "/uploads/whatsapp-image-2026-02-26-at-15.31.25.jpeg",
+      "year": 2018
     }
   ]
 }
