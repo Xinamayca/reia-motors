@@ -90,6 +90,19 @@
       "id": "4122",
       "image": "/uploads/whatsapp-image-2026-02-27-at-16.53.32.jpeg",
       "year": 2013
+    },
+    {
+      "km": 0,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 60000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Electric",
+      "title": "Honda E-NS1",
+      "id": "0496",
+      "image": "/uploads/whatsapp-image-2026-02-27-at-17.11.32.jpeg",
+      "year": 2024
     }
   ]
 }
