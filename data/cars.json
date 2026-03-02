@@ -31,7 +31,7 @@
       "body": "Hatchback",
       "trans": "Automatic",
       "price": 50000,
-      "featured": false,
+      "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "Honda Civic Hatchback ",
