@@ -116,6 +116,19 @@
       "id": "0541",
       "image": "/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg",
       "year": 2025
+    },
+    {
+      "km": 92000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 21000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Hyundai Accent ",
+      "id": "2728",
+      "image": "/uploads/whatsapp-image-2026-03-02-at-19.12.36.jpeg",
+      "year": 2018
     }
   ]
 }
