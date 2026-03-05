@@ -129,6 +129,19 @@
       "id": "2728",
       "image": "/uploads/whatsapp-image-2026-03-02-at-19.12.36.jpeg",
       "year": 2018
+    },
+    {
+      "km": 86000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Renault Logan ",
+      "id": "0974",
+      "image": "/uploads/whatsapp-image-2026-03-03-at-20.37.48.jpeg",
+      "year": 2019
     }
   ]
 }
