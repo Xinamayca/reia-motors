@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About — REIA Motors</title>
+  <link rel="stylesheet" href="about.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap" rel="stylesheet"/>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-logo">REIA</div>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="browse.html">Browse Cars</a></li>
+      <li><a href="about.html" class="active">About</a></li>
+      <li><a href="index.html#contact">Contact</a></li>
+    </ul>
+    <button class="nav-burger" id="navBurger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <!-- MOBILE NAV -->
+  <div class="nav-mobile" id="navMobile">
+    <a href="index.html">Home</a>
+    <a href="browse.html">Browse Cars</a>
+    <a href="about.html" class="active">About</a>
+    <a href="index.html#contact">Contact</a>
+  </div>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-text">
+      <p class="label">ABOUT REIA MOTORS</p>
+      <h1>Driven by <em>Value</em>, Backed by Trust</h1>
+      <p class="hero-sub">For years, REIA Motors has been Aruba's most trusted name in quality used vehicles. We don't just sell cars, we make the road ahead feel possible.</p>
+    </div>
+    <div class="hero-blob">
+      <img src="img/blob.png" alt="" aria-hidden="true" />
+    </div>
+  </section>
+
+  <!-- MISSION + VALUES -->
+  <section class="mission-values">
+    <div class="mission">
+      <p class="label">OUR MISSION</p>
+      <h2>To move people — not just from A to B, but forward in life.</h2>
+      <p>At REIA Motors, our mission is to provide every client with a transparent, personal, and genuinely stress-free automotive experience. We believe the right vehicle changes everything — and finding it should feel effortless.</p>
+      <p>We curate our inventory with care, advise with honesty, and stand behind every vehicle we sell. No pressure. No surprises. Just value.</p>
+    </div>
+
+    <div class="divider-line"></div>
+
+    <div class="values">
+      <p class="label">OUR VALUES</p>
+      <h2>What we stand for</h2>
+      <ul class="values-list">
+        <li>
+          <span class="num">01</span>
+          <div>
+            <strong>Transparency First</strong>
+            <p>Clear pricing, honest assessments, and zero hidden fees — always.</p>
+          </div>
+        </li>
+        <li>
+          <span class="num">02</span>
+          <div>
+            <strong>Curated Quality</strong>
+            <p>Every vehicle is handpicked to meet our standard before it meets yours.</p>
+          </div>
+        </li>
+        <li>
+          <span class="num">03</span>
+          <div>
+            <strong>Client-First Service</strong>
+            <p>Every vehicle undergoes a thorough inspection before earning a </p>
+          </div>
+        </li>
+        <li>
+          <span class="num">04</span>
+          <div>
+            <strong>Community Roots</strong>
+            <p>Born in Aruba, built for Aruba — giving back is part of who we are.</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- TEAM -->
+  <section class="team">
+    <div class="team-header">
+      <div class="team-header-left">
+        <p class="label">OUR TEAM</p>
+        <h2>The people behind every great drive.</h2>
+      </div>
+      <p class="team-sub">Our team brings genuine passion, local knowledge, and an unwavering commitment to your satisfaction — every single time.</p>
+    </div>
+
+    <div class="team-grid">
+
+      <div class="team-card">
+        <div class="team-photo"></div>
+        <div class="team-info">
+          <h3>Franshone Mejia</h3>
+          <span class="role">OPERATION MANAGER</span>
+          <p>Franshone keeps everything running like clockwork. With over 8 years in automotive operations, she ensures every vehicle purchase is smooth, efficient, and stress-free from lot to delivery.</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="team-photo"></div>
+        <div class="team-info">
+          <h3>Aiden Croes</h3>
+          <span class="role">MARKETING MANAGER</span>
+          <p>Aiden is the voice behind the REIA brand. He crafts campaigns that connect with real people, turning browsers into buyers through honest storytelling and local community insight.</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="team-photo"></div>
+        <div class="team-info">
+          <h3>Eugene Lacle</h3>
+          <span class="role">MANAGING DIRECTOR</span>
+          <p>Eugene founded REIA Motors with one vision: make car buying in Aruba feel different. He leads with integrity, and his hands-on approach sets the standard for everything we do.</p>
+        </div>
+      </div>
+
+      <div class="team-card">
+        <div class="team-photo"></div>
+        <div class="team-info">
+          <h3>Zanelle Flannegin</h3>
+          <span class="role">HEAD OF STRUCTURE & STRATEGY</span>
+          <p>Zanelle is the architect of how REIA operates at every level. From pricing models to long-term growth, she builds the systems that keep the business strong and the experience consistent.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 REIA Motors • Aruba</p>
+    <ul>
+      <li><a href="#">Inventory</a></li>
+      <li><a href="#">Sell your car</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </footer>
+
+  <script>
+    const burger = document.getElementById("navBurger");
+    const mobile = document.getElementById("navMobile");
+    burger.addEventListener("click", () => {
+      const open = mobile.classList.toggle("open");
+      burger.setAttribute("aria-expanded", String(open));
+    });
+    mobile.querySelectorAll("a").forEach(a => {
+      a.addEventListener("click", () => {
+        mobile.classList.remove("open");
+        burger.setAttribute("aria-expanded", "false");
+      });
+    });
+  </script>
+</body>
+</html>
