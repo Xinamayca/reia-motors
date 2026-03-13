@@ -6,15 +6,6 @@
 
 const WHATSAPP_NUMBER = "2970000000";
 
-/* Mobile nav toggle (same behavior as home) */
-const navToggle = document.getElementById("navToggle");
-const mobileNav = document.getElementById("mobileNav");
-
-navToggle?.addEventListener("click", () => {
-  const open = mobileNav.classList.toggle("open");
-  navToggle.setAttribute("aria-expanded", String(open));
-});
-
 function waLink(msg){
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`;
 }
