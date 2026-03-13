@@ -1,23 +1,17 @@
-<!-- =========================
-     browse.html (FULL)
-     Matches home navbar + your Browse layout
-     ========================= -->
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Browse Cars — REIA Motors</title>
   <meta name="description" content="Browse quality used vehicles in Aruba. Filter by body type, fuel, transmission, price, and year." />
-  <!-- IMPORTANT: home styles first -->
-  <link rel="stylesheet" href="styles.css" />
-  <!-- browse page tweaks -->
   <link rel="stylesheet" href="browse.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet"/>
 </head>
-
 <body>
+
   <!-- NAV -->
-  <nav class="site-nav">
+  <nav id="siteNav" class="nav-solid">
     <div class="nav-logo">REIA</div>
     <ul class="nav-links">
       <li><a href="index.html">Home</a></li>
@@ -25,12 +19,13 @@
       <li><a href="about.html">About</a></li>
       <li><a href="index.html#contact">Contact</a></li>
     </ul>
-    <button class="nav-burger" id="navToggle" aria-label="Open menu" aria-expanded="false">
+    <button class="nav-burger" id="navBurger" aria-label="Open menu" aria-expanded="false">
       <span></span><span></span><span></span>
     </button>
   </nav>
 
-  <div class="nav-mobile" id="mobileNav">
+  <!-- MOBILE NAV -->
+  <div class="nav-mobile" id="navMobile">
     <a href="index.html">Home</a>
     <a href="browse.html" class="active">Browse Cars</a>
     <a href="about.html">About</a>
@@ -38,19 +33,21 @@
   </div>
 
   <!-- PAGE -->
-  <main class="page">
-    <div class="container">
-      <div class="page-head">
-        <div>
-          <h1>Browse Cars</h1>
-          <p class="muted"><span id="countText">0</span> Vehicle(s) found</p>
-        </div>
-      </div>
+  <main class="browse-page">
+    <div class="browse-container">
 
-      <div class="layout">
-        <!-- Filters -->
+      <div class="browse-layout">
+
+        <!-- Left column: header + filters -->
         <aside class="filters">
+          <!-- Page header -->
+          <div class="browse-head">
+            <p class="label">INVENTORY</p>
+            <h1>Browse Cars</h1>
+            <p class="browse-count"><span id="countText">0</span> vehicle(s) found</p>
+          </div>
           <form class="filters-card" id="filtersForm">
+
             <div class="f-group">
               <label for="q">Search</label>
               <input id="q" name="q" placeholder="Toyota, Jeep, 2020…" />
@@ -88,7 +85,7 @@
             </div>
 
             <div class="f-group">
-              <label>Price range</label>
+              <label>Price range (AWG)</label>
               <div class="f-row">
                 <input id="minPrice" name="minPrice" inputmode="numeric" placeholder="Min" />
                 <input id="maxPrice" name="maxPrice" inputmode="numeric" placeholder="Max" />
@@ -103,7 +100,8 @@
               </div>
             </div>
 
-            <button class="btn btn-primary f-apply" type="submit">Apply</button>
+            <button class="btn-gradient f-apply" type="submit">Apply filters</button>
+
           </form>
         </aside>
 
@@ -111,9 +109,36 @@
         <section class="results">
           <div class="results-grid" id="resultsGrid" aria-live="polite"></div>
         </section>
+
       </div>
     </div>
   </main>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 REIA Motors • Aruba</p>
+    <ul>
+      <li><a href="browse.html">Inventory</a></li>
+      <li><a href="index2.html#sell-form">Sell your car</a></li>
+      <li><a href="index2.html#contact">Contact</a></li>
+    </ul>
+  </footer>
+
+  <script>
+    // Mobile nav burger
+    const burger = document.getElementById("navBurger");
+    const mobileNav = document.getElementById("navMobile");
+    burger.addEventListener("click", () => {
+      const open = mobileNav.classList.toggle("open");
+      burger.setAttribute("aria-expanded", String(open));
+    });
+    mobileNav.querySelectorAll("a").forEach(a => {
+      a.addEventListener("click", () => {
+        mobileNav.classList.remove("open");
+        burger.setAttribute("aria-expanded", "false");
+      });
+    });
+  </script>
 
   <script src="browse.js"></script>
 </body>

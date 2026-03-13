@@ -1,230 +1,282 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>REIA Motors — Aruba</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>REIA Motors — Find Your Next Car in Aruba</title>
   <meta name="description" content="Browse quality used vehicles in Aruba. Clear info, real photos, and fast WhatsApp response." />
-
+  <link rel="stylesheet" href="index.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet"/>
   <!-- Netlify Identity -->
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
-  <link rel="stylesheet" href="styles.css" />
 </head>
-
 <body>
 
   <!-- NAV -->
-  <nav class="site-nav">
+  <nav id="siteNav">
     <div class="nav-logo">REIA</div>
     <ul class="nav-links">
-      <li><a href="#home">Home</a></li>
+      <li><a href="#home" class="active">Home</a></li>
       <li><a href="browse.html">Browse Cars</a></li>
       <li><a href="about.html">About</a></li>
       <li><a href="#contact">Contact</a></li>
     </ul>
-    <button class="nav-burger" id="navToggle" aria-label="Open menu" aria-expanded="false">
+    <button class="nav-burger" id="navBurger" aria-label="Open menu" aria-expanded="false">
       <span></span><span></span><span></span>
     </button>
   </nav>
 
-  <div class="nav-mobile" id="mobileNav">
+  <!-- MOBILE NAV -->
+  <div class="nav-mobile" id="navMobile">
     <a href="#home">Home</a>
     <a href="browse.html">Browse Cars</a>
     <a href="about.html">About</a>
     <a href="#contact">Contact</a>
   </div>
 
-  <main id="home">
+  <!-- HERO -->
+  <section class="hero" id="home">
 
-    <!-- Decorative blob -->
-    <img class="global-blob" src="img/blob.png" alt="" aria-hidden="true" />
+    <div class="hero-bg">
+      <video autoplay muted loop playsinline>
+        <source src="img/BMW M3 Competition - 4K Cinematic Short Video - Damir Who (720p, h264, youtube).mp4" type="video/mp4">
+      </video>
+      <div class="hero-overlay"></div>
+    </div>
 
-    <!-- HERO -->
-    <section class="hero" aria-label="Hero">
-      <div class="container hero-inner">
-        <div class="hero-copy">
-          <h1>Find your next car in Aruba.</h1>
-          <p class="muted">
-            Browse quality used vehicles, get clear information, and book a test drive.
-            Fastest way to reach us: WhatsApp.
-          </p>
+    <div class="hero-content">
+      <p class="label">ARUBA'S TRUSTED CAR DEALER</p>
+      <h1>Find your next<br>car in <em>Aruba.</em></h1>
+      <p class="hero-sub">Browse quality used vehicles, get clear information, and book a test drive — from anywhere on the island.</p>
 
-          <form class="search" action="#featured" method="GET">
-            <div class="search-bar">
-
-              <div class="field">
-                <label for="q">Search make/model</label>
-                <input id="q" name="q" placeholder="Toyota, Jeep, Kia" />
-              </div>
-
-              <div class="field">
-                <label for="body">Body type</label>
-                <select id="body" name="body">
-                  <option value="">Any</option>
-                  <option>SUV</option>
-                  <option>Sedan</option>
-                  <option>Hatchback</option>
-                  <option>Truck</option>
-                </select>
-              </div>
-
-              <div class="field">
-                <label for="fuel">Fuel type</label>
-                <select id="fuel" name="fuel">
-                  <option value="">Any</option>
-                  <option>Gasoline</option>
-                  <option>Diesel</option>
-                  <option>Hybrid</option>
-                  <option>Electric</option>
-                </select>
-              </div>
-
-              <div class="field">
-                <label for="trans">Transmission</label>
-                <select id="trans" name="trans">
-                  <option value="">Any</option>
-                  <option>Automatic</option>
-                  <option>Manual</option>
-                </select>
-              </div>
-
-              <button class="btn btn-primary search-btn" type="submit">
-                Search
-              </button>
-
-            </div>
-
-            <div class="hero-actions">
-              <a class="btn btn-secondary" href="#featured">Browse all vehicles</a>
-              <a class="btn btn-primary"
-                 href="https://wa.me/2970000000?text=Hi%20REIA%20Motors%2C%20what%27s%20new%20in%20your%20inventory%3F"
-                 target="_blank"
-                 rel="noreferrer">
-                Ask what's new
-              </a>
-            </div>
-          </form>
-        </div>
+      <div class="search-bar">
+        <input type="text" placeholder="Search make / model" />
+        <select>
+          <option>Body type</option>
+          <option>SUV</option>
+          <option>Sedan</option>
+          <option>Truck</option>
+          <option>Hatchback</option>
+        </select>
+        <select>
+          <option>Fuel type</option>
+          <option>Gasoline</option>
+          <option>Diesel</option>
+          <option>Hybrid</option>
+          <option>Electric</option>
+        </select>
+        <select>
+          <option>Transmission</option>
+          <option>Automatic</option>
+          <option>Manual</option>
+        </select>
+        <button class="btn-search">Search</button>
       </div>
-    </section>
 
-    <!-- FEATURED -->
-    <section class="section" id="featured">
-      <div class="container">
-        <div class="section-head">
-          <h2>Featured vehicles</h2>
-          <p class="muted">
-            These are popular right now. Looking for something specific?
-            Message us on WhatsApp.
-          </p>
-        </div>
-
-        <div class="cards" id="featuredGrid" aria-live="polite"></div>
+      <div class="hero-actions">
+        <a href="browse.html" class="btn-outline">Browse all vehicles</a>
+        <a href="https://wa.me/2970000000?text=Hi%20REIA%20Motors%2C%20what%27s%20new%20in%20your%20inventory%3F" target="_blank" rel="noreferrer" class="btn-ghost">Ask what's new →</a>
       </div>
-    </section>
+    </div>
 
-    <!-- WHY -->
-    <section class="section why" id="why">
-      <div class="container why-inner">
-        <div class="why-copy">
-          <h2>Why REIA Motors?</h2>
-          <p class="muted">
-            We keep the process simple: clear info, real photos, and quick communication.
-          </p>
+  </section>
 
-          <div class="why-cards">
-            <div class="why-card">
-              <h3>Inspected vehicles</h3>
-              <p>We share condition details and key specs so you can decide confidently.</p>
-            </div>
-            <div class="why-card">
-              <h3>Transparent pricing</h3>
-              <p>No confusing surprises — you'll see the price upfront.</p>
-            </div>
-            <div class="why-card">
-              <h3>Trade-ins welcome</h3>
-              <p>Visit our shop and we’ll handle photos and listing details.</p>
-            </div>
-            <div class="why-card">
-              <h3>Fast WhatsApp response</h3>
-              <p>Questions? We reply quickly.</p>
-            </div>
+  <!-- FEATURED VEHICLES -->
+  <section class="featured" id="featured">
+    <div class="section-header">
+      <div>
+        <p class="label">FEATURED VEHICLES</p>
+        <h2>Popular right now.</h2>
+      </div>
+      <p class="section-sub">Looking for something specific? <a href="https://wa.me/2970000000">Message us on WhatsApp.</a></p>
+    </div>
+
+    <div class="cars-grid" id="featuredGrid"></div>
+  </section>
+
+  <!-- WHY REIA -->
+  <section class="why" id="why">
+    <div class="why-left">
+      <p class="label">WHY REIA MOTORS</p>
+      <h2>A smarter way to buy and sell in Aruba.</h2>
+      <p>We keep the process simple — clear information, real photos, and quick communication. No dealership pressure. No hidden costs. Just honest service, island-wide.</p>
+      <a href="about.html" class="btn-outline" style="margin-top: 32px; display: inline-block;">Learn about us →</a>
+    </div>
+
+    <div class="why-right">
+      <ul class="why-list">
+        <li>
+          <span class="why-num">01</span>
+          <div>
+            <strong>Inspected Vehicles</strong>
+            <p>Every car is evaluated by our trained team. We share condition details and key specs so you can decide confidently.</p>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- CTA -->
-    <section class="cta">
-      <div class="container cta-inner">
-        <div class="cta-copy">
-          <h2>Sell your car with REIA.</h2>
-          <p class="muted-dark">
-            Visit our showroom and we’ll guide you through next steps.
-          </p>
-
-          <div class="cta-actions">
-            <a class="btn btn-primary"
-               href="https://wa.me/2970000000?text=Hi%20REIA%20Motors%2C%20I%20want%20to%20sell%20or%20trade%20in%20my%20car."
-               target="_blank"
-               rel="noreferrer">
-              Get an offer
-            </a>
-            <a class="btn btn-secondary" href="#contact">Contact</a>
+        </li>
+        <li>
+          <span class="why-num">02</span>
+          <div>
+            <strong>Transparent Pricing</strong>
+            <p>No confusing surprises — you'll see the price and all the important details upfront, always.</p>
           </div>
-        </div>
-      </div>
-    </section>
-
-    <!-- CONTACT -->
-    <section class="section" id="contact">
-      <div class="container contact-grid">
-        <div class="contact-card">
-          <h2>Let's talk</h2>
-
-          <div class="contact-block">
-            <h3>Call us</h3>
-            <a class="contact-link" href="tel:+2970000000">
-              +297 000 0000
-            </a>
+        </li>
+        <li>
+          <span class="why-num">03</span>
+          <div>
+            <strong>Trade-ins Welcome</strong>
+            <p>Send us your car details and photos and we'll give you an honest estimate quickly.</p>
           </div>
-        </div>
+        </li>
+        <li>
+          <span class="why-num">04</span>
+          <div>
+            <strong>Fast WhatsApp Response</strong>
+            <p>Questions about availability, paperwork, or test drives? We reply quickly — every time.</p>
+          </div>
+        </li>
+      </ul>
+    </div>
+  </section>
+
+  <!-- SELL YOUR CAR -->
+  <section class="sell">
+    <div class="sell-inner">
+      <div class="sell-text">
+        <p class="label" style="color: rgba(255,255,255,0.5);">SELL YOUR CAR WITH REIA</p>
+        <h2>Ready to sell? <em>We make it easy.</em></h2>
+        <p>Want to sell quickly or trade in? Fill out our simple form and we'll reach out to let you know if we can sell your car. No obligation — just a quick, honest answer.</p>
       </div>
-    </section>
-
-    <!-- FOOTER -->
-    <footer class="footer">
-      <div class="container footer-inner">
-        <div class="muted">
-          © <span id="year"></span> REIA Motors • Aruba
-        </div>
+      <div class="sell-actions">
+        <a href="https://wa.me/2970000000?text=Hi%20REIA%20Motors%2C%20I%20want%20to%20sell%20or%20trade%20in%20my%20car." target="_blank" rel="noreferrer" class="btn-gradient">Get an offer on WhatsApp</a>
+        <a href="#contact" class="btn-outline-light">Contact us</a>
       </div>
-    </footer>
+    </div>
+    <div class="sell-blob"><div class="blob blob-sell"></div></div>
+  </section>
 
-  </main>
+  <!-- CONTACT -->
+  <section class="contact" id="contact">
+    <div class="contact-right">
+      <p class="label">GET IN TOUCH</p>
+      <h2>Let's talk.</h2>
 
- <script>
+      <div class="contact-items">
+        <a href="https://wa.me/2970000000" class="contact-item">
+          <span class="contact-icon">💬</span>
+          <div>
+            <strong>WhatsApp</strong>
+            <span>+297 000 0000</span>
+          </div>
+        </a>
+        <a href="tel:+2970000000" class="contact-item">
+          <span class="contact-icon">📞</span>
+          <div>
+            <strong>Call us</strong>
+            <span>+297 000 0000</span>
+          </div>
+        </a>
+        <a href="mailto:reiamotorsaruba@gmail.com" class="contact-item">
+          <span class="contact-icon">✉️</span>
+          <div>
+            <strong>Email</strong>
+            <span>reiamotorsaruba@gmail.com</span>
+          </div>
+        </a>
+        <a href="https://www.instagram.com/reiamotors/" target="_blank" rel="noreferrer" class="contact-item">
+          <span class="contact-icon">📸</span>
+          <div>
+            <strong>Instagram</strong>
+            <span>@reiamotors</span>
+          </div>
+        </a>
+        <a href="https://www.facebook.com/reiamotorsaruba" target="_blank" rel="noreferrer" class="contact-item">
+          <span class="contact-icon">👥</span>
+          <div>
+            <strong>Facebook</strong>
+            <span>Reia Aruba</span>
+          </div>
+        </a>
+        <a href="#" class="contact-item">
+          <span class="contact-icon">📍</span>
+          <div>
+            <strong>Address</strong>
+            <span>Westraat 2, Oranjestad, Aruba</span>
+          </div>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 REIA Motors • Aruba</p>
+    <ul>
+      <li><a href="browse.html">Inventory</a></li>
+      <li><a href="#contact">Contact</a></li>
+    </ul>
+  </footer>
+
+  <script>
     (function () {
       const hash = window.location.hash || "";
-
       if (
         hash.includes("confirmation_token=") ||
         hash.includes("invite_token=") ||
         hash.includes("recovery_token=")
       ) {
-        // Forward token to admin page
         window.location.replace("/admin/" + hash);
         return;
       }
-
       if (window.netlifyIdentity) {
         window.netlifyIdentity.init();
       }
     })();
-  </script>
 
-  <script src="app.js"></script>
+    // Load featured cars
+    fetch('/data/cars.json', { cache: 'no-store' })
+      .then(r => r.json())
+      .then(data => {
+        const featured = (data.cars || []).filter(c => c.featured).slice(0, 3);
+        const grid = document.getElementById('featuredGrid');
+        if (!grid) return;
+        grid.innerHTML = featured.map(c => `
+          <div class="car-card">
+            <div class="car-img" style="background-image:url('${c.image}');background-size:cover;background-position:center;"></div>
+            <div class="car-info">
+              <div class="car-top">
+                <span class="car-name">${c.year} ${c.title.trim()}</span>
+                <span class="car-price">${c.currency} ${Number(c.price).toLocaleString('en-US')}</span>
+              </div>
+              <p class="car-meta">${c.body} · ${c.fuel} · ${Number(c.km).toLocaleString('en-US')} km · ${c.trans}</p>
+              <div class="car-actions">
+                <a href="car.html?id=${c.id}" class="btn-outline-sm">View Details</a>
+                <a href="https://wa.me/2970000000?text=${encodeURIComponent('Hi REIA Motors, I\'m interested in the ' + c.year + ' ' + c.title.trim() + '. Is it still available?')}" target="_blank" rel="noreferrer" class="btn-gradient-sm">WhatsApp</a>
+              </div>
+            </div>
+          </div>
+        `).join('');
+      })
+      .catch(() => {});
+
+    // Sticky nav — transparent over hero, white bg when scrolled
+    const nav = document.getElementById("siteNav");
+    window.addEventListener("scroll", () => {
+      nav.classList.toggle("nav-scrolled", window.scrollY > 60);
+    });
+
+    // Mobile nav burger
+    const burger = document.getElementById("navBurger");
+    const mobileNav = document.getElementById("navMobile");
+    burger.addEventListener("click", () => {
+      const open = mobileNav.classList.toggle("open");
+      burger.setAttribute("aria-expanded", String(open));
+    });
+    mobileNav.querySelectorAll("a").forEach(a => {
+      a.addEventListener("click", () => {
+        mobileNav.classList.remove("open");
+        burger.setAttribute("aria-expanded", "false");
+      });
+    });
+  </script>
 
 </body>
 </html>
