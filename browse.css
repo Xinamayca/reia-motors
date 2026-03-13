@@ -177,7 +177,7 @@ nav {
 /* ── Filters sidebar ── */
 .filters {
   position: sticky;
-  top: 76px;
+  top: 100px;
 }
 
 .filters-card {
