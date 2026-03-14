@@ -47,6 +47,7 @@ nav {
 }
 
 .nav-logo {
+  text-decoration: none;
   font-family: Georgia, serif;
   font-size: 25px;
   letter-spacing: 0.05em;

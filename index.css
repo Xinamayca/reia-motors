@@ -54,6 +54,7 @@ nav.nav-scrolled {
 }
 
 .nav-logo {
+  text-decoration: none;
   font-family: Georgia, serif;
   font-size: 25px;
   letter-spacing: 0.05em;
@@ -62,6 +63,7 @@ nav.nav-scrolled {
 }
 
 nav.nav-scrolled .nav-logo {
+  text-decoration: none;
   background: linear-gradient(135deg, var(--purple), var(--pink));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
