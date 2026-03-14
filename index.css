@@ -881,6 +881,26 @@ footer ul a:hover { color: var(--text); }
 /* =====================
    RESPONSIVE
 ===================== */
+@media (max-width: 768px) {
+  nav {
+    background: rgba(255, 255, 255, 0.96);
+    backdrop-filter: blur(12px);
+    border-bottom: 1px solid var(--border);
+  }
+  .nav-logo {
+    background: linear-gradient(135deg, var(--purple), var(--pink));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .nav-burger {
+    border-color: var(--border);
+  }
+  .nav-burger span {
+    background: var(--text);
+  }
+}
+
 @media (max-width: 960px) {
   :root { --side-pad: 32px; }
 
