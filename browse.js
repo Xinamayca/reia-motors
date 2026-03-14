@@ -102,12 +102,21 @@ function render(cars){
   `).join("");
 }
 
+function applyUrlParams() {
+  const params = new URLSearchParams(window.location.search);
+  if (params.get("q"))     { const el = document.getElementById("q");     if (el) el.value = params.get("q"); }
+  if (params.get("body"))  { const el = document.getElementById("body");  if (el) el.value = params.get("body"); }
+  if (params.get("fuel"))  { const el = document.getElementById("fuel");  if (el) el.value = params.get("fuel"); }
+  if (params.get("trans")) { const el = document.getElementById("trans"); if (el) el.value = params.get("trans"); }
+}
+
 let ALL = [];
 
 async function init(){
   try {
     ALL = await fetchCars();
-    render(ALL);
+    applyUrlParams();
+    render(applyFilters(ALL, readFilters()));
 
     const form = document.getElementById("filtersForm");
     form?.addEventListener("submit", (e) => {

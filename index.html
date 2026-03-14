@@ -50,9 +50,9 @@
       <p class="hero-sub">Browse quality used vehicles, get clear information, and book a test drive — from anywhere on the island.</p>
 
       <div class="search-bar">
-        <input type="text" placeholder="Search make / model" />
-        <select>
-          <option>Body type</option>
+        <input id="heroQ" type="text" placeholder="Search make / model" />
+        <select id="heroBody">
+          <option value="">Body type</option>
           <option>SUV</option>
           <option>Sedan</option>
           <option>Truck</option>
@@ -60,19 +60,19 @@
           <option>Van</option>
           <option>Motorcycle</option>
         </select>
-        <select>
-          <option>Fuel type</option>
+        <select id="heroFuel">
+          <option value="">Fuel type</option>
           <option>Gasoline</option>
           <option>Diesel</option>
           <option>Hybrid</option>
           <option>Electric</option>
         </select>
-        <select>
-          <option>Transmission</option>
+        <select id="heroTrans">
+          <option value="">Transmission</option>
           <option>Automatic</option>
           <option>Manual</option>
         </select>
-        <button class="btn-search">Search</button>
+        <button class="btn-search" id="heroSearch">Search</button>
       </div>
 
       <div class="hero-actions">
@@ -258,6 +258,20 @@
         `).join('');
       })
       .catch(() => {});
+
+    // Hero search → browse page with filters
+    document.getElementById("heroSearch").addEventListener("click", () => {
+      const params = new URLSearchParams();
+      const q = document.getElementById("heroQ").value.trim();
+      const body = document.getElementById("heroBody").value;
+      const fuel = document.getElementById("heroFuel").value;
+      const trans = document.getElementById("heroTrans").value;
+      if (q) params.set("q", q);
+      if (body) params.set("body", body);
+      if (fuel) params.set("fuel", fuel);
+      if (trans) params.set("trans", trans);
+      window.location.href = "browse.html" + (params.toString() ? "?" + params.toString() : "");
+    });
 
     // Sticky nav — transparent over hero, white bg when scrolled
     const nav = document.getElementById("siteNav");
