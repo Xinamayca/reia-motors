@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Contact — REIA Motors</title>
+  <meta name="description" content="Get in touch with REIA Motors Aruba via WhatsApp, phone, email, or social media." />
+  <link rel="stylesheet" href="contact.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet"/>
+</head>
+<body>
+
+  <!-- NAV -->
+  <nav>
+    <div class="nav-logo">REIA</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="browse.html">Browse Cars</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="contact.html" class="active">Contact</a></li>
+    </ul>
+    <button class="nav-burger" id="navBurger" aria-label="Open menu" aria-expanded="false">
+      <span></span><span></span><span></span>
+    </button>
+  </nav>
+
+  <!-- MOBILE NAV -->
+  <div class="nav-mobile" id="navMobile">
+    <a href="index.html">Home</a>
+    <a href="browse.html">Browse Cars</a>
+    <a href="about.html">About</a>
+    <a href="contact.html" class="active">Contact</a>
+  </div>
+
+  <!-- HERO -->
+  <section class="hero">
+    <div class="hero-text">
+      <p class="label">GET IN TOUCH</p>
+      <h1>Let's <em>talk.</em></h1>
+      <p class="hero-sub">Have a question about a car, want to book a test drive, or ready to sell? We're here and we respond fast.</p>
+    </div>
+  </section>
+
+  <!-- CONTACT ITEMS -->
+  <section class="contact-section">
+    <div class="contact-grid">
+
+      <a href="https://wa.me/2970000000?text=Hi%20REIA%20Motors!" target="_blank" rel="noreferrer" class="contact-card">
+        <span class="contact-icon">💬</span>
+        <div>
+          <strong>WhatsApp</strong>
+          <span>+297 000 0000</span>
+          <p>Fastest way to reach us — we reply quickly.</p>
+        </div>
+      </a>
+
+      <a href="tel:+2970000000" class="contact-card">
+        <span class="contact-icon">📞</span>
+        <div>
+          <strong>Call us</strong>
+          <span>+297 000 0000</span>
+          <p>Available during business hours.</p>
+        </div>
+      </a>
+
+      <a href="mailto:reiamotorsaruba@gmail.com" class="contact-card">
+        <span class="contact-icon">✉️</span>
+        <div>
+          <strong>Email</strong>
+          <span>reiamotorsaruba@gmail.com</span>
+          <p>For detailed enquiries or documents.</p>
+        </div>
+      </a>
+
+      <a href="https://www.instagram.com/reiamotors/" target="_blank" rel="noreferrer" class="contact-card">
+        <span class="contact-icon">📸</span>
+        <div>
+          <strong>Instagram</strong>
+          <span>@reiamotors</span>
+          <p>Follow us for new arrivals and updates.</p>
+        </div>
+      </a>
+
+      <a href="https://www.facebook.com/reiamotorsaruba" target="_blank" rel="noreferrer" class="contact-card">
+        <span class="contact-icon">👥</span>
+        <div>
+          <strong>Facebook</strong>
+          <span>Reia Aruba</span>
+          <p>Like our page for the latest news.</p>
+        </div>
+      </a>
+
+      <div class="contact-card no-link">
+        <span class="contact-icon">📍</span>
+        <div>
+          <strong>Address</strong>
+          <span>Westraat 2, Oranjestad, Aruba</span>
+          <p>Drop by during business hours.</p>
+        </div>
+      </div>
+
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="cta-section">
+    <p class="label">READY TO START?</p>
+    <h2>Browse our inventory or get an offer on your car.</h2>
+    <div class="cta-actions">
+      <a href="browse.html" class="btn-outline">Browse Cars</a>
+      <a href="https://wa.me/2970000000?text=Hi%20REIA%20Motors%2C%20I%20want%20to%20sell%20my%20car." target="_blank" rel="noreferrer" class="btn-gradient">Sell your car →</a>
+    </div>
+  </section>
+
+  <!-- FOOTER -->
+  <footer>
+    <p>© 2026 REIA Motors • Aruba</p>
+    <ul>
+      <li><a href="browse.html">Inventory</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </footer>
+
+  <script>
+    const burger = document.getElementById("navBurger");
+    const mobileNav = document.getElementById("navMobile");
+    burger.addEventListener("click", () => {
+      const open = mobileNav.classList.toggle("open");
+      burger.setAttribute("aria-expanded", String(open));
+    });
+    mobileNav.querySelectorAll("a").forEach(a => {
+      a.addEventListener("click", () => {
+        mobileNav.classList.remove("open");
+        burger.setAttribute("aria-expanded", "false");
+      });
+    });
+  </script>
+
+</body>
+</html>
