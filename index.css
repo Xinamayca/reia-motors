@@ -883,6 +883,8 @@ footer ul a:hover { color: var(--text); }
 ===================== */
 @media (max-width: 768px) {
   nav {
+    position: sticky;
+    top: 0;
     background: rgba(255, 255, 255, 0.96);
     backdrop-filter: blur(12px);
     border-bottom: 1px solid var(--border);
@@ -898,6 +900,9 @@ footer ul a:hover { color: var(--text); }
   }
   .nav-burger span {
     background: var(--text);
+  }
+  .hero {
+    padding-top: 60px;
   }
 }
 
