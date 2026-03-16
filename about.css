@@ -91,7 +91,7 @@ nav {
   gap: 0;
   background: #fff;
   border-bottom: 1px solid var(--border);
-  padding: 12px var(--side-pad);
+  padding: 20px var(--side-pad);
 }
 
 .nav-mobile.open {
@@ -109,6 +109,7 @@ nav {
   padding: 12px 0;
   border-bottom: 1px solid var(--border);
   transition: color 0.2s;
+  -webkit-tap-highlight-color: transparent;
 }
 
 .nav-mobile a:last-child { border-bottom: none; }
@@ -133,6 +134,23 @@ nav {
 @media (max-width: 768px) {
   .nav-links { display: none; }
   .nav-burger { display: flex; }
+  nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background: #fff;
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+  .nav-mobile {
+    position: fixed;
+    top: 65px;
+    left: 0;
+    right: 0;
+    z-index: 45;
+  }
+  body { padding-top: 65px; }
 }
 
 /* =====================
