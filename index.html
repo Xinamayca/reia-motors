@@ -273,6 +273,14 @@
       window.location.href = "browse.html" + (params.toString() ? "?" + params.toString() : "");
     });
 
+    // Force video play on mobile (iOS blocks autoplay until user interaction)
+    const heroVideo = document.querySelector('.hero-bg video');
+    if (heroVideo) {
+      heroVideo.play().catch(() => {
+        document.addEventListener('touchstart', () => heroVideo.play(), { once: true });
+      });
+    }
+
     // Sticky nav — transparent over hero, white bg when scrolled
     const nav = document.getElementById("siteNav");
     window.addEventListener("scroll", () => {
