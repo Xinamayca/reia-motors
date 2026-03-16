@@ -140,10 +140,17 @@ nav.nav-scrolled .nav-burger span {
   top: 65px;
   left: 0;
   right: 0;
-  background: #fff;
-  border-bottom: 1px solid var(--border);
+  background: rgba(10, 8, 20, 0.97);
+  border-bottom: 1px solid rgba(255,255,255,0.08);
   padding: 20px var(--side-pad);
   z-index: 40;
+  transition: background 0.3s, border-color 0.3s;
+}
+
+/* When scrolled, switch to white to match the nav bar */
+nav.nav-scrolled ~ .nav-mobile {
+  background: #fff;
+  border-bottom-color: var(--border);
 }
 
 .nav-mobile.open {
@@ -151,16 +158,22 @@ nav.nav-scrolled .nav-burger span {
 }
 
 .nav-mobile a {
+  font-family: 'Poppins', sans-serif;
   font-size: 12px;
   font-weight: 500;
   letter-spacing: 0.12em;
   text-transform: uppercase;
   text-decoration: none;
-  color: var(--muted);
+  color: rgba(255,255,255,0.65);
   padding: 12px 0;
-  border-bottom: 1px solid var(--border);
-  transition: color 0.2s;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+  transition: color 0.2s, border-color 0.3s;
   -webkit-tap-highlight-color: transparent;
+}
+
+nav.nav-scrolled ~ .nav-mobile a {
+  color: var(--muted);
+  border-bottom-color: var(--border);
 }
 
 .nav-mobile a:last-child { border-bottom: none; }
