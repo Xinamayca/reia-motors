@@ -242,7 +242,7 @@
         if (!grid) return;
         grid.innerHTML = featured.map(c => `
           <div class="car-card">
-            <div class="car-img" style="background-image:url('${c.image}');background-size:cover;background-position:center;"></div>
+            <div class="car-img"><img src="${c.image}" alt="${c.year} ${c.title.trim()}" loading="lazy"></div>
             <div class="car-info">
               <div class="car-top">
                 <span class="car-name">${c.year} ${c.title.trim()}</span>
