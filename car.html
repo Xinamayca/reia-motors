@@ -1,72 +1,93 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Car — REIA Motors</title>
   <meta name="description" content="Vehicle details — REIA Motors Aruba" />
-  <link rel="stylesheet" href="styles.css" />
-  <link rel="stylesheet" href="browse.css" /> <!-- optional: keeps same card/button styles -->
-  <link rel="stylesheet" href="car.css" />     <!-- new: detail page styles -->
+  <link rel="stylesheet" href="car.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet"/>
 </head>
-
 <body>
+
   <!-- NAV -->
-  <nav class="site-nav">
+  <nav>
     <a href="index.html" class="nav-logo">REIA</a>
     <ul class="nav-links">
       <li><a href="index.html">Home</a></li>
       <li><a href="browse.html">Browse Cars</a></li>
       <li><a href="about.html">About</a></li>
-      <li><a href="index.html#contact">Contact</a></li>
+      <li><a href="contact.html">Contact</a></li>
     </ul>
-    <button class="nav-burger" id="navToggle" aria-label="Open menu" aria-expanded="false">
+    <button class="nav-burger" id="navBurger" aria-label="Open menu" aria-expanded="false">
       <span></span><span></span><span></span>
     </button>
   </nav>
 
-  <div class="nav-mobile" id="mobileNav">
+  <!-- MOBILE NAV -->
+  <div class="nav-mobile" id="navMobile">
     <a href="index.html">Home</a>
     <a href="browse.html">Browse Cars</a>
     <a href="about.html">About</a>
-    <a href="index.html#contact">Contact</a>
+    <a href="contact.html">Contact</a>
   </div>
 
-  <main class="page">
-    <div class="container">
+  <main class="car-page">
+    <div class="car-container">
 
       <div class="crumbs">
         <a href="browse.html">← Back to Browse</a>
       </div>
 
-      <!-- Loading / error -->
-      <div id="state" class="state">Loading car…</div>
+      <div id="state" class="state-msg">Loading car…</div>
 
-      <!-- Detail -->
       <section id="carWrap" class="car-wrap" hidden>
+
         <div class="car-media">
           <div class="car-image">
             <img id="carImage" src="" alt="" />
           </div>
+          <div class="car-thumbs">
+            <div class="car-thumb placeholder"></div>
+            <div class="car-thumb placeholder"></div>
+            <div class="car-thumb placeholder"></div>
+          </div>
         </div>
 
-        <div class="car-info">
-          <div class="car-top">
-            <h1 id="carTitle"></h1>
-            <div id="carPrice" class="car-price"></div>
-          </div>
+        <div class="car-detail">
+          <p class="label">VEHICLE DETAILS</p>
+          <h1 id="carTitle"></h1>
+          <div id="carPrice" class="car-price"></div>
 
           <div class="car-specs" id="carSpecs"></div>
 
           <div class="car-actions">
-            <a id="btnWhatsapp" class="btn btn-primary" target="_blank" rel="noreferrer">WhatsApp about this car</a>
-            <a class="btn btn-secondary" href="browse.html">Browse more</a>
+            <a id="btnWhatsapp" class="btn-gradient" target="_blank" rel="noreferrer">WhatsApp about this car</a>
+            <a class="btn-outline" href="browse.html">Browse more</a>
           </div>
         </div>
+
       </section>
 
     </div>
   </main>
+
+  <!-- OTHER CARS -->
+  <section class="other-cars" id="otherCars" hidden>
+    <div class="other-header">
+      <p class="label">MORE VEHICLES</p>
+      <h2>You might also like</h2>
+    </div>
+    <div class="other-grid" id="otherGrid"></div>
+  </section>
+
+  <footer>
+    <p>© 2026 REIA Motors • Aruba</p>
+    <ul>
+      <li><a href="browse.html">Inventory</a></li>
+      <li><a href="contact.html">Contact</a></li>
+    </ul>
+  </footer>
 
   <script src="car.js"></script>
 </body>

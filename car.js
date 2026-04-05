@@ -1,9 +1,9 @@
 // car.js
-const WHATSAPP_NUMBER = "2970000000";
+const WHATSAPP_NUMBER = "2975927663";
 
 // Mobile nav toggle
-const navToggle = document.getElementById("navToggle");
-const mobileNav = document.getElementById("mobileNav");
+const navToggle = document.getElementById("navBurger");
+const mobileNav = document.getElementById("navMobile");
 navToggle?.addEventListener("click", () => {
   const open = mobileNav.classList.toggle("open");
   navToggle.setAttribute("aria-expanded", String(open));
@@ -124,6 +124,22 @@ async function init(){
     state.hidden = true;
     wrap.hidden = false;
     renderCar(car);
+
+    const others = cars.filter(c => String(c.id) !== String(id)).slice(0, 3);
+    if (others.length) {
+      const section = document.getElementById("otherCars");
+      const grid = document.getElementById("otherGrid");
+      grid.innerHTML = others.map(c => `
+        <a href="car.html?id=${c.id}" class="other-card">
+          <div class="other-img"><img src="${c.image}" alt="${c.year} ${c.title}" loading="lazy"></div>
+          <div class="other-info">
+            <span class="other-name">${c.year} ${c.title.trim()}</span>
+            <span class="other-price">${c.currency} ${Number(c.price).toLocaleString('en-US')}</span>
+          </div>
+        </a>
+      `).join('');
+      section.hidden = false;
+    }
   }catch(err){
     console.error(err);
     state.textContent = "Something went wrong loading this car.";
