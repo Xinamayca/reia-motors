@@ -27,19 +27,6 @@
       "year": 2019
     },
     {
-      "km": 127000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 27000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Hyundai Santa Fe",
-      "id": "4122",
-      "image": "/uploads/whatsapp-image-2026-02-27-at-16.53.32.jpeg",
-      "year": 2013
-    },
-    {
       "km": 0,
       "body": "SUV",
       "trans": "Automatic",
@@ -64,58 +51,6 @@
       "id": "0541",
       "image": "/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg",
       "year": 2025
-    },
-    {
-      "km": 92000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 21000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Hyundai Accent ",
-      "id": "2728",
-      "image": "/uploads/whatsapp-image-2026-03-02-at-19.12.36.jpeg",
-      "year": 2018
-    },
-    {
-      "km": 86000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Renault Logan ",
-      "id": "0974",
-      "image": "/uploads/whatsapp-image-2026-03-03-at-20.37.48.jpeg",
-      "year": 2019
-    },
-    {
-      "km": 135000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 37500,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Jeep Wrangler Unlimited ",
-      "id": "9983",
-      "image": "/uploads/whatsapp-image-2026-03-04-at-18.25.08.jpeg",
-      "year": 2013
-    },
-    {
-      "km": 134000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 27500,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Kia Optima ",
-      "id": "5072",
-      "image": "/uploads/whatsapp-image-2026-03-03-at-20.11.21.jpeg",
-      "year": 2016
     }
   ]
 }
