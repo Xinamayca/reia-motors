@@ -1,19 +1,6 @@
 {
   "cars": [
     {
-      "km": 100000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 23000,
-      "featured": true,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Kia Picanto ",
-      "id": "0560",
-      "image": "/uploads/whatsapp-image-2026-02-26-at-17.15.51.jpeg-.jpeg",
-      "year": 2020
-    },
-    {
       "km": 67000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -24,45 +11,6 @@
       "title": "Hyundai Elantra",
       "id": "4100",
       "image": "/uploads/whatsapp-image-2026-02-26-at-15.37.31.jpeg",
-      "year": 2018
-    },
-    {
-      "km": 40000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": true,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Honda Civic Hatchback ",
-      "id": "0065",
-      "image": "/uploads/whatsapp-image-2026-02-26-at-15.38.28.jpeg",
-      "year": 2021
-    },
-    {
-      "km": 49000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Hyundai Sonata ",
-      "id": "1869",
-      "image": "/uploads/whatsapp-image-2026-02-26-at-15.28.18.jpeg",
-      "year": 2014
-    },
-    {
-      "km": 129000,
-      "body": "SUV",
-      "trans": "Manual",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Ford Transit Van ",
-      "id": "2796",
-      "image": "/uploads/whatsapp-image-2026-02-26-at-15.31.25.jpeg",
       "year": 2018
     },
     {
