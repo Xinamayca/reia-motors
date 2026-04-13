@@ -51,6 +51,19 @@
       "id": "0541",
       "image": "/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg",
       "year": 2025
+    },
+    {
+      "km": 43000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 32500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "SUZUKI SWIFT",
+      "id": "9418",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-19.52.09.jpeg",
+      "year": 2024
     }
   ]
 }
