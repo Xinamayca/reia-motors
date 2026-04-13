@@ -103,6 +103,45 @@
       "id": "8039",
       "image": "/uploads/whatsapp-image-2026-03-20-at-17.18.14.jpeg",
       "year": 2019
+    },
+    {
+      "km": 124000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "KIA SPORTAGE ",
+      "id": "6096",
+      "image": "/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg",
+      "year": 2016
+    },
+    {
+      "km": 264000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 35000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "FORD EDGE",
+      "id": "6476",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-19.54.16.jpeg",
+      "year": 2015
+    },
+    {
+      "km": 72268,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "CHEVROLET CAVALIER",
+      "id": "0501",
+      "image": "/uploads/6dd1ec1f-442c-4fa5-bafa-908261ee1d4b.jpg",
+      "year": 2019
     }
   ]
 }
