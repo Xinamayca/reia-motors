@@ -4,7 +4,7 @@
       "km": 67000,
       "body": "Sedan",
       "trans": "Automatic",
-      "price": 27000,
+      "price": 23500,
       "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
@@ -142,6 +142,45 @@
       "id": "0501",
       "image": "/uploads/6dd1ec1f-442c-4fa5-bafa-908261ee1d4b.jpg",
       "year": 2019
+    },
+    {
+      "km": 79074,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "TOYOTA AQUA",
+      "id": "6139",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-19.58.16.jpeg",
+      "year": 2018
+    },
+    {
+      "km": 218523,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "FORD EDGE ",
+      "id": "9666",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-19.59.59.jpeg",
+      "year": 2011
+    },
+    {
+      "km": 176435,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 24000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "TOYOTA YARIS",
+      "id": "2809",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-20.00.30.jpeg",
+      "year": 2018
     }
   ]
 }
