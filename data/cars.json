@@ -64,6 +64,45 @@
       "id": "9418",
       "image": "/uploads/whatsapp-image-2026-04-12-at-19.52.09.jpeg",
       "year": 2024
+    },
+    {
+      "km": 56000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 17000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "SUZUKI SWIFT",
+      "id": "7502",
+      "image": "/uploads/whatsapp-image-2026-03-17-at-14.31.40.jpeg",
+      "year": 2014
+    },
+    {
+      "km": 133000,
+      "body": "Truck",
+      "trans": "Manual",
+      "price": 55000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "IZUZU PUDC",
+      "id": "0355",
+      "image": "/uploads/whatsapp-image-2026-03-16-at-16.56.22.jpeg",
+      "year": 2017
+    },
+    {
+      "km": 129000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 17000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "CHEVROLET BEAT LT",
+      "id": "8039",
+      "image": "/uploads/whatsapp-image-2026-03-20-at-17.18.14.jpeg",
+      "year": 2019
     }
   ]
 }
