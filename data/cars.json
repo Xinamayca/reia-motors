@@ -57,7 +57,7 @@
       "body": "Hatchback",
       "trans": "Automatic",
       "price": 32500,
-      "featured": false,
+      "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "SUZUKI SWIFT",
