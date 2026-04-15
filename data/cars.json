@@ -181,6 +181,84 @@
       "id": "2809",
       "image": "/uploads/whatsapp-image-2026-04-12-at-20.00.30.jpeg",
       "year": 2018
+    },
+    {
+      "km": 107000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "MAZDA DEMIO",
+      "id": "9505",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-20.00.55.jpeg",
+      "year": 2013
+    },
+    {
+      "km": 72888,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 65000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "CHEVROLET SILVERADO",
+      "id": "8637",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-20.02.14.jpeg",
+      "year": 2017
+    },
+    {
+      "km": 909987,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 24500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "FORD FUSION",
+      "id": "8449",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-20.02.39.jpeg",
+      "year": 2017
+    },
+    {
+      "km": 170000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 14000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "HYUNDAI TUCSON",
+      "id": "4216",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-20.03.12.jpeg",
+      "year": 2011
+    },
+    {
+      "km": 25723,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 74000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "CHEROLET TRACKER",
+      "id": "0889",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-20.03.38.jpeg",
+      "year": 2022
+    },
+    {
+      "km": 6108,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 45000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Hybrid",
+      "title": "BYD QIN",
+      "id": "8358",
+      "image": "/uploads/whatsapp-image-2026-04-12-at-20.06.14.jpeg",
+      "year": 2024
     }
   ]
 }
