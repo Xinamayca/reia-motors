@@ -87,25 +87,36 @@ function renderCar(car){
   img.src = allImages[0] || "";
   img.alt = car.title || "Vehicle";
 
-  // Render thumbnail strip if more than 1 image
+  // Render thumbnail strip + arrows if more than 1 image
   const thumbsContainer = document.getElementById("carThumbs");
-  if (thumbsContainer) {
-    if (allImages.length > 1) {
-      thumbsContainer.innerHTML = allImages.map((src, i) => `
-        <div class="car-thumb${i === 0 ? ' active' : ''}" data-src="${src}">
-          <img src="${src}" alt="${car.title} photo ${i + 1}" loading="lazy">
-        </div>
-      `).join('');
-      thumbsContainer.hidden = false;
-      thumbsContainer.querySelectorAll('.car-thumb').forEach(thumb => {
-        thumb.addEventListener('click', () => {
-          img.src = thumb.dataset.src;
-          thumbsContainer.querySelectorAll('.car-thumb').forEach(t => t.classList.remove('active'));
-          thumb.classList.add('active');
-        });
+  let currentIndex = 0;
+
+  function goToImage(index) {
+    currentIndex = (index + allImages.length) % allImages.length;
+    img.src = allImages[currentIndex];
+    if (thumbsContainer) {
+      thumbsContainer.querySelectorAll('.car-thumb').forEach((t, i) => {
+        t.classList.toggle('active', i === currentIndex);
       });
     }
   }
+
+  if (thumbsContainer && allImages.length > 1) {
+    thumbsContainer.innerHTML = allImages.map((src, i) => `
+      <div class="car-thumb${i === 0 ? ' active' : ''}" data-index="${i}">
+        <img src="${src}" alt="${car.title} photo ${i + 1}" loading="lazy">
+      </div>
+    `).join('');
+    thumbsContainer.hidden = false;
+    thumbsContainer.querySelectorAll('.car-thumb').forEach(thumb => {
+      thumb.addEventListener('click', () => goToImage(Number(thumb.dataset.index)));
+    });
+  }
+
+  const prevBtn = document.getElementById("imgPrev");
+  const nextBtn = document.getElementById("imgNext");
+  if (prevBtn) prevBtn.addEventListener('click', () => goToImage(currentIndex - 1));
+  if (nextBtn) nextBtn.addEventListener('click', () => goToImage(currentIndex + 1));
 
   title.textContent = car.title || "Vehicle";
   price.textContent = formatMoney(car.currency, car.price);

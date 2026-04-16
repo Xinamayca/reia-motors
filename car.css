@@ -198,6 +198,34 @@ nav {
   display: block;
 }
 
+/* ── Image arrows ── */
+.car-image {
+  position: relative;
+}
+
+.img-arrow {
+  display: none;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  background: rgba(255,255,255,0.9);
+  border: none;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  font-size: 16px;
+  cursor: pointer;
+  z-index: 2;
+  transition: background 0.2s, opacity 0.2s;
+  align-items: center;
+  justify-content: center;
+}
+
+.img-arrow:hover { background: #fff; }
+.img-arrow-left  { left: 10px; }
+.img-arrow-right { right: 10px; }
+.car-image:hover .img-arrow { display: flex; }
+
 /* ── Thumbnails ── */
 .car-thumbs {
   display: grid;
