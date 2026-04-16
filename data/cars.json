@@ -9,8 +9,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "Hyundai Elantra",
+      "images": [
+        "/uploads/whatsapp-image-2026-02-26-at-15.37.31.jpeg"
+      ],
       "id": "4100",
-      "images": ["/uploads/whatsapp-image-2026-02-26-at-15.37.31.jpeg"],
       "year": 2018
     },
     {
@@ -22,8 +24,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "Ford Expedition ",
+      "images": [
+        "/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg"
+      ],
       "id": "5658",
-      "images": ["/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg"],
       "year": 2019
     },
     {
@@ -35,8 +39,10 @@
       "currency": "AWG",
       "fuel": "Electric",
       "title": "Honda E-NS1",
+      "images": [
+        "/uploads/whatsapp-image-2026-02-27-at-17.11.32.jpeg"
+      ],
       "id": "0496",
-      "images": ["/uploads/whatsapp-image-2026-02-27-at-17.11.32.jpeg"],
       "year": 2024
     },
     {
@@ -48,8 +54,10 @@
       "currency": "AWG",
       "fuel": "Electric",
       "title": "Honda E-NS1",
+      "images": [
+        "/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg"
+      ],
       "id": "0541",
-      "images": ["/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg"],
       "year": 2025
     },
     {
@@ -61,8 +69,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "SUZUKI SWIFT",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-19.52.09.jpeg"
+      ],
       "id": "9418",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-19.52.09.jpeg"],
       "year": 2024
     },
     {
@@ -74,8 +84,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "SUZUKI SWIFT",
+      "images": [
+        "/uploads/whatsapp-image-2026-03-17-at-14.31.40.jpeg"
+      ],
       "id": "7502",
-      "images": ["/uploads/whatsapp-image-2026-03-17-at-14.31.40.jpeg"],
       "year": 2014
     },
     {
@@ -87,8 +99,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "IZUZU PUDC",
+      "images": [
+        "/uploads/whatsapp-image-2026-03-16-at-16.56.22.jpeg"
+      ],
       "id": "0355",
-      "images": ["/uploads/whatsapp-image-2026-03-16-at-16.56.22.jpeg"],
       "year": 2017
     },
     {
@@ -100,8 +114,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "CHEVROLET BEAT LT",
+      "images": [
+        "/uploads/whatsapp-image-2026-03-20-at-17.18.14.jpeg"
+      ],
       "id": "8039",
-      "images": ["/uploads/whatsapp-image-2026-03-20-at-17.18.14.jpeg"],
       "year": 2019
     },
     {
@@ -113,8 +129,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "KIA SPORTAGE ",
+      "images": [
+        "/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg"
+      ],
       "id": "6096",
-      "images": ["/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg"],
       "year": 2016
     },
     {
@@ -126,8 +144,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "FORD EDGE",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-19.54.16.jpeg"
+      ],
       "id": "6476",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-19.54.16.jpeg"],
       "year": 2015
     },
     {
@@ -139,8 +159,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "CHEVROLET CAVALIER",
+      "images": [
+        "/uploads/6dd1ec1f-442c-4fa5-bafa-908261ee1d4b.jpg"
+      ],
       "id": "0501",
-      "images": ["/uploads/6dd1ec1f-442c-4fa5-bafa-908261ee1d4b.jpg"],
       "year": 2019
     },
     {
@@ -152,8 +174,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "TOYOTA AQUA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-19.58.16.jpeg"
+      ],
       "id": "6139",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-19.58.16.jpeg"],
       "year": 2018
     },
     {
@@ -165,8 +189,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "FORD EDGE ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-19.59.59.jpeg"
+      ],
       "id": "9666",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-19.59.59.jpeg"],
       "year": 2011
     },
     {
@@ -178,8 +204,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "TOYOTA YARIS",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.00.30.jpeg"
+      ],
       "id": "2809",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.00.30.jpeg"],
       "year": 2018
     },
     {
@@ -191,8 +219,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "MAZDA DEMIO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.00.55.jpeg"
+      ],
       "id": "9505",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.00.55.jpeg"],
       "year": 2013
     },
     {
@@ -204,8 +234,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "CHEVROLET SILVERADO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.02.14.jpeg"
+      ],
       "id": "8637",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.02.14.jpeg"],
       "year": 2017
     },
     {
@@ -217,8 +249,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "FORD FUSION",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.02.39.jpeg"
+      ],
       "id": "8449",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.02.39.jpeg"],
       "year": 2017
     },
     {
@@ -230,8 +264,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "HYUNDAI TUCSON",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.03.12.jpeg"
+      ],
       "id": "4216",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.03.12.jpeg"],
       "year": 2011
     },
     {
@@ -243,8 +279,10 @@
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "CHEROLET TRACKER",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.03.38.jpeg"
+      ],
       "id": "0889",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.03.38.jpeg"],
       "year": 2022
     },
     {
@@ -256,9 +294,27 @@
       "currency": "AWG",
       "fuel": "Hybrid",
       "title": "BYD QIN",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.06.14.jpeg"
+      ],
       "id": "8358",
-      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.06.14.jpeg"],
       "year": 2024
+    },
+    {
+      "km": 11000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Test",
+      "images": [
+        "/uploads/car_1.png",
+        "/uploads/car_2.png"
+      ],
+      "id": "Test-123",
+      "year": 2025
     }
   ]
 }
