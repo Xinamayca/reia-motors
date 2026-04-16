@@ -10,7 +10,7 @@
       "fuel": "Gasoline",
       "title": "Hyundai Elantra",
       "id": "4100",
-      "image": "/uploads/whatsapp-image-2026-02-26-at-15.37.31.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-02-26-at-15.37.31.jpeg"],
       "year": 2018
     },
     {
@@ -23,7 +23,7 @@
       "fuel": "Gasoline",
       "title": "Ford Expedition ",
       "id": "5658",
-      "image": "/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg"],
       "year": 2019
     },
     {
@@ -36,7 +36,7 @@
       "fuel": "Electric",
       "title": "Honda E-NS1",
       "id": "0496",
-      "image": "/uploads/whatsapp-image-2026-02-27-at-17.11.32.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-02-27-at-17.11.32.jpeg"],
       "year": 2024
     },
     {
@@ -49,7 +49,7 @@
       "fuel": "Electric",
       "title": "Honda E-NS1",
       "id": "0541",
-      "image": "/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg"],
       "year": 2025
     },
     {
@@ -62,7 +62,7 @@
       "fuel": "Gasoline",
       "title": "SUZUKI SWIFT",
       "id": "9418",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-19.52.09.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-19.52.09.jpeg"],
       "year": 2024
     },
     {
@@ -75,7 +75,7 @@
       "fuel": "Gasoline",
       "title": "SUZUKI SWIFT",
       "id": "7502",
-      "image": "/uploads/whatsapp-image-2026-03-17-at-14.31.40.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-03-17-at-14.31.40.jpeg"],
       "year": 2014
     },
     {
@@ -88,7 +88,7 @@
       "fuel": "Gasoline",
       "title": "IZUZU PUDC",
       "id": "0355",
-      "image": "/uploads/whatsapp-image-2026-03-16-at-16.56.22.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-03-16-at-16.56.22.jpeg"],
       "year": 2017
     },
     {
@@ -101,7 +101,7 @@
       "fuel": "Gasoline",
       "title": "CHEVROLET BEAT LT",
       "id": "8039",
-      "image": "/uploads/whatsapp-image-2026-03-20-at-17.18.14.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-03-20-at-17.18.14.jpeg"],
       "year": 2019
     },
     {
@@ -114,7 +114,7 @@
       "fuel": "Gasoline",
       "title": "KIA SPORTAGE ",
       "id": "6096",
-      "image": "/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg"],
       "year": 2016
     },
     {
@@ -127,7 +127,7 @@
       "fuel": "Gasoline",
       "title": "FORD EDGE",
       "id": "6476",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-19.54.16.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-19.54.16.jpeg"],
       "year": 2015
     },
     {
@@ -140,7 +140,7 @@
       "fuel": "Gasoline",
       "title": "CHEVROLET CAVALIER",
       "id": "0501",
-      "image": "/uploads/6dd1ec1f-442c-4fa5-bafa-908261ee1d4b.jpg",
+      "images": ["/uploads/6dd1ec1f-442c-4fa5-bafa-908261ee1d4b.jpg"],
       "year": 2019
     },
     {
@@ -153,7 +153,7 @@
       "fuel": "Gasoline",
       "title": "TOYOTA AQUA",
       "id": "6139",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-19.58.16.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-19.58.16.jpeg"],
       "year": 2018
     },
     {
@@ -166,7 +166,7 @@
       "fuel": "Gasoline",
       "title": "FORD EDGE ",
       "id": "9666",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-19.59.59.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-19.59.59.jpeg"],
       "year": 2011
     },
     {
@@ -179,7 +179,7 @@
       "fuel": "Gasoline",
       "title": "TOYOTA YARIS",
       "id": "2809",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-20.00.30.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.00.30.jpeg"],
       "year": 2018
     },
     {
@@ -192,7 +192,7 @@
       "fuel": "Gasoline",
       "title": "MAZDA DEMIO",
       "id": "9505",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-20.00.55.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.00.55.jpeg"],
       "year": 2013
     },
     {
@@ -205,7 +205,7 @@
       "fuel": "Gasoline",
       "title": "CHEVROLET SILVERADO",
       "id": "8637",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-20.02.14.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.02.14.jpeg"],
       "year": 2017
     },
     {
@@ -218,7 +218,7 @@
       "fuel": "Gasoline",
       "title": "FORD FUSION",
       "id": "8449",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-20.02.39.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.02.39.jpeg"],
       "year": 2017
     },
     {
@@ -231,7 +231,7 @@
       "fuel": "Gasoline",
       "title": "HYUNDAI TUCSON",
       "id": "4216",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-20.03.12.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.03.12.jpeg"],
       "year": 2011
     },
     {
@@ -244,7 +244,7 @@
       "fuel": "Gasoline",
       "title": "CHEROLET TRACKER",
       "id": "0889",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-20.03.38.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.03.38.jpeg"],
       "year": 2022
     },
     {
@@ -257,7 +257,7 @@
       "fuel": "Hybrid",
       "title": "BYD QIN",
       "id": "8358",
-      "image": "/uploads/whatsapp-image-2026-04-12-at-20.06.14.jpeg",
+      "images": ["/uploads/whatsapp-image-2026-04-12-at-20.06.14.jpeg"],
       "year": 2024
     }
   ]

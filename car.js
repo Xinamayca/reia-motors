@@ -82,10 +82,7 @@ function renderCar(car){
   const specs = document.getElementById("carSpecs");
   const btnWhatsapp = document.getElementById("btnWhatsapp");
 
-  // Support new `images` array or old `image` field
-  const allImages = (car.images && car.images.length)
-    ? car.images.map(i => i.image || i)
-    : [car.image || car.photo || car.cover || ""].filter(Boolean);
+  const allImages = (car.images && car.images.length) ? car.images : [car.image || ""].filter(Boolean);
 
   img.src = allImages[0] || "";
   img.alt = car.title || "Vehicle";
