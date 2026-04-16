@@ -4,7 +4,7 @@
    CMS: loads from /data/cars.json
    ========================= */
 
-const WHATSAPP_NUMBER = "2970000000";
+const WHATSAPP_NUMBER = "2975927663";
 
 function waLink(msg){
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`;
