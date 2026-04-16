@@ -201,9 +201,9 @@ nav {
 /* ── Thumbnails ── */
 .car-thumbs {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  gap: 6px;
-  margin-top: 6px;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 4px;
+  margin-top: 4px;
 }
 
 .car-thumb {
