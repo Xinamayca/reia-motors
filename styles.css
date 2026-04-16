@@ -6,9 +6,9 @@
   --text-main:#0F172A;
   --text-light:#94A3B8;
 
-  --pink:#DB2777;
-  --purple:#7C3AED;
-  --gradient: linear-gradient(90deg,#DB2777,#7C3AED);
+  --pink:#FF2D78;
+  --purple:#6B2FFF;
+  --gradient: linear-gradient(135deg,#6B2FFF,#FF2D78);
 
   --btn-grey:#F1F5F9;
   --btn-grey-hover:#E5E7EB;
@@ -20,7 +20,7 @@
 }
 
 *{ box-sizing:border-box; }
-html,body{ margin:0; padding:0; font-family:system-ui,-apple-system,Segoe UI,Roboto,Arial; color:var(--text-main); background:var(--bg-light); }
+html,body{ margin:0; padding:0; font-family:Georgia, serif; color:var(--text-main); background:var(--bg-light); }
 a{ color:inherit; text-decoration:none; }
 .container{ width:min(1200px,92vw); margin:0 auto; }
 
@@ -72,7 +72,7 @@ nav.site-nav{
 .nav-links a{
   font-family: 'Poppins', sans-serif;
   text-decoration: none;
-  color: #64748b;
+  color: #666;
   font-size: 13px;
   font-weight: 500;
   letter-spacing: 0.12em;
@@ -140,9 +140,28 @@ nav.site-nav{
 
 .hero-inner{ padding: 10px 0; }
 .hero-copy{ max-width: 860px; }
-.hero h1{ margin:0 0 10px; font-size: clamp(34px, 4.4vw, 56px); }
-.muted{ color:#0F172A;
-        width: 65%; }
+.hero h1{
+  margin: 0 0 16px;
+  font-family: Georgia, serif;
+  font-size: clamp(52px, 7vw, 88px);
+  font-weight: 400;
+  line-height: 1.05;
+  color: var(--text-main);
+}
+.hero h1 em{
+  font-style: italic;
+  background: var(--gradient);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+.muted{
+  font-family: 'Poppins', sans-serif;
+  color: #666;
+  font-size: 14px;
+  width: 65%;
+  line-height: 1.7;
+}
 
 main{
   position: relative;
@@ -199,7 +218,7 @@ main{
 
 /* Sections */
 .section{ padding: 54px 0; }
-.section-head h2{ margin:0 0 6px; font-size: 28px; }
+.section-head h2{ margin:0 0 6px; font-size: clamp(28px, 3.5vw, 44px); font-family: Georgia, serif; font-weight: 400; }
 .section-head p{ margin:0; }
 
 /* Cards */
@@ -246,8 +265,8 @@ main{
   background:#fff;
   box-shadow: 0 10px 22px rgba(15,23,42,0.06);
 }
-.why-card h3{ margin:0 0 6px; font-size:14px; }
-.why-card p{ margin:0; color:#64748b; font-size:13px; line-height:1.35; }
+.why-card h3{ margin:0 0 6px; font-size:14px; font-family: 'Poppins', sans-serif; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; }
+.why-card p{ margin:0; color:#666; font-size:13px; line-height:1.5; font-family: 'Poppins', sans-serif; }
 
 
 .why-copy{
@@ -288,7 +307,7 @@ main{
   font-size: 22px;
 }
 .contact-card{ padding: 22px; }
-.contact-card h2{ margin:0 0 10px; font-size: 32px; }
+.contact-card h2{ margin:0 0 10px; font-size: clamp(28px, 3.5vw, 44px); font-family: Georgia, serif; font-weight: 400; }
 .contact-block{ margin-top:16px; padding-top:16px; border-top:1px solid var(--border); }
 .contact-block:first-of-type{ border-top:none; padding-top:0; }
 .contact-block h3{ margin:0 0 6px; }
