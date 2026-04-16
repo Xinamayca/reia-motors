@@ -312,7 +312,10 @@
       "images": [
         "/uploads/car_3.png",
         "/uploads/car_2.png",
-        "/uploads/car_1.png"
+        "/uploads/car_1.png",
+        "/uploads/car_4.png",
+        "/uploads/car_5.png",
+        "/uploads/car_6.png"
       ],
       "id": "Test-123",
       "year": 2025
