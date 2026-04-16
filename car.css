@@ -188,8 +188,6 @@ nav {
   aspect-ratio: 16/10;
   overflow: hidden;
   background: #f5f5f5;
-  border: 2px solid transparent;
-  border-image: linear-gradient(135deg, var(--purple), var(--pink)) 1;
 }
 
 .car-image img {
@@ -252,7 +250,7 @@ nav {
 }
 
 .car-thumb:hover { opacity: 0.8; }
-.car-thumb.active { border-color: var(--purple); }
+.car-thumb.active { border-image: linear-gradient(135deg, var(--purple), var(--pink)) 1; }
 
 /* ── Detail panel ── */
 .car-detail {
