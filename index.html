@@ -217,7 +217,7 @@
         if (!grid) return;
         grid.innerHTML = featured.map(c => `
           <div class="car-card">
-            <div class="car-img"><img src="${c.image}" alt="${c.year} ${c.title.trim()}" loading="lazy"></div>
+            <div class="car-img"><img src="${(c.images && c.images.length ? (c.images[0].image || c.images[0]) : c.image) || ''}" alt="${c.year} ${c.title.trim()}" loading="lazy"></div>
             <div class="car-info">
               <div class="car-top">
                 <span class="car-name">${c.year} ${c.title.trim()}</span>

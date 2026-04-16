@@ -82,9 +82,33 @@ function renderCar(car){
   const specs = document.getElementById("carSpecs");
   const btnWhatsapp = document.getElementById("btnWhatsapp");
 
-  const imagePath = car.image || car.photo || car.cover || "";
-  img.src = imagePath || "img/hero.png";
+  // Support new `images` array or old `image` field
+  const allImages = (car.images && car.images.length)
+    ? car.images.map(i => i.image || i)
+    : [car.image || car.photo || car.cover || ""].filter(Boolean);
+
+  img.src = allImages[0] || "";
   img.alt = car.title || "Vehicle";
+
+  // Render thumbnail strip if more than 1 image
+  const thumbsContainer = document.getElementById("carThumbs");
+  if (thumbsContainer) {
+    if (allImages.length > 1) {
+      thumbsContainer.innerHTML = allImages.map((src, i) => `
+        <div class="car-thumb${i === 0 ? ' active' : ''}" data-src="${src}">
+          <img src="${src}" alt="${car.title} photo ${i + 1}" loading="lazy">
+        </div>
+      `).join('');
+      thumbsContainer.hidden = false;
+      thumbsContainer.querySelectorAll('.car-thumb').forEach(thumb => {
+        thumb.addEventListener('click', () => {
+          img.src = thumb.dataset.src;
+          thumbsContainer.querySelectorAll('.car-thumb').forEach(t => t.classList.remove('active'));
+          thumb.classList.add('active');
+        });
+      });
+    }
+  }
 
   title.textContent = car.title || "Vehicle";
   price.textContent = formatMoney(car.currency, car.price);

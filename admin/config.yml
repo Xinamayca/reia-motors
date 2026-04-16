@@ -30,5 +30,9 @@ collections:
               - { label: "Transmission", name: "trans", widget: "select", options: ["Automatic","Manual"] }
               - { label: "KM", name: "km", widget: "number" }
               - { label: "Year", name: "year", widget: "number" }
-              - { label: "Image", name: "image", widget: "image" }
+              - label: "Images"
+                name: "images"
+                widget: "list"
+                max: 8
+                field: { label: "Image", name: "image", widget: "image" }
               - { label: "Featured", name: "featured", widget: "boolean", default: false }

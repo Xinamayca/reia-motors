@@ -78,7 +78,7 @@ function render(cars){
   grid.innerHTML = cars.map(c => `
     <article class="result-card">
       <div class="result-img">
-        <img src="${c.image || 'img/placeholder.jpg'}" alt="${c.title || 'Vehicle'}">
+        <img src="${(c.images && c.images.length ? (c.images[0].image || c.images[0]) : c.image) || 'img/placeholder.jpg'}" alt="${c.title || 'Vehicle'}">
       </div>
 
       <div class="result-body">

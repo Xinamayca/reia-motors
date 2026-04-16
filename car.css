@@ -201,31 +201,29 @@ nav {
 /* ── Thumbnails ── */
 .car-thumbs {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  gap: 8px;
-  margin-top: 8px;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 6px;
+  margin-top: 6px;
 }
 
 .car-thumb {
   aspect-ratio: 16/10;
   background: #f0f0f0;
-  border: 1px solid var(--border);
+  border: 2px solid transparent;
   overflow: hidden;
   cursor: pointer;
-  transition: opacity 0.2s;
+  transition: opacity 0.2s, border-color 0.2s;
 }
 
-.car-thumb.placeholder {
-  background: repeating-linear-gradient(
-    -45deg,
-    #f0f0f0,
-    #f0f0f0 6px,
-    #e8e8e8 6px,
-    #e8e8e8 12px
-  );
+.car-thumb img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
 }
 
-.car-thumb:hover { opacity: 0.75; }
+.car-thumb:hover { opacity: 0.8; }
+.car-thumb.active { border-color: var(--purple); }
 
 /* ── Detail panel ── */
 .car-detail {
