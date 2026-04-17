@@ -209,6 +209,7 @@
     })();
 
     // Load featured cars
+    function toTitleCase(str){ return str ? str.toLowerCase().replace(/\b\w/g, c => c.toUpperCase()) : str; }
     fetch('/data/cars.json', { cache: 'no-store' })
       .then(r => r.json())
       .then(data => {
@@ -217,16 +218,16 @@
         if (!grid) return;
         grid.innerHTML = featured.map(c => `
           <div class="car-card">
-            <div class="car-img"><img src="${(c.images && c.images.length ? c.images[0] : c.image) || ''}" alt="${c.year} ${c.title.trim()}" loading="lazy"></div>
+            <div class="car-img"><img src="${(c.images && c.images.length ? c.images[0] : c.image) || ''}" alt="${c.year} ${toTitleCase(c.title.trim())}" loading="lazy"></div>
             <div class="car-info">
               <div class="car-top">
-                <span class="car-name">${c.year} ${c.title.trim()}</span>
+                <span class="car-name">${c.year} ${toTitleCase(c.title.trim())}</span>
                 <span class="car-price">${c.currency} ${Number(c.price).toLocaleString('en-US')}</span>
               </div>
               <p class="car-meta">${c.body} · ${c.fuel} · ${Number(c.km).toLocaleString('en-US')} km · ${c.trans}</p>
               <div class="car-actions">
                 <a href="car.html?id=${c.id}" class="btn-outline-sm">View Details</a>
-                <a href="https://wa.me/2975927663?text=${encodeURIComponent('Hi REIA Motors, I\'m interested in the ' + c.year + ' ' + c.title.trim() + '. Is it still available?')}" target="_blank" rel="noreferrer" class="btn-gradient-sm">WhatsApp</a>
+                <a href="https://wa.me/2975927663?text=${encodeURIComponent('Hi REIA Motors, I\'m interested in the ' + c.year + ' ' + toTitleCase(c.title.trim()) + '. Is it still available?')}" target="_blank" rel="noreferrer" class="btn-gradient-sm">WhatsApp</a>
               </div>
             </div>
           </div>

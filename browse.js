@@ -6,6 +6,11 @@
 
 const WHATSAPP_NUMBER = "2975927663";
 
+function toTitleCase(str){
+  if (!str) return str;
+  return str.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
+}
+
 function waLink(msg){
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(msg)}`;
 }
@@ -83,7 +88,7 @@ function render(cars){
 
       <div class="result-body">
         <div class="result-top">
-          <h3 class="result-title">${c.title || ""}</h3>
+          <h3 class="result-title">${toTitleCase(c.title || "")}</h3>
           <div class="result-price">${formatMoney(c.currency || "AWG", c.price ?? "")}</div>
         </div>
 

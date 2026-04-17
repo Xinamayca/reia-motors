@@ -1,6 +1,11 @@
 // car.js
 const WHATSAPP_NUMBER = "2975927663";
 
+function toTitleCase(str){
+  if (!str) return str;
+  return str.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
+}
+
 // Mobile nav toggle
 const navToggle = document.getElementById("navBurger");
 const mobileNav = document.getElementById("navMobile");
@@ -26,7 +31,6 @@ function toNumberFromAny(v){
 }
 
 function formatMoney(currency, price){
-  // supports either (currency + number) OR a price string like "AWG 122,490"
   if (typeof price === "string" && price.toUpperCase().includes("AWG")) return price;
   const n = toNumberFromAny(price);
   if (n == null) return String(price ?? "");
@@ -47,95 +51,115 @@ async function fetchCars(){
 }
 
 function normalizeCars(data){
-  // supports {cars:[...]} or [...]
   if (Array.isArray(data)) return data;
   if (data && Array.isArray(data.cars)) return data.cars;
   return [];
 }
 
 function findCar(cars, id){
-  // most common: car.id from your CMS
   let car = cars.find(c => String(c.id) === String(id));
   if (car) return car;
-
-  // fallback: slug-like based on title
   const idLower = String(id || "").toLowerCase();
   car = cars.find(c => String(c.title || "").toLowerCase().replace(/\s+/g, "-") === idLower);
   return car || null;
 }
 
-function specItem(k, v){
-  return `
-    <div class="spec">
-      <div class="k">${k}</div>
-      <div class="v">${v || "—"}</div>
-    </div>
-  `;
+function specItem(label, value){
+  return `<div class="ms"><div class="ms-l">${label}</div><div class="ms-v">${value || "—"}</div></div>`;
 }
 
 function renderCar(car){
-  document.title = `${car.title || "Car"} — REIA Motors`;
+  document.title = `${toTitleCase(car.title || "Car")} — REIA Motors`;
 
-  const img = document.getElementById("carImage");
-  const title = document.getElementById("carTitle");
-  const price = document.getElementById("carPrice");
-  const specs = document.getElementById("carSpecs");
-  const btnWhatsapp = document.getElementById("btnWhatsapp");
+  const img        = document.getElementById("carImage");
+  const titleEl    = document.getElementById("carTitle");
+  const metaEl     = document.getElementById("carMeta");
+  const priceEl    = document.getElementById("carPrice");
+  const specsEl    = document.getElementById("carSpecs");
+  const tagsEl     = document.getElementById("carTags");
+  const counterEl  = document.getElementById("imgCounter");
+  const btnWa      = document.getElementById("btnWhatsapp");
 
   const allImages = (car.images && car.images.length) ? car.images : [car.image || ""].filter(Boolean);
 
   img.src = allImages[0] || "";
   img.alt = car.title || "Vehicle";
 
-  // Render thumbnail strip + arrows if more than 1 image
+  // Counter
+  function updateCounter(i) {
+    if (counterEl && allImages.length > 1) {
+      counterEl.textContent = `${i + 1} / ${allImages.length}`;
+      counterEl.hidden = false;
+    }
+  }
+  updateCounter(0);
+
+  // Thumbnails
   const thumbsContainer = document.getElementById("carThumbs");
   let currentIndex = 0;
 
   function goToImage(index) {
     currentIndex = (index + allImages.length) % allImages.length;
     img.src = allImages[currentIndex];
+    updateCounter(currentIndex);
     if (thumbsContainer) {
-      thumbsContainer.querySelectorAll('.car-thumb').forEach((t, i) => {
-        t.classList.toggle('active', i === currentIndex);
+      thumbsContainer.querySelectorAll(".thumb").forEach((t, i) => {
+        t.classList.toggle("active", i === currentIndex);
       });
     }
   }
 
   if (thumbsContainer && allImages.length > 1) {
     thumbsContainer.innerHTML = allImages.map((src, i) => `
-      <div class="car-thumb${i === 0 ? ' active' : ''}" data-index="${i}">
+      <div class="thumb${i === 0 ? " active" : ""}" data-index="${i}">
         <img src="${src}" alt="${car.title} photo ${i + 1}" loading="lazy">
       </div>
-    `).join('');
+    `).join("");
     thumbsContainer.hidden = false;
-    thumbsContainer.querySelectorAll('.car-thumb').forEach(thumb => {
-      thumb.addEventListener('click', () => goToImage(Number(thumb.dataset.index)));
+    thumbsContainer.querySelectorAll(".thumb").forEach(thumb => {
+      thumb.addEventListener("click", () => goToImage(Number(thumb.dataset.index)));
     });
   }
 
-  const prevBtn = document.getElementById("imgPrev");
-  const nextBtn = document.getElementById("imgNext");
-  if (prevBtn) prevBtn.addEventListener('click', () => goToImage(currentIndex - 1));
-  if (nextBtn) nextBtn.addEventListener('click', () => goToImage(currentIndex + 1));
+  // Click main image to advance
+  document.getElementById("mainWrap")?.addEventListener("click", () => {
+    if (allImages.length > 1) goToImage(currentIndex + 1);
+  });
 
-  title.textContent = car.title || "Vehicle";
-  price.textContent = formatMoney(car.currency, car.price);
+  // Keyboard navigation
+  document.addEventListener("keydown", e => {
+    if (e.key === "ArrowRight") goToImage(currentIndex + 1);
+    if (e.key === "ArrowLeft")  goToImage(currentIndex - 1);
+  });
 
-  specs.innerHTML = [
+  // Badges
+  if (tagsEl) {
+    const tags = ["Used"];
+    if (car.body) tags.push(car.body);
+    tagsEl.innerHTML = tags.map(t => `<span class="badge">${t}</span>`).join("");
+  }
+
+  titleEl.textContent = toTitleCase(car.title || "Vehicle");
+
+  if (metaEl) metaEl.textContent = `${car.year || ""} · Oranjestad, Aruba`;
+
+  priceEl.textContent = formatMoney(car.currency, car.price);
+
+  specsEl.innerHTML = [
     specItem("Body", car.body),
     specItem("Fuel", car.fuel),
     specItem("Transmission", car.trans),
-    specItem("KM", formatKm(car.km)),
+    specItem("Mileage", formatKm(car.km)),
     specItem("Year", car.year),
-    specItem("ID", car.id),
+    specItem("Listing ID", `#${car.id}`),
   ].join("");
 
-  btnWhatsapp.href = waLink(`Hi REIA Motors, I'm interested in the ${car.title}. Is it still available?`);
+  btnWa.href = waLink(`Hi REIA Motors, I'm interested in the ${toTitleCase(car.title)}. Is it still available?`);
 }
 
 async function init(){
   const state = document.getElementById("state");
-  const wrap = document.getElementById("carWrap");
+  const wrap  = document.getElementById("carWrap");
 
   const id = getParam("id");
   if (!id){
@@ -146,7 +170,7 @@ async function init(){
   try{
     const data = await fetchCars();
     const cars = normalizeCars(data);
-    const car = findCar(cars, id);
+    const car  = findCar(cars, id);
 
     if (!car){
       state.textContent = "Car not found. It may have been removed.";
@@ -154,18 +178,18 @@ async function init(){
     }
 
     state.hidden = true;
-    wrap.hidden = false;
+    wrap.hidden  = false;
     renderCar(car);
 
     const others = cars.filter(c => String(c.id) !== String(id)).slice(0, 3);
     if (others.length) {
       const section = document.getElementById("otherCars");
-      const grid = document.getElementById("otherGrid");
+      const grid    = document.getElementById("otherGrid");
       grid.innerHTML = others.map(c => `
         <a href="car.html?id=${c.id}" class="other-card">
-          <div class="other-img"><img src="${c.images && c.images.length ? c.images[0] : c.image}" alt="${c.year} ${c.title}" loading="lazy"></div>
+          <div class="other-img"><img src="${c.images && c.images.length ? c.images[0] : c.image}" alt="${toTitleCase(c.title)}" loading="lazy"></div>
           <div class="other-info">
-            <span class="other-name">${c.year} ${c.title.trim()}</span>
+            <span class="other-name">${c.year} ${toTitleCase(c.title.trim())}</span>
             <span class="other-price">${c.currency} ${Number(c.price).toLocaleString('en-US')}</span>
           </div>
         </a>
