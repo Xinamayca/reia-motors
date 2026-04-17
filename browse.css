@@ -343,15 +343,14 @@ nav {
 }
 
 .result-title {
-  font-family: Georgia, serif;
-  font-size: 13px;
-  font-weight: 400;
+  font-size: 15px;
+  font-weight: 500;
   line-height: 1.2;
   color: var(--text);
 }
 
 .result-price {
-  font-size: 12px;
+  font-size: 14px;
   font-weight: 500;
   white-space: nowrap;
   color: var(--text);
