@@ -163,7 +163,7 @@ async function init(){
       const grid = document.getElementById("otherGrid");
       grid.innerHTML = others.map(c => `
         <a href="car.html?id=${c.id}" class="other-card">
-          <div class="other-img"><img src="${c.image}" alt="${c.year} ${c.title}" loading="lazy"></div>
+          <div class="other-img"><img src="${c.images && c.images.length ? c.images[0] : c.image}" alt="${c.year} ${c.title}" loading="lazy"></div>
           <div class="other-info">
             <span class="other-name">${c.year} ${c.title.trim()}</span>
             <span class="other-price">${c.currency} ${Number(c.price).toLocaleString('en-US')}</span>
