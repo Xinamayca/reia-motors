@@ -299,28 +299,6 @@
       ],
       "id": "8358",
       "year": 2024
-    },
-    {
-      "km": 11000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Test",
-      "images": [
-        "/uploads/car_3.png",
-        "/uploads/car_2.png",
-        "/uploads/car_1.png",
-        "/uploads/car_4.png",
-        "/uploads/car_5.png",
-        "/uploads/car_6.png",
-        "/uploads/car_1.png",
-        "/uploads/car_3.png"
-      ],
-      "id": "Test-123",
-      "year": 2025
     }
   ]
 }
