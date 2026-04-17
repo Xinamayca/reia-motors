@@ -76,36 +76,6 @@
       "year": 2024
     },
     {
-      "km": 56000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 17000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "SUZUKI SWIFT",
-      "images": [
-        "/uploads/whatsapp-image-2026-03-17-at-14.31.40.jpeg"
-      ],
-      "id": "7502",
-      "year": 2014
-    },
-    {
-      "km": 133000,
-      "body": "Truck",
-      "trans": "Manual",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "IZUZU PUDC",
-      "images": [
-        "/uploads/whatsapp-image-2026-03-16-at-16.56.22.jpeg"
-      ],
-      "id": "0355",
-      "year": 2017
-    },
-    {
       "km": 129000,
       "body": "Sedan",
       "trans": "Automatic",
