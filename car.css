@@ -14,7 +14,7 @@
   --line:    #e4e3de;
   --line-2:  #d4d3ce;
   --text-2:  #888880;
-  --text-3:  #b4b3ae;
+  --text-3:  #888884;
   --gold:    #6B2FFF;
   --gold-bg: #f0ebff;
 }
@@ -138,6 +138,20 @@ nav {
   body { padding-top: 64px; }
 }
 
+/* ── Back link ── */
+.back-link {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 500;
+  letter-spacing: 0.07em;
+  text-transform: uppercase;
+  color: var(--text-3);
+  margin-bottom: 16px;
+  transition: color 0.15s;
+}
+
+.back-link:hover { color: var(--text-2); }
+
 /* ── State ── */
 .state-msg {
   padding: 40px var(--side-pad);
@@ -153,7 +167,7 @@ nav {
 }
 
 .gallery-col {
-  padding: 40px var(--side-pad);
+  padding: 12px var(--side-pad) 40px;
   border-right: 0.5px solid var(--line);
   animation: fadeUp 0.45s ease both;
 }
