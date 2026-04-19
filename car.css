@@ -48,7 +48,7 @@ nav {
 .nav-logo {
   text-decoration: none;
   font-family: Georgia, serif;
-  font-size: 25px;
+  font-size: 30px;
   letter-spacing: 0.05em;
   background: linear-gradient(135deg, var(--purple), var(--pink));
   -webkit-background-clip: text;
@@ -528,4 +528,11 @@ footer ul a:hover { color: var(--text); }
   .car-name { font-size: 28px; }
   .thumbs { grid-template-columns: repeat(4, 1fr); }
   footer { flex-direction: column; gap: 16px; text-align: center; }
+}
+
+.reia {
+  background: linear-gradient(135deg, #6B2FFF, #FF2D78);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }

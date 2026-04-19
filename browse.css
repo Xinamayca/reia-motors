@@ -46,7 +46,7 @@ nav {
 .nav-logo {
   text-decoration: none;
   font-family: Georgia, serif;
-  font-size: 25px;
+  font-size: 30px;
   letter-spacing: 0.05em;
   background: linear-gradient(135deg, var(--purple), var(--pink));
   -webkit-background-clip: text;
@@ -334,6 +334,27 @@ nav {
   aspect-ratio: 16/10;
   background: #f2f0f0;
   overflow: hidden;
+  position: relative;
+}
+
+.sold-badge {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  z-index: 3;
+  background: #111;
+  color: #fff;
+  font-size: 9px;
+  font-weight: 500;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+  padding: 4px 10px;
+  border-radius: 3px;
+}
+
+.result-card.is-sold .result-img img {
+  opacity: 0.5;
+  filter: grayscale(60%);
 }
 
 .result-img img {
@@ -466,4 +487,11 @@ footer ul a:hover { color: var(--text); }
 @media (max-width: 560px) {
   .results-grid { grid-template-columns: 1fr; }
   footer { flex-direction: column; gap: 16px; text-align: center; }
+}
+
+.reia {
+  background: linear-gradient(135deg, #6B2FFF, #FF2D78);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }

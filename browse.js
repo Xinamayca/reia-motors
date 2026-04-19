@@ -81,9 +81,10 @@ function render(cars){
   countText.textContent = String(cars.length);
 
   grid.innerHTML = cars.map(c => `
-    <article class="result-card">
+    <article class="result-card${c.sold ? ' is-sold' : ''}">
       <a class="card-link" href="car.html?id=${c.id || ""}"></a>
       <div class="result-img">
+        ${c.sold ? '<span class="sold-badge">Sold</span>' : ''}
         <img src="${(c.images && c.images.length ? c.images[0] : c.image) || 'img/placeholder.jpg'}" alt="${c.title || 'Vehicle'}">
       </div>
 

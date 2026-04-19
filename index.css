@@ -56,7 +56,7 @@ nav.nav-scrolled {
 .nav-logo {
   text-decoration: none;
   font-family: Georgia, serif;
-  font-size: 25px;
+  font-size: 30px;
   letter-spacing: 0.05em;
   color: #fff;
   transition: color 0.3s;
@@ -1017,4 +1017,10 @@ footer ul a:hover { color: var(--text); }
     border-radius: 0;
     padding: 14px;
   }
+}
+.reia {
+  background: linear-gradient(135deg, #6B2FFF, #FF2D78);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
 }

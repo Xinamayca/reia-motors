@@ -48,7 +48,7 @@
     <div class="hero-content">
       <p class="label">ARUBA'S TRUSTED CAR DEALER</p>
       <h1><span class="h1-line1">Find your next</span><br><span class="h1-line2">car in <em>Aruba.</em></span></h1>
-      <p class="hero-sub">Browse quality used vehicles, get clear information, and book a test drive from anywhere on the island.</p>
+      <p class="hero-sub">Browse quality vehicles, get clear information, and book a test drive from anywhere on the island.</p>
 
       <div class="search-bar">
         <input id="heroQ" type="text" placeholder="Search model" />
@@ -123,13 +123,6 @@
           </div>
         </li>
         <li>
-          <span class="why-num">03</span>
-          <div>
-            <strong>Trade-ins Welcome</strong>
-            <p>Send us your car details and photos and we'll give you an honest estimate quickly.</p>
-          </div>
-        </li>
-        <li>
           <span class="why-num">04</span>
           <div>
             <strong>Fast WhatsApp Response</strong>
@@ -185,7 +178,7 @@
 
   <!-- FOOTER -->
   <footer>
-    <p>© 2026 REIA Motors • Aruba</p>
+    <p>© 2026 <span class="reia">REIA</span> Motors • Aruba</p>
     <ul>
       <li><a href="browse.html">Inventory</a></li>
       <li><a href="contact.html">Contact</a></li>
@@ -217,8 +210,11 @@
         const grid = document.getElementById('featuredGrid');
         if (!grid) return;
         grid.innerHTML = featured.map(c => `
-          <div class="car-card">
-            <div class="car-img"><img src="${(c.images && c.images.length ? c.images[0] : c.image) || ''}" alt="${c.year} ${toTitleCase(c.title.trim())}" loading="lazy"></div>
+          <div class="car-card${c.sold ? ' is-sold' : ''}">
+            <div class="car-img" style="position:relative">
+              ${c.sold ? '<span style="position:absolute;top:10px;left:10px;z-index:3;background:#111;color:#fff;font-size:9px;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;padding:4px 10px;border-radius:3px">Sold</span>' : ''}
+              <img src="${(c.images && c.images.length ? c.images[0] : c.image) || ''}" alt="${c.year} ${toTitleCase(c.title.trim())}" loading="lazy" style="${c.sold ? 'opacity:0.5;filter:grayscale(60%)' : ''}">
+            </div>
             <div class="car-info">
               <div class="car-top">
                 <span class="car-name">${c.year} ${toTitleCase(c.title.trim())}</span>

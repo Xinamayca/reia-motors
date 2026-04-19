@@ -134,9 +134,20 @@ function renderCar(car){
 
   // Badges
   if (tagsEl) {
-    const tags = ["Used"];
-    if (car.body) tags.push(car.body);
-    tagsEl.innerHTML = tags.map(t => `<span class="badge">${t}</span>`).join("");
+    const tags = [];
+    if (car.sold) tags.push({ label: "Sold", style: "background:#111;color:#fff;border-color:#111;" });
+    else tags.push({ label: "Used" });
+    if (car.body) tags.push({ label: car.body });
+    tagsEl.innerHTML = tags.map(t => `<span class="badge" style="${t.style || ''}">${t.label}</span>`).join("");
+  }
+
+  if (car.sold) {
+    const btnWaEl = document.getElementById("btnWhatsapp");
+    if (btnWaEl) {
+      btnWaEl.style.opacity = "0.4";
+      btnWaEl.style.pointerEvents = "none";
+      btnWaEl.textContent = "This car has been sold";
+    }
   }
 
   titleEl.textContent = toTitleCase(car.title || "Vehicle");

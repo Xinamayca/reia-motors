@@ -36,3 +36,4 @@ collections:
                 max: 8
                 field: { label: "Image", name: "image", widget: "image" }
               - { label: "Featured", name: "featured", widget: "boolean", default: false }
+              - { label: "Sold", name: "sold", widget: "boolean", default: false }
