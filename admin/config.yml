@@ -2,7 +2,7 @@ backend:
   name: git-gateway
   branch: main
 
-logo_url: /img/admin-logo.svg
+logo_url: /img/reia-logo.svg
 
 media_folder: "uploads"
 public_folder: "/uploads"
