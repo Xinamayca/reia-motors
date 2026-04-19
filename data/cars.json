@@ -67,6 +67,7 @@
       "price": 30000,
       "featured": true,
       "currency": "AWG",
+      "sold": true,
       "fuel": "Gasoline",
       "title": "SUZUKI SWIFT",
       "images": [
