@@ -33,14 +33,15 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px var(--side-pad);
+  padding: 0 var(--side-pad);
+  height: 64px;
   position: sticky;
   top: 0;
   z-index: 50;
   transform: translateZ(0);
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(250,250,248,0.94);
   backdrop-filter: blur(12px);
-  border-bottom: 1px solid var(--border);
+  border-bottom: 0.5px solid var(--border);
 }
 
 .nav-logo {
@@ -102,8 +103,8 @@ nav {
 .nav-mobile {
   display: none;
   flex-direction: column;
-  background: #fff;
-  border-bottom: 1px solid var(--border);
+  background: #fafaf8;
+  border-bottom: 0.5px solid var(--border);
   padding: 20px var(--side-pad) 20px;
 }
 
@@ -134,18 +135,18 @@ nav {
     top: 0;
     left: 0;
     right: 0;
-    background: #fff;
+    background: #fafaf8;
     backdrop-filter: none;
     -webkit-backdrop-filter: none;
   }
   .nav-mobile {
     position: fixed;
-    top: 65px;
+    top: 64px;
     left: 0;
     right: 0;
     z-index: 45;
   }
-  body { padding-top: 65px; }
+  body { padding-top: 64px; }
   .browse-page { padding-top: 24px; }
 }
 

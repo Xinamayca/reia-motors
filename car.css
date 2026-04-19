@@ -8,7 +8,7 @@
   --text:   #141412;
   --muted:  #888880;
   --border: #e4e3de;
-  --side-pad: 52px;
+  --side-pad: 80px;
   --bg:      #fafaf8;
   --bg-2:    #f4f3f0;
   --line:    #e4e3de;
@@ -63,9 +63,9 @@ nav {
 }
 
 .nav-links a {
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 500;
-  letter-spacing: 0.13em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
   color: var(--text-2);
   transition: color 0.18s;
@@ -422,7 +422,7 @@ nav {
 }
 
 .other-header .label {
-  font-size: 11px;
+  font-size: 13px;
   font-weight: 500;
   letter-spacing: 0.14em;
   text-transform: uppercase;

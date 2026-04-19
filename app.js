@@ -25,6 +25,11 @@ if (navToggle && mobileNav) {
 }
 
 // ===== Helpers =====
+function toTitleCase(str) {
+  if (!str) return str;
+  return str.toLowerCase().replace(/\b\w/g, c => c.toUpperCase());
+}
+
 function waLink(message) {
   return `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(message)}`;
 }
@@ -87,24 +92,21 @@ function renderFeatured(cars) {
   }
 
   grid.innerHTML = featured.map(car => `
-    <article class="card">
-      <div class="card-img">
+    <article class="car-card" style="position:relative;">
+      <a href="car.html?id=${car.id}" style="position:absolute;inset:0;z-index:1;"></a>
+      <div class="car-img">
         <img src="${car.image}" alt="${car.title}">
       </div>
-
-      <div class="card-body">
-        <div class="card-top">
-          <h3 class="card-title">${car.title}</h3>
-          <div class="card-price">${formatMoney(car.price)}</div>
+      <div class="car-info">
+        <div class="car-top">
+          <span class="car-name">${toTitleCase(car.title)}</span>
+          <span class="car-price">${formatMoney(car.price)}</span>
         </div>
-
-        <div class="card-meta">${car.body} • ${car.fuel}</div>
-        <div class="card-meta">${formatKm(car.km)} • ${car.trans}</div>
-
-        <div class="card-actions">
-          <a class="btn btn-secondary btn-sm" href="car.html?id=${car.id}">View Details</a>
-          <a class="btn btn-primary btn-sm" target="_blank" rel="noreferrer"
-             href="${waLink(`Hi REIA Motors, I'm interested in the ${car.title}. Is it still available?`)}">
+        <div class="car-meta">${car.body} · ${car.fuel} · ${formatKm(car.km)}</div>
+        <div class="car-actions" style="position:relative;z-index:2;">
+          <a class="btn-outline-sm" href="car.html?id=${car.id}">View Details</a>
+          <a class="btn-gradient-sm" target="_blank" rel="noreferrer"
+             href="${waLink(`Hi REIA Motors, I'm interested in the ${toTitleCase(car.title)}. Is it still available?`)}">
             WhatsApp
           </a>
         </div>

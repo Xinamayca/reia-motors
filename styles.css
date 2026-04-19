@@ -43,10 +43,11 @@ a{ color:inherit; text-decoration:none; }
 nav.site-nav{
   position:sticky; top:0; z-index:50;
   display:flex; justify-content:space-between; align-items:center;
-  padding: 20px var(--side-pad);
-  background: rgba(255,255,255,0.92);
+  padding: 0 var(--side-pad);
+  height: 64px;
+  background: rgba(250,250,248,0.94);
   backdrop-filter: blur(12px);
-  border-bottom: 1px solid var(--border);
+  border-bottom: 0.5px solid var(--border);
 }
 
 .nav-logo{
@@ -98,8 +99,8 @@ nav.site-nav{
 .nav-mobile{
   display:none;
   flex-direction:column;
-  border-bottom:1px solid var(--border);
-  background:#fff;
+  border-bottom:0.5px solid var(--border);
+  background:#fafaf8;
   padding: 12px var(--side-pad) 16px;
   gap: 0;
 }

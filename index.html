@@ -101,7 +101,7 @@
   <section class="why" id="why">
     <div class="why-left">
       <p class="label">WHY REIA MOTORS</p>
-      <h2>A smarter way to buy and sell in Aruba.</h2>
+      <h2>A smarter way to buy or sell in Aruba.</h2>
       <p>We keep the process simple — clear information, real photos, and quick communication. No dealership pressure. No hidden costs. Just honest service, island-wide.</p>
       <a href="about.html" class="btn-outline" style="margin-top: 32px; display: inline-block;">Learn about us →</a>
     </div>
@@ -123,7 +123,7 @@
           </div>
         </li>
         <li>
-          <span class="why-num">04</span>
+          <span class="why-num">03</span>
           <div>
             <strong>Fast WhatsApp Response</strong>
             <p>Questions about availability, paperwork, or test drives? We reply quickly — every time.</p>
@@ -139,10 +139,10 @@
       <div class="sell-text">
         <p class="label" style="color: rgba(255,255,255,0.5);">SELL YOUR CAR WITH REIA</p>
         <h2>Ready to sell? <em>We make it easy.</em></h2>
-        <p>Want to sell quickly or trade in? Send us a message on WhatsApp with your car details and we'll get back to you fast. No obligation — just a quick, honest answer.</p>
+        <p>Want to sell quickly? Send us a message on WhatsApp with your car details and we'll get back to you fast. No obligation — just a quick, honest answer.</p>
       </div>
       <div class="sell-actions">
-        <a href="https://wa.me/2975927663?text=Hi%20REIA%20Motors%2C%20I%20want%20to%20sell%20or%20trade%20in%20my%20car." target="_blank" rel="noreferrer" class="btn-gradient">Get an offer on WhatsApp</a>
+        <a href="https://wa.me/2975927663?text=Hi%20REIA%20Motors%2C%20I%20want%20to%20sell%20or%20trade%20in%20my%20car." target="_blank" rel="noreferrer" class="btn-gradient">Send us a message</a>
         <a href="contact.html" class="btn-outline-light">Contact us</a>
       </div>
     </div>
@@ -210,7 +210,8 @@
         const grid = document.getElementById('featuredGrid');
         if (!grid) return;
         grid.innerHTML = featured.map(c => `
-          <div class="car-card${c.sold ? ' is-sold' : ''}">
+          <div class="car-card${c.sold ? ' is-sold' : ''}" style="position:relative;">
+            <a href="car.html?id=${c.id}" style="position:absolute;inset:0;z-index:1;"></a>
             <div class="car-img" style="position:relative">
               ${c.sold ? '<span style="position:absolute;top:10px;left:10px;z-index:3;background:#111;color:#fff;font-size:9px;font-weight:500;letter-spacing:0.16em;text-transform:uppercase;padding:4px 10px;border-radius:3px">Sold</span>' : ''}
               <img src="${(c.images && c.images.length ? c.images[0] : c.image) || ''}" alt="${c.year} ${toTitleCase(c.title.trim())}" loading="lazy" style="${c.sold ? 'opacity:0.5;filter:grayscale(60%)' : ''}">
@@ -221,7 +222,7 @@
                 <span class="car-price">${c.currency} ${Number(c.price).toLocaleString('en-US')}</span>
               </div>
               <p class="car-meta">${c.body} · ${c.fuel} · ${Number(c.km).toLocaleString('en-US')} km · ${c.trans}</p>
-              <div class="car-actions">
+              <div class="car-actions" style="position:relative;z-index:2;">
                 <a href="car.html?id=${c.id}" class="btn-outline-sm">View Details</a>
                 <a href="https://wa.me/2975927663?text=${encodeURIComponent('Hi REIA Motors, I\'m interested in the ' + c.year + ' ' + toTitleCase(c.title.trim()) + '. Is it still available?')}" target="_blank" rel="noreferrer" class="btn-gradient-sm">WhatsApp</a>
               </div>

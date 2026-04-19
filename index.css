@@ -37,7 +37,8 @@ nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 20px var(--side-pad);
+  padding: 0 var(--side-pad);
+  height: 64px;
   position: fixed;
   top: 0;
   left: 0;
@@ -48,9 +49,9 @@ nav {
 }
 
 nav.nav-scrolled {
-  background: rgba(255, 255, 255, 0.92);
+  background: rgba(250,250,248,0.94);
   backdrop-filter: blur(12px);
-  border-bottom: 1px solid var(--border);
+  border-bottom: 0.5px solid var(--border);
 }
 
 .nav-logo {
@@ -137,7 +138,7 @@ nav.nav-scrolled .nav-burger span {
   flex-direction: column;
   gap: 0;
   position: fixed;
-  top: 65px;
+  top: 64px;
   left: 0;
   right: 0;
   background: rgba(10, 8, 20, 0.97);
@@ -149,7 +150,7 @@ nav.nav-scrolled .nav-burger span {
 
 /* When scrolled, switch to white to match the nav bar */
 nav.nav-scrolled ~ .nav-mobile {
-  background: #fff;
+  background: #fafaf8;
   border-bottom-color: var(--border);
 }
 
@@ -187,7 +188,7 @@ nav.nav-scrolled ~ .nav-mobile a {
    LABEL
 ===================== */
 .label {
-  font-size: 11px;
+  font-size: 13px;
   letter-spacing: 0.14em;
   text-transform: uppercase;
   color: var(--muted);
@@ -254,8 +255,8 @@ nav.nav-scrolled ~ .nav-mobile a {
   z-index: 2;
   pointer-events: none;
   background:
-    linear-gradient(to bottom, #0C051B 0px, #0C051B 80px, transparent 80px),
-    linear-gradient(to top,    #0C051B 0px, #0C051B 80px, transparent 80px);
+    linear-gradient(to bottom, #0C051B 0px, #0C051B 70px, transparent 70px),
+    linear-gradient(to top,    #0C051B 0px, #0C051B 70px, transparent 70px);
 }
 
 .hero-content {
@@ -287,6 +288,7 @@ nav.nav-scrolled ~ .nav-mobile a {
 }
 
 .hero .label {
+  font-size: 13px;
   color: rgba(255, 255, 255, 0.55);
 }
 
@@ -406,7 +408,8 @@ nav.nav-scrolled ~ .nav-mobile a {
 }
 
 .why .btn-outline:hover {
-  background: var(--text);
+  background: linear-gradient(135deg, var(--purple), var(--pink));
+  border-color: transparent;
   color: #fff;
 }
 
@@ -458,7 +461,7 @@ nav.nav-scrolled ~ .nav-mobile a {
 }
 
 .section-sub {
-  font-size: 13px;
+  font-size: 15px;
   color: var(--muted);
 }
 
@@ -610,7 +613,7 @@ nav.nav-scrolled ~ .nav-mobile a {
   color: var(--muted);
   font-size: 14px;
   line-height: 1.7;
-  max-width: 360px;
+  max-width: 460px;
 }
 
 .why-list {
@@ -987,7 +990,7 @@ footer ul a:hover { color: var(--text); }
 }
 
 @media (max-width: 560px) {
-  nav { padding: 20px 24px; }
+  nav { padding: 0 24px; height: 64px; }
   .nav-links { gap: 20px; }
   .section-header { flex-direction: column; align-items: flex-start; gap: 8px; }
 
