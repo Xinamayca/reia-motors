@@ -528,6 +528,11 @@ footer ul a:hover { color: var(--text); }
   .car-name { font-size: 28px; }
   .thumbs { grid-template-columns: repeat(4, 1fr); }
   footer { flex-direction: column; gap: 16px; text-align: center; }
+  .other-grid { grid-template-columns: 1fr; }
+  .other-card { border-right: none; border-bottom: 1px solid var(--line); }
+  .other-card:nth-child(2) { border-right: none; }
+  .other-card:nth-child(3) { display: flex; }
+  .other-card:last-child { border-bottom: none; }
 }
 
 .reia {

@@ -8,7 +8,7 @@
 }
 
 body {
-  font-family: Georgia, serif;
+  font-family: 'Poppins', sans-serif;
   font-weight: 300;
   color: #111;
   background: #fff;
@@ -438,6 +438,7 @@ footer {
   padding: 28px var(--side-pad);
   border-top: 1px solid var(--border);
   font-family: 'Poppins', sans-serif;
+  margin-top: 60px;
 }
 
 footer p {
@@ -503,6 +504,7 @@ footer ul a:hover {
 
   nav { padding: 0 24px; height: 64px; }
   .nav-links { gap: 20px; }
+  footer { flex-direction: column; gap: 16px; text-align: center; }
 }
 .reia {
   background: linear-gradient(135deg, #6B2FFF, #FF2D78);
