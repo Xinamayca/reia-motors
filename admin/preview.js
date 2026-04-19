@@ -1,5 +1,4 @@
 // REIA Motors — Decap CMS Preview Template
-var h = CMS.h;
 
 function toTitleCase(str) {
   if (!str) return str;
