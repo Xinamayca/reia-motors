@@ -647,6 +647,94 @@
       ],
       "id": "2343",
       "year": 2025
+    },
+    {
+      "km": 31000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 33000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "NISSAN VERSA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.35.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-3-.jpeg"
+      ],
+      "id": "0240",
+      "year": 2022
+    },
+    {
+      "km": 125125,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 14500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "VOLKWAGEN SETTA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.21-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.22.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.21.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.21-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-3-.jpeg"
+      ],
+      "id": "9348",
+      "year": 2013
+    },
+    {
+      "km": 143492,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 19000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "JEEP LIBERTY",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.43.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-2-.jpeg"
+      ],
+      "id": "8763",
+      "year": 2009
+    },
+    {
+      "km": 181000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 24000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "HUMMER H3",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.07.11-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.07.11-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.07.10-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.07.11.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.07.12.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.07.12-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.07.10.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.07.11-1-.jpeg"
+      ],
+      "id": "0767",
+      "year": 2007
     }
   ]
 }
