@@ -560,6 +560,93 @@
       ],
       "id": "XNKA",
       "year": 2014
+    },
+    {
+      "km": 140000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 14000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "KIA PICANTO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.34.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.34-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.35.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.36.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-4-.jpeg"
+      ],
+      "id": "4532",
+      "year": 2015
+    },
+    {
+      "km": 44000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "NISSAN JUKE NISMO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.33.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.31.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-3-.jpeg"
+      ],
+      "id": "1896",
+      "year": 2013
+    },
+    {
+      "km": 0,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "CHEVROLET OPTRA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.53.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.54.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.54-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.53-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.54-2-.jpeg"
+      ],
+      "id": "8730",
+      "year": 2007
+    },
+    {
+      "km": 0,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 35000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Electric",
+      "title": "BYD SEAGULL",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.46.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.44.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.44-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.44-2-.jpeg"
+      ],
+      "id": "2343",
+      "year": 2025
     }
   ]
 }
