@@ -796,6 +796,49 @@
       ],
       "id": "9138",
       "year": 2012
+    },
+    {
+      "km": 75000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 29500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "JEEP WRANGLER ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-23.25.26-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.25.26-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.25.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.25.25.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.25.26.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.25.24.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.25.25-1-.jpeg"
+      ],
+      "id": "OLDRICK1",
+      "year": 2015
+    },
+    {
+      "km": 75000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 35000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "JEEP WRANGLER ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-23.23.04-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.23.03-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.23.04-6-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.23.03.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.23.04-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.23.04-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.23.03-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.23.04.jpeg"
+      ],
+      "id": "OLDRICK2",
+      "year": 2014
     }
   ]
 }
