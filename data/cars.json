@@ -861,6 +861,28 @@
       ],
       "id": "OWNER1",
       "year": 2015
+    },
+    {
+      "km": 1000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 65000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Electric",
+      "title": "KIA EV5",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.20-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.20.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.22.jpeg"
+      ],
+      "id": "BLUEHORIZON1 ",
+      "year": 2025
     }
   ]
 }
