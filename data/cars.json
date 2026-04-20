@@ -385,6 +385,93 @@
       ],
       "id": "8358",
       "year": 2024
+    },
+    {
+      "km": 194746,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "GMC TERRAIN AWD",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.41.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.42-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.43-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.43-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.42-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.43.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.43-1-.jpeg"
+      ],
+      "id": "2264",
+      "year": 2014
+    },
+    {
+      "km": 111580,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "TOYOTA AXIO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.56.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.56-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.58.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.58-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.57.jpeg"
+      ],
+      "id": "9319",
+      "year": 2007
+    },
+    {
+      "km": 200374,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 9500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "FORD EXPLORER",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.23.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.25-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.25.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.23-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.24-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.24.jpeg"
+      ],
+      "id": "3640",
+      "year": 2007
+    },
+    {
+      "km": 229676,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "TOYOA RAV 4",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.57-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.59.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.58.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.57.jpeg"
+      ],
+      "id": "7450",
+      "year": 2007
     }
   ]
 }
