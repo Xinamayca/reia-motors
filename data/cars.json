@@ -839,6 +839,28 @@
       ],
       "id": "OLDRICK2",
       "year": 2014
+    },
+    {
+      "km": 147000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Hybrid",
+      "title": "TOYOTA AQUA GS",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.53.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.53-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.00-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.54.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.00.jpeg"
+      ],
+      "id": "OWNER1",
+      "year": 2015
     }
   ]
 }
