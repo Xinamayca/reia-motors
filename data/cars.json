@@ -775,6 +775,27 @@
       ],
       "id": "9500",
       "year": 2006
+    },
+    {
+      "km": 50287,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 14500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "SUZUKI SWIFT",
+      "images": [
+        "/uploads/img_9608-2.jpg",
+        "/uploads/img_9607.jpg",
+        "/uploads/img_9610.jpg",
+        "/uploads/img_1850.jpg",
+        "/uploads/img_1849.jpg",
+        "/uploads/img_1848.jpg",
+        "/uploads/img_9609.jpg"
+      ],
+      "id": "9138",
+      "year": 2012
     }
   ]
 }
