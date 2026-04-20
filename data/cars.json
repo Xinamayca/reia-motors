@@ -866,7 +866,7 @@
       "body": "SUV",
       "trans": "Automatic",
       "price": 65000,
-      "featured": true,
+      "featured": false,
       "currency": "AWG",
       "fuel": "Electric",
       "title": "KIA EV5",
