@@ -735,6 +735,27 @@
       ],
       "id": "0767",
       "year": 2007
+    },
+    {
+      "km": 99000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "HYUNDAI ELANTRA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.55.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.57.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.55-1-.jpeg"
+      ],
+      "id": "9912",
+      "year": 2013
     }
   ]
 }
