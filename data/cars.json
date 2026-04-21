@@ -502,7 +502,7 @@
       "body": "Sedan",
       "trans": "Automatic",
       "price": 23500,
-      "featured": true,
+      "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "Hyundai Elantra",
