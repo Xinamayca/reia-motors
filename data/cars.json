@@ -914,15 +914,34 @@
       "fuel": "Gasoline",
       "title": "chevrolet colorado",
       "images": [
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-6-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-5-.jpeg"
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-2-.jpeg"
       ],
       "id": "2655",
       "year": 2022
+    },
+    {
+      "km": 146000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "HUMMER H3 ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-6-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-3-.jpeg"
+      ],
+      "id": "fl1",
+      "year": 2006
     }
   ]
 }
