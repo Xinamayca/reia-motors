@@ -1,47 +1,25 @@
 {
   "cars": [
     {
-      "km": 67000,
-      "body": "Sedan",
+      "km": 72888,
+      "body": "Truck",
       "trans": "Automatic",
-      "price": 23500,
+      "price": 65000,
       "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "Hyundai Elantra",
+      "title": "CHEVROLET SILVERADO",
       "images": [
-        "/uploads/whatsapp-image-2026-02-26-at-15.37.31.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.29-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.29-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.30-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.30-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.30-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.29-4-.jpeg"
+        "/uploads/whatsapp-image-2026-04-12-at-20.02.14.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.14-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.15-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.16.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.15-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.15.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.15-3-.jpeg"
       ],
-      "id": "4100",
-      "year": 2018
-    },
-    {
-      "km": 111998,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 60000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "Ford Expedition ",
-      "images": [
-        "/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.30.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-2-.jpeg"
-      ],
-      "id": "5658",
-      "year": 2019
+      "id": "8637",
+      "year": 2017
     },
     {
       "km": 0,
@@ -88,258 +66,26 @@
       "year": 2025
     },
     {
-      "km": 43000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": true,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "SUZUKI SWIFT",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-19.52.09.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.48.41.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.48.42.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.48.41-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.48.42-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.22.39.jpeg"
-      ],
-      "id": "9418",
-      "year": 2024
-    },
-    {
-      "km": 129000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 17000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "CHEVROLET BEAT LT",
-      "images": [
-        "/uploads/whatsapp-image-2026-03-20-at-17.18.14.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.07-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.08.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.53.41-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.53.41-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.53.41.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.07-3-.jpeg"
-      ],
-      "id": "8039",
-      "year": 2019
-    },
-    {
-      "km": 124000,
+      "km": 1000,
       "body": "SUV",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "KIA SPORTAGE ",
-      "images": [
-        "/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-2-.jpeg"
-      ],
-      "id": "6096",
-      "year": 2016
-    },
-    {
-      "km": 264000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "FORD EDGE",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-19.54.16.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.24.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.23-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.24-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.23-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.23-1-.jpeg"
-      ],
-      "id": "6476",
-      "year": 2015
-    },
-    {
-      "km": 72268,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": true,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "CHEVROLET CAVALIER",
-      "images": [
-        "/uploads/6dd1ec1f-442c-4fa5-bafa-908261ee1d4b.jpg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.34-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.32.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.34.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-2-.jpeg"
-      ],
-      "id": "0501",
-      "year": 2019
-    },
-    {
-      "km": 79074,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": true,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "TOYOTA AQUA GR ",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-19.58.16.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.42-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.43.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.44.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.42.jpeg"
-      ],
-      "id": "6139",
-      "year": 2018
-    },
-    {
-      "km": 218523,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "FORD EDGE ",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-19.59.59.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.27-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.42.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.27.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.27-2-.jpeg"
-      ],
-      "id": "9666",
-      "year": 2011
-    },
-    {
-      "km": 176435,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 22500,
-      "featured": true,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "TOYOTA YARIS",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.00.30.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.13-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.14.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.13.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.13-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.12-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.12.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.14-1-.jpeg"
-      ],
-      "id": "2809",
-      "year": 2018
-    },
-    {
-      "km": 107000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 12500,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "MAZDA DEMIO",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.00.55.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.00.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.00-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.58.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.59.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.59-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.00-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.59-1-.jpeg"
-      ],
-      "id": "9505",
-      "year": 2013
-    },
-    {
-      "km": 72888,
-      "body": "Truck",
       "trans": "Automatic",
       "price": 65000,
-      "featured": true,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "CHEVROLET SILVERADO",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.02.14.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.14-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.15-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.16.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.15-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.15.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.15-3-.jpeg"
-      ],
-      "id": "8637",
-      "year": 2017
-    },
-    {
-      "km": 909987,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 24500,
-      "featured": true,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "FORD FUSION",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.02.39.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.27.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.27-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.26-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.26.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.27-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.27-2-.jpeg"
-      ],
-      "id": "8449",
-      "year": 2017
-    },
-    {
-      "km": 170000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 13500,
       "featured": false,
       "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "HYUNDAI TUCSON",
+      "fuel": "Electric",
+      "title": "KIA EV5 ",
       "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.03.12.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.39.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.38.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-4-.jpeg"
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.20-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.20.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.22.jpeg"
       ],
-      "id": "4216",
-      "year": 2011
+      "id": "blue1",
+      "year": 2025
     },
     {
       "km": 25723,
@@ -364,26 +110,47 @@
       "year": 2022
     },
     {
-      "km": 6108,
-      "body": "Hatchback",
+      "km": 111998,
+      "body": "SUV",
       "trans": "Automatic",
-      "price": 45000,
-      "featured": true,
+      "price": 60000,
+      "featured": false,
       "currency": "AWG",
-      "fuel": "Hybrid",
-      "title": "BYD QIN",
+      "fuel": "Gasoline",
+      "title": "Ford Expedition ",
       "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.06.14.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.34-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.34-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.35.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.35-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.34-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.34.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.35-1-.jpeg"
+        "/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.31.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.30.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-2-.jpeg"
       ],
-      "id": "8358",
-      "year": 2024
+      "id": "5658",
+      "year": 2019
+    },
+    {
+      "km": 124000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "KIA SPORTAGE ",
+      "images": [
+        "/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-2-.jpeg"
+      ],
+      "id": "6096",
+      "year": 2016
     },
     {
       "km": 194746,
@@ -407,26 +174,65 @@
       "year": 2014
     },
     {
-      "km": 111580,
-      "body": "Sedan",
+      "km": 264000,
+      "body": "Hatchback",
       "trans": "Automatic",
-      "price": 12000,
+      "price": 30000,
       "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "TOYOTA AXIO",
+      "title": "FORD EDGE",
       "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.56.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.56-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.58.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.58-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.57.jpeg"
+        "/uploads/whatsapp-image-2026-04-12-at-19.54.16.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.24.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.23-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.23-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.23-1-.jpeg"
       ],
-      "id": "9319",
-      "year": 2007
+      "id": "6476",
+      "year": 2015
+    },
+    {
+      "km": 218523,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "FORD EDGE ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-19.59.59.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.27-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.42.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.27.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.27-2-.jpeg"
+      ],
+      "id": "9666",
+      "year": 2011
+    },
+    {
+      "km": 170000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 13500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "HYUNDAI TUCSON",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.03.12.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.39.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.38.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-4-.jpeg"
+      ],
+      "id": "4216",
+      "year": 2011
     },
     {
       "km": 200374,
@@ -451,6 +257,28 @@
       "year": 2007
     },
     {
+      "km": 88110,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "HONDA CRV",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.19-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.19.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.21.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.20.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-3-.jpeg"
+      ],
+      "id": "1760",
+      "year": 2012
+    },
+    {
       "km": 229676,
       "body": "SUV",
       "trans": "Automatic",
@@ -471,6 +299,50 @@
       ],
       "id": "7450",
       "year": 2007
+    },
+    {
+      "km": 44000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "NISSAN JUKE NISMO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.33.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.31.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-3-.jpeg"
+      ],
+      "id": "1896",
+      "year": 2013
+    },
+    {
+      "km": 6108,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 45000,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Hybrid",
+      "title": "BYD QIN",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.06.14.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.34-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.34-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.35.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.35-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.34-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.34.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.35-1-.jpeg"
+      ],
+      "id": "8358",
+      "year": 2024
     },
     {
       "km": 31444,
@@ -495,26 +367,70 @@
       "year": 2024
     },
     {
-      "km": 88110,
-      "body": "SUV",
+      "km": 79074,
+      "body": "Hatchback",
       "trans": "Automatic",
       "price": 25000,
       "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "HONDA CRV",
+      "title": "TOYOTA AQUA GR ",
       "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.19-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.19.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.21.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.20.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.20-3-.jpeg"
+        "/uploads/whatsapp-image-2026-04-12-at-19.58.16.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.42-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.43.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.44.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.42.jpeg"
       ],
-      "id": "1760",
-      "year": 2012
+      "id": "6139",
+      "year": 2018
+    },
+    {
+      "km": 147000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Hybrid",
+      "title": "TOYOTA AQUA GS",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.53.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.53-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.00-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.54.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.00.jpeg"
+      ],
+      "id": "OWNER1",
+      "year": 2015
+    },
+    {
+      "km": 176435,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 22500,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "TOYOTA YARIS",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.00.30.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.13-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.14.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.13.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.13-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.12-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.12.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.14-1-.jpeg"
+      ],
+      "id": "2809",
+      "year": 2018
     },
     {
       "km": 72770,
@@ -537,6 +453,242 @@
       ],
       "id": "4283",
       "year": 2017
+    },
+    {
+      "km": 129000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 17000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "CHEVROLET BEAT LT",
+      "images": [
+        "/uploads/whatsapp-image-2026-03-20-at-17.18.14.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.07-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.08.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.53.41-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.53.41-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.53.41.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.07-3-.jpeg"
+      ],
+      "id": "8039",
+      "year": 2019
+    },
+    {
+      "km": 31000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 33000,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "NISSAN VERSA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.35.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-3-.jpeg"
+      ],
+      "id": "0240",
+      "year": 2022
+    },
+    {
+      "km": 909987,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 24500,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "FORD FUSION",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.02.39.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.27.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.27-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.26-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.26.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.27-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.27-2-.jpeg"
+      ],
+      "id": "8449",
+      "year": 2017
+    },
+    {
+      "km": 67000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 23500,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Hyundai Elantra",
+      "images": [
+        "/uploads/whatsapp-image-2026-02-26-at-15.37.31.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.29-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.29-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.30-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.30-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.30-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.29-4-.jpeg"
+      ],
+      "id": "4100",
+      "year": 2018
+    },
+    {
+      "km": 99000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "HYUNDAI ELANTRA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.55.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.57.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.55-1-.jpeg"
+      ],
+      "id": "9912",
+      "year": 2013
+    },
+    {
+      "km": 125125,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 14500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "VOLKWAGEN SETTA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.21-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.22.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.21.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.21-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-3-.jpeg"
+      ],
+      "id": "9348",
+      "year": 2013
+    },
+    {
+      "km": 72268,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": true,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "CHEVROLET CAVALIER",
+      "images": [
+        "/uploads/6dd1ec1f-442c-4fa5-bafa-908261ee1d4b.jpg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.34-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.32.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.34.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-2-.jpeg"
+      ],
+      "id": "0501",
+      "year": 2019
+    },
+    {
+      "km": 111580,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "TOYOTA AXIO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.56.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.56-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.58.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.58-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.00.57.jpeg"
+      ],
+      "id": "9319",
+      "year": 2007
+    },
+    {
+      "km": 0,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 35000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Electric",
+      "title": "BYD SEAGULL",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.46.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.44.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.44-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.44-2-.jpeg"
+      ],
+      "id": "2343",
+      "year": 2025
+    },
+    {
+      "km": 43000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": true,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "SUZUKI SWIFT",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-19.52.09.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.48.41.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.48.42.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.48.41-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.48.42-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.22.39.jpeg"
+      ],
+      "id": "9418",
+      "year": 2024
+    },
+    {
+      "km": 50287,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 14500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "SUZUKI SWIFT",
+      "images": [
+        "/uploads/img_9608-2.jpg",
+        "/uploads/img_9607.jpg",
+        "/uploads/img_9610.jpg",
+        "/uploads/img_1850.jpg",
+        "/uploads/img_1849.jpg",
+        "/uploads/img_1848.jpg",
+        "/uploads/img_9609.jpg"
+      ],
+      "id": "9138",
+      "year": 2012
     },
     {
       "km": 77000,
@@ -583,25 +735,25 @@
       "year": 2015
     },
     {
-      "km": 44000,
-      "body": "SUV",
+      "km": 107000,
+      "body": "Hatchback",
       "trans": "Automatic",
-      "price": 20000,
-      "featured": true,
+      "price": 12500,
+      "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "NISSAN JUKE NISMO",
+      "title": "MAZDA DEMIO",
       "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.31-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.33.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.31.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-3-.jpeg"
+        "/uploads/whatsapp-image-2026-04-12-at-20.00.55.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.00.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.00-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.58.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.59.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.59-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.00-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.59-1-.jpeg"
       ],
-      "id": "1896",
+      "id": "9505",
       "year": 2013
     },
     {
@@ -626,94 +778,6 @@
       "year": 2007
     },
     {
-      "km": 0,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 35000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Electric",
-      "title": "BYD SEAGULL",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.46.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.44.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.45.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.44-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.44-2-.jpeg"
-      ],
-      "id": "2343",
-      "year": 2025
-    },
-    {
-      "km": 31000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 33000,
-      "featured": true,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "NISSAN VERSA",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.35.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-3-.jpeg"
-      ],
-      "id": "0240",
-      "year": 2022
-    },
-    {
-      "km": 125125,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 14500,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "VOLKWAGEN SETTA",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.21-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.22.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.21.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.21-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-3-.jpeg"
-      ],
-      "id": "9348",
-      "year": 2013
-    },
-    {
-      "km": 143492,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 19000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "JEEP LIBERTY",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.43.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-2-.jpeg"
-      ],
-      "id": "8763",
-      "year": 2009
-    },
-    {
       "km": 181000,
       "body": "SUV",
       "trans": "Automatic",
@@ -734,67 +798,6 @@
       ],
       "id": "0767",
       "year": 2007
-    },
-    {
-      "km": 99000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "HYUNDAI ELANTRA",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.55.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.57.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.55-1-.jpeg"
-      ],
-      "id": "9912",
-      "year": 2013
-    },
-    {
-      "km": 33152,
-      "body": "Motorcycle",
-      "trans": "Manual",
-      "price": 22750,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "HARLEY DAVISON SPORTSTER 1200",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.13-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.13.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.13-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.14.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.13-2-.jpeg"
-      ],
-      "id": "9500",
-      "year": 2006
-    },
-    {
-      "km": 50287,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 14500,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "SUZUKI SWIFT",
-      "images": [
-        "/uploads/img_9608-2.jpg",
-        "/uploads/img_9607.jpg",
-        "/uploads/img_9610.jpg",
-        "/uploads/img_1850.jpg",
-        "/uploads/img_1849.jpg",
-        "/uploads/img_1848.jpg",
-        "/uploads/img_9609.jpg"
-      ],
-      "id": "9138",
-      "year": 2012
     },
     {
       "km": 75000,
@@ -840,48 +843,45 @@
       "year": 2014
     },
     {
-      "km": 147000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": true,
-      "currency": "AWG",
-      "fuel": "Hybrid",
-      "title": "TOYOTA AQUA GS",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.53.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.53-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.53-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.00-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.54.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.54-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.00.jpeg"
-      ],
-      "id": "OWNER1",
-      "year": 2015
-    },
-    {
-      "km": 1000,
+      "km": 143492,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 65000,
+      "price": 19000,
       "featured": false,
       "currency": "AWG",
-      "fuel": "Electric",
-      "title": "KIA EV5 ",
+      "fuel": "Gasoline",
+      "title": "JEEP LIBERTY",
       "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.21.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.20-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.20.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.22.jpeg"
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.43.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-2-.jpeg"
       ],
-      "id": "blue1",
-      "year": 2025
+      "id": "8763",
+      "year": 2009
+    },
+    {
+      "km": 33152,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 22750,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "HARLEY DAVISON SPORTSTER 1200",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.13-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.13.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.13-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.14.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.13-2-.jpeg"
+      ],
+      "id": "9500",
+      "year": 2006
     }
   ]
 }
