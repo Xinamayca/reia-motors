@@ -882,6 +882,47 @@
       ],
       "id": "9500",
       "year": 2006
+    },
+    {
+      "km": 142797,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 34000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Hybrid",
+      "title": "toyota Camry ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.52-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.52-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.53.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.52-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.56.jpeg"
+      ],
+      "id": "0927",
+      "year": 2018
+    },
+    {
+      "km": 96000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 58000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "chevrolet colorado",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-6-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-5-.jpeg"
+      ],
+      "id": "2655",
+      "year": 2022
     }
   ]
 }
