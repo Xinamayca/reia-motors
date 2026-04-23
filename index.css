@@ -639,11 +639,37 @@ nav.nav-scrolled ~ .nav-mobile a {
   background: #0e0e12;
   padding: 100px var(--side-pad);
   text-align: center;
+  position: relative;
+  overflow: hidden;
 }
 
 .imports-inner {
+  position: relative;
+  z-index: 2;
   max-width: 720px;
   margin: 0 auto;
+}
+
+.imports-blob {
+  position: absolute;
+  pointer-events: none;
+  z-index: 1;
+  opacity: 0.35;
+}
+
+.imports-blob-left {
+  left: -140px;
+  top: -80px;
+}
+
+.imports-blob-right {
+  right: -140px;
+  bottom: -120px;
+}
+
+.blob-imports {
+  width: 500px;
+  height: 500px;
 }
 
 .imports .label {
