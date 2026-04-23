@@ -652,24 +652,17 @@ nav.nav-scrolled ~ .nav-mobile a {
 
 .imports-blob {
   position: absolute;
+  left: 50%;
+  bottom: -140px;
+  transform: translateX(-50%);
   pointer-events: none;
   z-index: 1;
   opacity: 0.35;
 }
 
-.imports-blob-left {
-  left: -140px;
-  top: -80px;
-}
-
-.imports-blob-right {
-  right: -140px;
-  bottom: -120px;
-}
-
 .blob-imports {
-  width: 500px;
-  height: 500px;
+  width: 420px;
+  height: 420px;
 }
 
 .imports .label {
