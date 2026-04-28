@@ -8,8 +8,6 @@
   <meta name="description" content="Browse quality used vehicles in Aruba. Clear info, real photos, and fast WhatsApp response." />
   <link rel="stylesheet" href="index.css" />
   <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&display=swap" rel="stylesheet"/>
-  <!-- Netlify Identity -->
-  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 </head>
 <body>
 
@@ -201,21 +199,6 @@
   </footer>
 
   <script>
-    (function () {
-      const hash = window.location.hash || "";
-      if (
-        hash.includes("confirmation_token=") ||
-        hash.includes("invite_token=") ||
-        hash.includes("recovery_token=")
-      ) {
-        window.location.replace("/admin/" + hash);
-        return;
-      }
-      if (window.netlifyIdentity) {
-        window.netlifyIdentity.init();
-      }
-    })();
-
     // Load featured cars
     function toTitleCase(str){ return str ? str.toLowerCase().replace(/\b\w/g, c => c.toUpperCase()) : str; }
     fetch('/data/cars.json', { cache: 'no-store' })
