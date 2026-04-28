@@ -1,6 +1,9 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: llacle/reia-motors
   branch: main
+  base_url: https://reiamotors.com
+  auth_endpoint: api/auth
 
 logo_url: /img/reia-logo.svg
 
