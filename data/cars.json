@@ -942,6 +942,48 @@
       ],
       "id": "fl1",
       "year": 2006
+    },
+    {
+      "km": 75297,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 33000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "MG ZS ELITE ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.52-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-1-.jpeg"
+      ],
+      "id": "0352",
+      "year": 2020
+    },
+    {
+      "km": 80000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 26000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Jaguar XF",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.54.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-2-.jpeg"
+      ],
+      "id": "wen1 ",
+      "year": 2016
     }
   ]
 }
