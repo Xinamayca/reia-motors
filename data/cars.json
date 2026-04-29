@@ -199,6 +199,7 @@
       "price": 13500,
       "featured": false,
       "currency": "AWG",
+      "sold": true,
       "fuel": "Gasoline",
       "title": "HYUNDAI TUCSON",
       "images": [
@@ -220,6 +221,7 @@
       "price": 9500,
       "featured": false,
       "currency": "AWG",
+      "sold": true,
       "fuel": "Gasoline",
       "title": "FORD EXPLORER",
       "images": [
@@ -504,6 +506,7 @@
       "price": 23500,
       "featured": false,
       "currency": "AWG",
+      "sold": true,
       "fuel": "Gasoline",
       "title": "Hyundai Elantra",
       "images": [
@@ -587,7 +590,7 @@
       "km": 111580,
       "body": "Sedan",
       "trans": "Automatic",
-      "price": 12000,
+      "price": 10000,
       "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
@@ -742,6 +745,7 @@
       "price": 12500,
       "featured": false,
       "currency": "AWG",
+      "sold": true,
       "fuel": "Gasoline",
       "title": "CHEVROLET OPTRA",
       "images": [
