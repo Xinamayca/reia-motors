@@ -57,9 +57,10 @@ function normalizeCars(data){
 }
 
 function findCar(cars, id){
-  let car = cars.find(c => String(c.id) === String(id));
+  const target = String(id || "").trim();
+  let car = cars.find(c => String(c.id || "").trim() === target);
   if (car) return car;
-  const idLower = String(id || "").toLowerCase();
+  const idLower = target.toLowerCase();
   car = cars.find(c => String(c.title || "").toLowerCase().replace(/\s+/g, "-") === idLower);
   return car || null;
 }
