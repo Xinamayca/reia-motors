@@ -1080,6 +1080,27 @@
       ],
       "id": "kow1",
       "year": 2009
+    },
+    {
+      "km": 200000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 40000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "ford f-150",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.28-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.28-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.28-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.28-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.28-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.29.jpeg"
+      ],
+      "id": "Tony1",
+      "year": 2012
     }
   ]
 }
