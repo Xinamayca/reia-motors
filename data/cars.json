@@ -1055,6 +1055,74 @@
       ],
       "id": "ema1 ",
       "year": 2006
+    },
+    {
+      "km": 200000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 40000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford F-150",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.28-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.28-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.28-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.29-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.28-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.29.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.28-3-.jpeg"
+      ],
+      "id": "TONY1 ",
+      "year": 2012
+    },
+    {
+      "km": 0,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "jeep wrangler ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.39-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.39.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.39-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-5-.jpeg"
+      ],
+      "id": "kow1 ",
+      "year": 2009
+    },
+    {
+      "km": 110000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 65000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "dodge challenger sxt ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-6-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.54.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.54-1-.jpeg"
+      ],
+      "id": "wen2",
+      "year": 2020
     }
   ]
 }
