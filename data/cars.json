@@ -52,7 +52,7 @@
       "featured": false,
       "currency": "AWG",
       "fuel": "Electric",
-      "title": "KIA EV5 ",
+      "title": "KIA EV5",
       "images": [
         "/uploads/whatsapp-image-2026-04-16-at-20.55.21.jpeg",
         "/uploads/whatsapp-image-2026-04-16-at-20.55.21-4-.jpeg",
@@ -96,7 +96,7 @@
       "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "Ford Expedition ",
+      "title": "Ford Expedition",
       "images": [
         "/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg",
         "/uploads/whatsapp-image-2026-04-16-at-23.13.31.jpeg",
@@ -139,7 +139,7 @@
       "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "KIA SPORTAGE ",
+      "title": "KIA SPORTAGE",
       "images": [
         "/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg",
         "/uploads/whatsapp-image-2026-04-16-at-20.57.01.jpeg",
@@ -181,7 +181,7 @@
       "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "FORD EDGE ",
+      "title": "FORD EDGE",
       "images": [
         "/uploads/whatsapp-image-2026-04-12-at-19.59.59.jpeg",
         "/uploads/whatsapp-image-2026-04-16-at-20.58.27-1-.jpeg",
@@ -355,7 +355,7 @@
       "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "TOYOTA AQUA GR ",
+      "title": "TOYOTA AQUA GR",
       "images": [
         "/uploads/whatsapp-image-2026-04-12-at-19.58.16.jpeg",
         "/uploads/whatsapp-image-2026-04-16-at-20.57.42-1-.jpeg",
@@ -791,7 +791,7 @@
       "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "JEEP WRANGLER ",
+      "title": "JEEP WRANGLER",
       "images": [
         "/uploads/whatsapp-image-2026-04-16-at-23.25.26-1-.jpeg",
         "/uploads/whatsapp-image-2026-04-16-at-23.25.26-3-.jpeg",
@@ -812,7 +812,7 @@
       "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "JEEP WRANGLER ",
+      "title": "JEEP WRANGLER",
       "images": [
         "/uploads/whatsapp-image-2026-04-16-at-23.23.04-2-.jpeg",
         "/uploads/whatsapp-image-2026-04-16-at-23.23.03-2-.jpeg",
@@ -896,7 +896,7 @@
       "featured": false,
       "currency": "AWG",
       "fuel": "Hybrid",
-      "title": "toyota Camry ",
+      "title": "toyota Camry",
       "images": [
         "/uploads/whatsapp-image-2026-04-20-at-22.30.52-2-.jpeg",
         "/uploads/whatsapp-image-2026-04-20-at-22.30.52-1-.jpeg",
@@ -936,7 +936,7 @@
       "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "HUMMER H3 ",
+      "title": "HUMMER H3",
       "images": [
         "/uploads/whatsapp-image-2026-04-20-at-23.18.06-6-.jpeg",
         "/uploads/whatsapp-image-2026-04-20-at-23.18.06-1-.jpeg",
@@ -956,7 +956,7 @@
       "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "MG ZS ELITE ",
+      "title": "MG ZS ELITE",
       "images": [
         "/uploads/whatsapp-image-2026-04-24-at-07.45.53-5-.jpeg",
         "/uploads/whatsapp-image-2026-04-24-at-07.45.52-1-.jpeg",
@@ -987,7 +987,7 @@
         "/uploads/whatsapp-image-2026-04-24-at-07.39.55-3-.jpeg",
         "/uploads/whatsapp-image-2026-04-24-at-07.39.55-2-.jpeg"
       ],
-      "id": "wen1 ",
+      "id": "wen1",
       "year": 2016
     },
     {
@@ -999,7 +999,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "suzuki swift ",
+      "title": "suzuki swift",
       "images": [
         "/uploads/whatsapp-image-2026-04-28-at-17.05.01-1-.jpeg",
         "/uploads/whatsapp-image-2026-04-28-at-17.05.02-5-.jpeg",
@@ -1010,7 +1010,7 @@
         "/uploads/whatsapp-image-2026-04-28-at-17.05.02.jpeg",
         "/uploads/whatsapp-image-2026-04-28-at-17.05.02-4-.jpeg"
       ],
-      "id": "Juan ",
+      "id": "Juan",
       "year": 2011
     },
     {
@@ -1022,7 +1022,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "toyota iq ",
+      "title": "toyota iq",
       "images": [
         "/uploads/whatsapp-image-2026-04-28-at-17.07.48-4-.jpeg",
         "/uploads/whatsapp-image-2026-04-28-at-17.07.47.jpeg",
@@ -1042,7 +1042,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Nissan note ",
+      "title": "Nissan note",
       "images": [
         "/uploads/whatsapp-image-2026-04-30-at-16.42.24-1-.jpeg",
         "/uploads/whatsapp-image-2026-04-30-at-16.42.24-2-.jpeg",
@@ -1053,7 +1053,7 @@
         "/uploads/whatsapp-image-2026-04-30-at-16.42.24-3-.jpeg",
         "/uploads/whatsapp-image-2026-04-30-at-16.42.23.jpeg"
       ],
-      "id": "ema1 ",
+      "id": "ema1",
       "year": 2006
     },
     {
@@ -1065,7 +1065,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "jeep wrangler ",
+      "title": "jeep wrangler",
       "images": [
         "/uploads/whatsapp-image-2026-04-30-at-18.31.38.jpeg",
         "/uploads/whatsapp-image-2026-04-30-at-18.31.38-2-.jpeg",
@@ -1076,7 +1076,7 @@
         "/uploads/whatsapp-image-2026-04-30-at-18.31.38-4-.jpeg",
         "/uploads/whatsapp-image-2026-04-30-at-18.31.38-5-.jpeg"
       ],
-      "id": "kow1 ",
+      "id": "kow1",
       "year": 2009
     },
     {
@@ -1088,7 +1088,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "dodge challenger sxt ",
+      "title": "dodge challenger sxt",
       "images": [
         "/uploads/whatsapp-image-2026-04-30-at-18.31.53-3-.jpeg",
         "/uploads/whatsapp-image-2026-04-30-at-18.31.53.jpeg",
@@ -1121,7 +1121,7 @@
         "/uploads/whatsapp-image-2026-04-30-at-18.31.29.jpeg",
         "/uploads/whatsapp-image-2026-04-30-at-18.31.28-3-.jpeg"
       ],
-      "id": "ton1 ",
+      "id": "ton1",
       "year": 2012
     }
   ]
