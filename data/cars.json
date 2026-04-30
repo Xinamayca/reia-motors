@@ -1057,6 +1057,29 @@
       ],
       "id": "Juan1",
       "year": 2011
+    },
+    {
+      "km": 160000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "jeep wrangler",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.39-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.39.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.39-2-.jpeg"
+      ],
+      "id": "kow1",
+      "year": 2009
     }
   ]
 }
