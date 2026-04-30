@@ -1101,6 +1101,29 @@
       ],
       "id": "Tony1",
       "year": 2012
+    },
+    {
+      "km": 60000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 11000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "nissan note",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.23-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.23.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-4-.jpeg"
+      ],
+      "id": "eman1",
+      "year": 2006
     }
   ]
 }
