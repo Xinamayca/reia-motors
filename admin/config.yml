@@ -24,8 +24,8 @@ collections:
             widget: "list"
             summary: "{{title}} — {{currency}} {{price}}"
             fields:
-              - { label: "ID", name: "id", widget: "string" }
-              - { label: "Title", name: "title", widget: "string" }
+              - { label: "ID", name: "id", widget: "string", pattern: ['^\S+(\s+\S+)*$', "No leading or trailing spaces"] }
+              - { label: "Title", name: "title", widget: "string", pattern: ['^\S+(\s+\S+)*$', "No leading or trailing spaces"] }
               - { label: "Currency", name: "currency", widget: "string", default: "AWG" }
               - { label: "Price", name: "price", widget: "number" }
               - { label: "Body type", name: "body", widget: "select", options: ["SUV","Sedan","Hatchback","Truck","Van","Motorcycle"] }
