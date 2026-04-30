@@ -67,6 +67,28 @@
       "year": 2025
     },
     {
+      "km": 111998,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 60000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "Ford Expedition ",
+      "images": [
+        "/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.31.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.30.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-2-.jpeg"
+      ],
+      "id": "5658",
+      "year": 2019
+    },
+    {
       "km": 25723,
       "body": "SUV",
       "trans": "Automatic",
@@ -89,26 +111,26 @@
       "year": 2022
     },
     {
-      "km": 111998,
+      "km": 75297,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 60000,
+      "price": 33000,
       "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "Ford Expedition ",
+      "title": "MG ZS ELITE ",
       "images": [
-        "/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.30.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-2-.jpeg"
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.52-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-1-.jpeg"
       ],
-      "id": "5658",
-      "year": 2019
+      "id": "0352",
+      "year": 2020
     },
     {
       "km": 264000,
@@ -282,6 +304,29 @@
       "year": 2007
     },
     {
+      "km": 191000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "ford escape",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-6-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.06-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.08.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07.jpeg"
+      ],
+      "id": "1202",
+      "year": 2010
+    },
+    {
       "km": 44000,
       "body": "SUV",
       "trans": "Automatic",
@@ -434,6 +479,50 @@
       ],
       "id": "4283",
       "year": 2017
+    },
+    {
+      "km": 110000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 65000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "dodge challenger sxt ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-6-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.54.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.54-1-.jpeg"
+      ],
+      "id": "wen2",
+      "year": 2020
+    },
+    {
+      "km": 63006,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 26000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "jaguar XF",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.54.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-4-.jpeg"
+      ],
+      "id": "wen1",
+      "year": 2016
     },
     {
       "km": 129000,
@@ -632,6 +721,49 @@
       "year": 2025
     },
     {
+      "km": 170000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 11000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "toyota iq ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.07.47.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-3-.jpeg"
+      ],
+      "id": "ben1",
+      "year": 2009
+    },
+    {
+      "km": 60000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 11000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "nissan note",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.23-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.23.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-4-.jpeg"
+      ],
+      "id": "eman1",
+      "year": 2006
+    },
+    {
       "km": 43000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -651,6 +783,28 @@
       ],
       "id": "9418",
       "year": 2024
+    },
+    {
+      "km": 115000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "suzuki swift ",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.01.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02.jpeg"
+      ],
+      "id": "Juan1",
+      "year": 2011
     },
     {
       "km": 50287,
@@ -782,6 +936,29 @@
       ],
       "id": "0767",
       "year": 2007
+    },
+    {
+      "km": 160000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "jeep wrangler",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.39-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.39.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.39-2-.jpeg"
+      ],
+      "id": "kow1",
+      "year": 2009
     },
     {
       "km": 75000,
@@ -929,159 +1106,6 @@
       "year": 2022
     },
     {
-      "km": 146000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "HUMMER H3 ",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-6-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-3-.jpeg"
-      ],
-      "id": "fl1",
-      "year": 2006
-    },
-    {
-      "km": 75297,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 33000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "MG ZS ELITE ",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.52-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.54-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-1-.jpeg"
-      ],
-      "id": "0352",
-      "year": 2020
-    },
-    {
-      "km": 170000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 11000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "toyota iq ",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.07.47.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.07.48-3-.jpeg"
-      ],
-      "id": "ben1",
-      "year": 2009
-    },
-    {
-      "km": 110000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 65000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "dodge challenger sxt ",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-6-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.54.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.54-1-.jpeg"
-      ],
-      "id": "wen2",
-      "year": 2020
-    },
-    {
-      "km": 191000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 12500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "ford escape",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-6-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.06-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.08.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07.jpeg"
-      ],
-      "id": "1202",
-      "year": 2010
-    },
-    {
-      "km": 115000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 12000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "suzuki swift ",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.01.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02.jpeg"
-      ],
-      "id": "Juan1",
-      "year": 2011
-    },
-    {
-      "km": 160000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "jeep wrangler",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.38.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.39-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.38-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.39.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.39-2-.jpeg"
-      ],
-      "id": "kow1",
-      "year": 2009
-    },
-    {
       "km": 200000,
       "body": "Truck",
       "trans": "Automatic",
@@ -1103,48 +1127,24 @@
       "year": 2012
     },
     {
-      "km": 60000,
-      "body": "Hatchback",
+      "km": 146000,
+      "body": "SUV",
       "trans": "Automatic",
-      "price": 11000,
+      "price": 30000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
       "fuel": "Gasoline",
-      "title": "nissan note",
+      "title": "HUMMER H3 ",
       "images": [
-        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.42.23-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.42.24.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.42.23.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.42.24-4-.jpeg"
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-6-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-23.18.06-3-.jpeg"
       ],
-      "id": "eman1",
+      "id": "fl1",
       "year": 2006
-    },
-    {
-      "km": 63006,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 26000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "jaguar XF",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.54.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.55.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-4-.jpeg"
-      ],
-      "id": "wen1",
-      "year": 2016
     }
   ]
 }
