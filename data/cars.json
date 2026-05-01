@@ -282,6 +282,29 @@
       "year": 2012
     },
     {
+      "km": 44000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": true,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "NISSAN JUKE NISMO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.33.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.31.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-3-.jpeg"
+      ],
+      "id": "1896",
+      "year": 2013
+    },
+    {
       "km": 229676,
       "body": "SUV",
       "trans": "Automatic",
@@ -326,28 +349,6 @@
       ],
       "id": "1202",
       "year": 2010
-    },
-    {
-      "km": 44000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": true,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "NISSAN JUKE NISMO",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.31-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.33.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.31.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-3-.jpeg"
-      ],
-      "id": "1896",
-      "year": 2013
     },
     {
       "km": 6108,
@@ -852,28 +853,6 @@
       "year": 2012
     },
     {
-      "km": 77000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 13000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "TOYOTA VITS",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-1-.jpeg"
-      ],
-      "id": "XNKA",
-      "year": 2014
-    },
-    {
       "km": 140000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -938,6 +917,28 @@
       ],
       "id": "8730",
       "year": 2007
+    },
+    {
+      "km": 77000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 13000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "TOYOTA VITS",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.38.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.37.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-1-.jpeg"
+      ],
+      "id": "XNKA",
+      "year": 2014
     },
     {
       "km": 181000,
