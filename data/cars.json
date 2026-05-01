@@ -859,6 +859,7 @@
       "price": 14000,
       "featured": false,
       "currency": "AWG",
+      "sold": true,
       "fuel": "Gasoline",
       "title": "KIA PICANTO",
       "images": [
@@ -925,6 +926,7 @@
       "price": 13000,
       "featured": false,
       "currency": "AWG",
+      "sold": true,
       "fuel": "Gasoline",
       "title": "TOYOTA VITS",
       "images": [
