@@ -288,7 +288,7 @@
       "price": 12000,
       "featured": false,
       "currency": "AWG",
-      "sold": true,
+      "sold": false,
       "fuel": "Gasoline",
       "title": "TOYOA RAV 4",
       "images": [
@@ -683,7 +683,7 @@
       "price": 25000,
       "featured": true,
       "currency": "AWG",
-      "sold": true,
+      "sold": false,
       "fuel": "Gasoline",
       "title": "CHEVROLET CAVALIER",
       "images": [
@@ -706,7 +706,7 @@
       "price": 10000,
       "featured": false,
       "currency": "AWG",
-      "sold": true,
+      "sold": false,
       "fuel": "Gasoline",
       "title": "TOYOTA AXIO",
       "images": [
