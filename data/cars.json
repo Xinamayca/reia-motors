@@ -1148,6 +1148,89 @@
       ],
       "id": "9500",
       "year": 2006
+    },
+    {
+      "km": 5700,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 26500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "harley davidson sporster iron",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.49-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.47.jpeg",
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.49.jpeg",
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.49-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.48-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.47-1-.jpeg"
+      ],
+      "id": "3077",
+      "year": 2020
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 9000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "kayo a300",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.46.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.46-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.47.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.48.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.49.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.48-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.47-1-.jpeg"
+      ],
+      "id": "0002",
+      "year": 2026
+    },
+    {
+      "km": 10000,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 26000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "honda xadv750",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-16.10.04.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.10.03-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.10.03.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.10.03-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.10.03-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.10.04-2-.jpeg"
+      ],
+      "id": "9507",
+      "year": 2023
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "honda crf250R",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.52-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.51.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.53.jpeg"
+      ],
+      "id": "1714",
+      "year": 2010
     }
   ]
 }
