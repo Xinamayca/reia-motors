@@ -612,6 +612,29 @@
       "year": 2017
     },
     {
+      "km": 57000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 21000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "KIA RIO HATCHBACK",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.37.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.39.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-2-.jpeg"
+      ],
+      "id": "7720",
+      "year": 2019
+    },
+    {
       "km": 67000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -764,6 +787,29 @@
       ],
       "id": "ben1",
       "year": 2009
+    },
+    {
+      "km": 45000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Hybrid",
+      "title": "HONDA FIT 10TH ANNIVERSARY",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.38.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.39.jpeg"
+      ],
+      "id": "JUN3",
+      "year": 2015
     },
     {
       "km": 60000,
@@ -985,6 +1031,28 @@
       "year": 2006
     },
     {
+      "km": 70000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 29000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "JEEP WRANGLER",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.06.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.05.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-2-.jpeg"
+      ],
+      "id": "HEM1",
+      "year": 2008
+    },
+    {
       "km": 160000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1196,6 +1264,44 @@
       "year": 2026
     },
     {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "KAWASAKI 450",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-19.07.58.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-2-.jpeg"
+      ],
+      "id": "JUN1",
+      "year": 2010
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Honda crf250R",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.52-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.51.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.53.jpeg"
+      ],
+      "id": "1714",
+      "year": 2010
+    },
+    {
       "km": 10000,
       "body": "Motorcycle",
       "trans": "Manual",
@@ -1220,44 +1326,6 @@
       "km": 0,
       "body": "Motorcycle",
       "trans": "Manual",
-      "price": 12000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Honda crf250R",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.52-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.51.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.53.jpeg"
-      ],
-      "id": "1714",
-      "year": 2010
-    },
-    {
-      "km": 0,
-      "body": "Motorcycle",
-      "trans": "Manual",
-      "price": 12000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "KAWASAKI 450",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-19.07.58.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-2-.jpeg"
-      ],
-      "id": "JUN1",
-      "year": 2010
-    },
-    {
-      "km": 0,
-      "body": "Motorcycle",
-      "trans": "Manual",
       "price": 28000,
       "featured": false,
       "currency": "AWG",
@@ -1273,74 +1341,6 @@
       ],
       "id": "JUN2",
       "year": 2023
-    },
-    {
-      "km": 45000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Hybrid",
-      "title": "HONDA FIT 10TH ANNIVERSARY",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.38.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.39.jpeg"
-      ],
-      "id": "JUN3",
-      "year": 2015
-    },
-    {
-      "km": 57000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 21000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "KIA RIO HATCHBACK",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.37.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.39.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-2-.jpeg"
-      ],
-      "id": "7720",
-      "year": 2019
-    },
-    {
-      "km": 70000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 29000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "JEEP WRANGLER",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.05.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-2-.jpeg"
-      ],
-      "id": "HEM1",
-      "year": 2008
     }
   ]
 }
