@@ -1250,7 +1250,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "KAWASAKI 450",
+      "title": "KAWASAKI KX 450",
       "images": [
         "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg",
         "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg",
@@ -1258,7 +1258,7 @@
         "/uploads/whatsapp-image-2026-05-01-at-15.55.40-2-.jpeg"
       ],
       "id": "JUN1",
-      "year": 2010
+      "year": 2015
     },
     {
       "km": 0,
@@ -1310,7 +1310,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Honda Xadv750",
+      "title": "HONDA X-ADV 750",
       "images": [
         "/uploads/whatsapp-image-2026-04-30-at-16.10.04.jpeg",
         "/uploads/whatsapp-image-2026-04-30-at-16.10.03-2-.jpeg",
@@ -1323,7 +1323,7 @@
       "year": 2023
     },
     {
-      "km": 0,
+      "km": 15500,
       "body": "Motorcycle",
       "trans": "Manual",
       "price": 28000,
@@ -1331,7 +1331,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "HONDA XADV750",
+      "title": "HONDA X-ADV SPECIAL EDITION 750",
       "images": [
         "/uploads/whatsapp-image-2026-05-01-at-15.55.41-5-.jpeg",
         "/uploads/whatsapp-image-2026-05-01-at-15.55.41.jpeg",
@@ -1340,7 +1340,7 @@
         "/uploads/whatsapp-image-2026-05-01-at-15.55.41-2-.jpeg"
       ],
       "id": "JUN2",
-      "year": 2023
+      "year": 2024
     }
   ]
 }
