@@ -1322,6 +1322,25 @@
       ],
       "id": "JUN2",
       "year": 2024
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "KAWASAKI KX450",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-19.07.58.jpeg"
+      ],
+      "id": "JUN1",
+      "year": 2015
     }
   ]
 }
