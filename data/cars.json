@@ -1266,13 +1266,32 @@
     {
       "km": 0,
       "body": "Motorcycle",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "KAWASAKI KX450",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg06.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg08.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-19.07.58.jpeg09.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-2-.jpeg07.jpeg"
+      ],
+      "id": "JUN1",
+      "year": 2015
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
       "trans": "Manual",
       "price": 12000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Honda crf250R",
+      "title": "Honda CRF 250R",
       "images": [
         "/uploads/whatsapp-image-2026-04-30-at-18.57.52-3-.jpeg",
         "/uploads/whatsapp-image-2026-04-30-at-18.57.51.jpeg",
@@ -1322,25 +1341,6 @@
       ],
       "id": "JUN2",
       "year": 2024
-    },
-    {
-      "km": 0,
-      "body": "Motorcycle",
-      "trans": "Automatic",
-      "price": 12000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "KAWASAKI KX450",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg06.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg08.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-19.07.58.jpeg09.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-2-.jpeg07.jpeg"
-      ],
-      "id": "JUN1",
-      "year": 2015
     }
   ]
 }
