@@ -1272,25 +1272,6 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "KAWASAKI 450",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-19.07.58.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-2-.jpeg"
-      ],
-      "id": "JUN1",
-      "year": 2010
-    },
-    {
-      "km": 0,
-      "body": "Motorcycle",
-      "trans": "Manual",
-      "price": 12000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
       "title": "Honda crf250R",
       "images": [
         "/uploads/whatsapp-image-2026-04-30-at-18.57.52-3-.jpeg",
