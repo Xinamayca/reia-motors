@@ -880,6 +880,27 @@
       "year": 2024
     },
     {
+      "km": 50287,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 14500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "SUZUKI SWIFT",
+      "images": [
+        "/uploads/img_9608-2.jpg",
+        "/uploads/img_9607.jpg",
+        "/uploads/img_9610.jpg",
+        "/uploads/img_1850.jpg",
+        "/uploads/img_1849.jpg",
+        "/uploads/img_1848.jpg",
+        "/uploads/img_9609.jpg"
+      ],
+      "id": "9138",
+      "year": 2012
+    },
+    {
       "km": 115000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -902,25 +923,27 @@
       "year": 2011
     },
     {
-      "km": 50287,
+      "km": 130000,
       "body": "Hatchback",
       "trans": "Automatic",
-      "price": 14500,
+      "price": 10000,
       "featured": false,
       "currency": "AWG",
+      "sold": false,
       "fuel": "Gasoline",
-      "title": "SUZUKI SWIFT",
+      "title": "Suzuki Swift",
       "images": [
-        "/uploads/img_9608-2.jpg",
-        "/uploads/img_9607.jpg",
-        "/uploads/img_9610.jpg",
-        "/uploads/img_1850.jpg",
-        "/uploads/img_1849.jpg",
-        "/uploads/img_1848.jpg",
-        "/uploads/img_9609.jpg"
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.07-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.07-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.07.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.08-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.09.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.08.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.09-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.09-2-.jpeg"
       ],
-      "id": "9138",
-      "year": 2012
+      "id": "Dit1",
+      "year": 2008
     },
     {
       "km": 107000,
@@ -1388,29 +1411,6 @@
       ],
       "id": "JUN2",
       "year": 2024
-    },
-    {
-      "km": 130000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 10000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Suzuki Swift",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.07-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.07-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.07.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.08-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.09.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.08.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.09-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.09-2-.jpeg"
-      ],
-      "id": "Dit1",
-      "year": 2008
     }
   ]
 }
