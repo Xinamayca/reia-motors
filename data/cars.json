@@ -215,51 +215,6 @@
       "year": 2011
     },
     {
-      "km": 170000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 13500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "HYUNDAI TUCSON",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.03.12.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.39.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.38.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-4-.jpeg"
-      ],
-      "id": "4216",
-      "year": 2011
-    },
-    {
-      "km": 200374,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 9500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "FORD EXPLORER",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.24-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.23.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.25-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.25.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.23-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.24-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.24.jpeg"
-      ],
-      "id": "3640",
-      "year": 2007
-    },
-    {
       "km": 88110,
       "body": "SUV",
       "trans": "Automatic",
@@ -280,29 +235,6 @@
       ],
       "id": "1760",
       "year": 2012
-    },
-    {
-      "km": 44000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "NISSAN JUKE NISMO",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.31-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.33.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.31.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-3-.jpeg"
-      ],
-      "id": "1896",
-      "year": 2013
     },
     {
       "km": 229676,
@@ -635,29 +567,6 @@
       "year": 2017
     },
     {
-      "km": 57000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 21000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "KIA RIO HATCHBACK",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.37.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.39.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-2-.jpeg"
-      ],
-      "id": "7720",
-      "year": 2019
-    },
-    {
       "km": 67000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -680,34 +589,13 @@
       "year": 2018
     },
     {
-      "km": 99000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "HYUNDAI ELANTRA",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.55.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.57.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.55-1-.jpeg"
-      ],
-      "id": "9912",
-      "year": 2013
-    },
-    {
       "km": 125125,
       "body": "Sedan",
       "trans": "Automatic",
       "price": 14500,
       "featured": false,
       "currency": "AWG",
+      "sold": true,
       "fuel": "Gasoline",
       "title": "VOLKWAGEN SETTA",
       "images": [
@@ -768,29 +656,6 @@
       ],
       "id": "9319",
       "year": 2007
-    },
-    {
-      "km": 0,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 33500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Electric",
-      "title": "BYD SEAGULL",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.46.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.44.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.45.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.44-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.44-2-.jpeg"
-      ],
-      "id": "2343",
-      "year": 2025
     },
     {
       "km": 170000,
@@ -966,74 +831,6 @@
       ],
       "id": "9505",
       "year": 2013
-    },
-    {
-      "km": 140000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 14000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "KIA PICANTO",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.34.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.34-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.35.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.36.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-4-.jpeg"
-      ],
-      "id": "4532",
-      "year": 2015
-    },
-    {
-      "km": 0,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 12500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "CHEVROLET OPTRA",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.54-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.53.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.54.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.54-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.53-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.53-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.54-2-.jpeg"
-      ],
-      "id": "8730",
-      "year": 2007
-    },
-    {
-      "km": 77000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 13000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "TOYOTA VITS",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-1-.jpeg"
-      ],
-      "id": "XNKA",
-      "year": 2014
     },
     {
       "km": 181000,
@@ -1336,25 +1133,6 @@
     {
       "km": 0,
       "body": "Motorcycle",
-      "trans": "Automatic",
-      "price": 12000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "KAWASAKI KX450",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg06.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg08.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-19.07.58.jpeg09.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-2-.jpeg07.jpeg"
-      ],
-      "id": "JUN1",
-      "year": 2015
-    },
-    {
-      "km": 0,
-      "body": "Motorcycle",
       "trans": "Manual",
       "price": 12000,
       "featured": false,
@@ -1411,6 +1189,229 @@
       ],
       "id": "JUN2",
       "year": 2024
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "KAWASAKI KX450",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg06.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg08.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-19.07.58.jpeg09.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-2-.jpeg07.jpeg"
+      ],
+      "id": "JUN1",
+      "year": 2015
+    },
+    {
+      "km": 170000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 13500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "HYUNDAI TUCSON",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.03.12.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.39.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.38.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.59.38-4-.jpeg"
+      ],
+      "id": "4216",
+      "year": 2011
+    },
+    {
+      "km": 200374,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 9500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "FORD EXPLORER",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.23.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.25-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.25.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.23-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.24-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.24.jpeg"
+      ],
+      "id": "3640",
+      "year": 2007
+    },
+    {
+      "km": 44000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "NISSAN JUKE NISMO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.33.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.31.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.32-3-.jpeg"
+      ],
+      "id": "1896",
+      "year": 2013
+    },
+    {
+      "km": 0,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "CHEVROLET OPTRA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.53.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.54.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.54-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.53-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.54-2-.jpeg"
+      ],
+      "id": "8730",
+      "year": 2007
+    },
+    {
+      "km": 57000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 21000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "KIA RIO HATCHBACK",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.37.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.39.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-2-.jpeg"
+      ],
+      "id": "7720",
+      "year": 2019
+    },
+    {
+      "km": 99000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "HYUNDAI ELANTRA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.55.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.57.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.10.55-1-.jpeg"
+      ],
+      "id": "9912",
+      "year": 2013
+    },
+    {
+      "km": 77000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 13000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "TOYOTA VITS",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.38.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.37.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-1-.jpeg"
+      ],
+      "id": "XNKA",
+      "year": 2014
+    },
+    {
+      "km": 140000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 14000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "KIA PICANTO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.34.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.34-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.35.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.36.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-4-.jpeg"
+      ],
+      "id": "4532",
+      "year": 2015
+    },
+    {
+      "km": 0,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 33500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Electric",
+      "title": "BYD SEAGULL",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.46.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.44.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.44-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.45-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.44-2-.jpeg"
+      ],
+      "id": "2343",
+      "year": 2025
     }
   ]
 }
