@@ -1412,6 +1412,70 @@
       ],
       "id": "2343",
       "year": 2025
+    },
+    {
+      "km": 169741,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 22000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "ford ecosport turbo",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-07-at-00.06.18-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-00.06.18-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-00.06.18-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-00.06.18-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-00.06.18.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-00.06.19-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-00.06.19-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-00.06.19.jpeg"
+      ],
+      "id": "0396",
+      "year": 2018
+    },
+    {
+      "km": 129400,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "chevrolet trax",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-06-at-23.23.16.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.23.17.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-3-.jpeg"
+      ],
+      "id": "1527",
+      "year": 2020
+    },
+    {
+      "km": 18668,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 43000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "hyundai accent",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-06-at-23.28.29-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.28.29-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.28.29-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.28.29-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.28.29-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.28.30.jpeg"
+      ],
+      "id": "8730",
+      "year": 2026
     }
   ]
 }
