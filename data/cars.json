@@ -393,28 +393,6 @@
       "year": 2018
     },
     {
-      "km": 72770,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 17500,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "SUZUKI CIAS",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-22.58.29-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-22.58.30.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-22.58.29.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-22.58.30-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-22.58.30-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-22.58.31.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-22.58.31-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-22.58.30-1-.jpeg"
-      ],
-      "id": "4283",
-      "year": 2017
-    },
-    {
       "km": 110000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -436,27 +414,6 @@
       ],
       "id": "wen2",
       "year": 2020
-    },
-    {
-      "km": 63006,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 26000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "jaguar XF",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.54.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.55.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-4-.jpeg"
-      ],
-      "id": "wen1",
-      "year": 2016
     },
     {
       "km": 129000,
@@ -503,28 +460,6 @@
       "year": 2012
     },
     {
-      "km": 31000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "NISSAN VERSA",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.35.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-3-.jpeg"
-      ],
-      "id": "0240",
-      "year": 2022
-    },
-    {
       "km": 142797,
       "body": "Sedan",
       "trans": "Automatic",
@@ -546,6 +481,29 @@
       "year": 2018
     },
     {
+      "km": 72268,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "CHEVROLET CAVALIER",
+      "images": [
+        "/uploads/6dd1ec1f-442c-4fa5-bafa-908261ee1d4b.jpg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.34-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.32.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.34.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-2-.jpeg"
+      ],
+      "id": "0501",
+      "year": 2019
+    },
+    {
       "km": 90998,
       "body": "Sedan",
       "trans": "Automatic",
@@ -565,6 +523,28 @@
       ],
       "id": "8449",
       "year": 2017
+    },
+    {
+      "km": 31000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "NISSAN VERSA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.35.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-3-.jpeg"
+      ],
+      "id": "0240",
+      "year": 2022
     },
     {
       "km": 125125,
@@ -612,27 +592,47 @@
       "year": 2018
     },
     {
-      "km": 72268,
+      "km": 63006,
       "body": "Sedan",
       "trans": "Automatic",
-      "price": 25000,
+      "price": 26000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "CHEVROLET CAVALIER",
+      "title": "jaguar XF",
       "images": [
-        "/uploads/6dd1ec1f-442c-4fa5-bafa-908261ee1d4b.jpg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.34-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.32.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.34.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.33-2-.jpeg"
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.54.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.39.55-4-.jpeg"
       ],
-      "id": "0501",
-      "year": 2019
+      "id": "wen1",
+      "year": 2016
+    },
+    {
+      "km": 72770,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 17500,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "SUZUKI CIAS",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-22.58.29-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-22.58.30.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-22.58.29.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-22.58.30-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-22.58.30-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-22.58.31.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-22.58.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-22.58.30-1-.jpeg"
+      ],
+      "id": "4283",
+      "year": 2017
     },
     {
       "km": 111580,
