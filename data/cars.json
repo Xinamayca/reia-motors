@@ -305,6 +305,29 @@
       "year": 2024
     },
     {
+      "km": 57000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 21000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "KIA RIO HATCHBACK",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.37.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.39.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-2-.jpeg"
+      ],
+      "id": "7720",
+      "year": 2019
+    },
+    {
       "km": 31444,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1298,29 +1321,6 @@
       ],
       "id": "8730",
       "year": 2007
-    },
-    {
-      "km": 57000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 21000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "KIA RIO HATCHBACK",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.37.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.39.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.09.38-2-.jpeg"
-      ],
-      "id": "7720",
-      "year": 2019
     },
     {
       "km": 99000,
