@@ -177,6 +177,26 @@
       "year": 2015
     },
     {
+      "km": 129400,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "chevrolet trax",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-06-at-23.23.16.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.23.17.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-3-.jpeg"
+      ],
+      "id": "1527",
+      "year": 2020
+    },
+    {
       "km": 124000,
       "body": "SUV",
       "trans": "Automatic",
@@ -435,26 +455,6 @@
       ],
       "id": "8039",
       "year": 2019
-    },
-    {
-      "km": 129400,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "chevrolet trax",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-06-at-23.23.16.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.23.17.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.23.17-3-.jpeg"
-      ],
-      "id": "1527",
-      "year": 2020
     },
     {
       "km": 156888,
