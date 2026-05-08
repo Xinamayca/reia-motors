@@ -237,29 +237,6 @@
       "year": 2012
     },
     {
-      "km": 229676,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 12000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "TOYOA RAV 4",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.57-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.59.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.58.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.01.57.jpeg"
-      ],
-      "id": "7450",
-      "year": 2007
-    },
-    {
       "km": 191000,
       "body": "SUV",
       "trans": "Automatic",
@@ -791,7 +768,7 @@
       "km": 130000,
       "body": "Hatchback",
       "trans": "Automatic",
-      "price": 8000,
+      "price": 7500,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -1278,6 +1255,29 @@
       "year": 2013
     },
     {
+      "km": 229676,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "TOYOA RAV 4",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.57-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.59.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.58.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.58-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.01.57.jpeg"
+      ],
+      "id": "7450",
+      "year": 2007
+    },
+    {
       "km": 0,
       "body": "SUV",
       "trans": "Automatic",
@@ -1476,6 +1476,29 @@
       ],
       "id": "8730",
       "year": 2026
+    },
+    {
+      "km": 146000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 16000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "hyundai accent",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.05-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.05.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.06-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.06.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.06-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.06-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.05-4-.jpeg"
+      ],
+      "id": "0810",
+      "year": 2013
     }
   ]
 }
