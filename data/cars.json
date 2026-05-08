@@ -258,6 +258,27 @@
       "year": 2011
     },
     {
+      "km": 126791,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 21500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Creta",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.56.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.57.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.58.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-2-.jpeg"
+      ],
+      "id": "0175",
+      "year": 2017
+    },
+    {
       "km": 88110,
       "body": "SUV",
       "trans": "Automatic",
@@ -301,6 +322,29 @@
       ],
       "id": "1202",
       "year": 2010
+    },
+    {
+      "km": 110000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 65000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "dodge challenger sxt",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-6-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.54.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.31.54-1-.jpeg"
+      ],
+      "id": "wen2",
+      "year": 2020
     },
     {
       "km": 6108,
@@ -413,27 +457,27 @@
       "year": 2018
     },
     {
-      "km": 110000,
+      "km": 85000,
       "body": "Sedan",
       "trans": "Automatic",
-      "price": 65000,
+      "price": 30000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
-      "fuel": "Gasoline",
-      "title": "dodge challenger sxt",
+      "fuel": "Hybrid",
+      "title": "Toyota Levin",
       "images": [
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-6-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.53-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.54.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.31.54-1-.jpeg"
+        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-15.22.35.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-15.22.36.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-15.22.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-15.22.37.jpeg"
       ],
-      "id": "wen2",
-      "year": 2020
+      "id": "3365",
+      "year": 2019
     },
     {
       "km": 129000,
@@ -1133,6 +1177,28 @@
       "year": 2012
     },
     {
+      "km": 78080,
+      "body": "Van",
+      "trans": "Automatic",
+      "price": 23000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Hybrid",
+      "title": "Nissan Serena",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.47-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.47.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.48.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-1-.jpeg"
+      ],
+      "id": "4468",
+      "year": 2015
+    },
+    {
       "km": 33152,
       "body": "Motorcycle",
       "trans": "Manual",
@@ -1499,72 +1565,6 @@
       ],
       "id": "2343",
       "year": 2025
-    },
-    {
-      "km": 78080,
-      "body": "Van",
-      "trans": "Automatic",
-      "price": 23000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Hybrid",
-      "title": "Nissan Serena",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.47-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.47.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.48.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-1-.jpeg"
-      ],
-      "id": "4468",
-      "year": 2015
-    },
-    {
-      "km": 126791,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 21500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Creta",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.56.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.58.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-2-.jpeg"
-      ],
-      "id": "0175",
-      "year": 2017
-    },
-    {
-      "km": 85000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Hybrid",
-      "title": "Toyota Levin",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.35.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.36.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.37.jpeg"
-      ],
-      "id": "3365",
-      "year": 2019
     }
   ]
 }
