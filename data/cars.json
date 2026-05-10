@@ -111,28 +111,6 @@
       "year": 2022
     },
     {
-      "km": 75297,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "MG ZS ELITE",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.52-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.54-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-1-.jpeg"
-      ],
-      "id": "0352",
-      "year": 2020
-    },
-    {
       "km": 169741,
       "body": "SUV",
       "trans": "Automatic",
@@ -566,27 +544,6 @@
       ],
       "id": "0501",
       "year": 2019
-    },
-    {
-      "km": 90998,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "FORD FUSION SE",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.02.39.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.27.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.27-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.26-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.26.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.27-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.27-2-.jpeg"
-      ],
-      "id": "8449",
-      "year": 2017
     },
     {
       "km": 31000,
@@ -1383,6 +1340,29 @@
       ],
       "id": "3640",
       "year": 2007
+    },
+    {
+      "km": 75297,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "MG ZS ELITE",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.52-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-24-at-07.45.53-1-.jpeg"
+      ],
+      "id": "0352",
+      "year": 2020
     },
     {
       "km": 44000,
