@@ -1028,6 +1028,29 @@
       "year": 2009
     },
     {
+      "km": 92300,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 18000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Renegade",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.20.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-3-.jpeg"
+      ],
+      "id": "4443",
+      "year": 2016
+    },
+    {
       "km": 110000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1072,8 +1095,30 @@
       "year": 2017
     },
     {
+      "km": 90700,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 57000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Frontier 4x4",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-7-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.57.jpeg"
+      ],
+      "id": "8983",
+      "year": 2019
+    },
+    {
       "km": 96000,
-      "body": "SUV",
+      "body": "Truck",
       "trans": "Automatic",
       "price": 58000,
       "featured": false,
@@ -1523,51 +1568,6 @@
       ],
       "id": "2343",
       "year": 2025
-    },
-    {
-      "km": 92300,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 18000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Renegade",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.20.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-3-.jpeg"
-      ],
-      "id": "4443",
-      "year": 2016
-    },
-    {
-      "km": 90700,
-      "body": "Truck",
-      "trans": "Automatic",
-      "price": 57000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Frontier 4x4",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-7-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.57.jpeg"
-      ],
-      "id": "8983",
-      "year": 2019
     }
   ]
 }
