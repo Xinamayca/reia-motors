@@ -811,28 +811,6 @@
       "year": 2024
     },
     {
-      "km": 50287,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 13500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "SUZUKI SWIFT",
-      "images": [
-        "/uploads/img_9608-2.jpg",
-        "/uploads/img_9607.jpg",
-        "/uploads/img_9610.jpg",
-        "/uploads/img_1850.jpg",
-        "/uploads/img_1849.jpg",
-        "/uploads/img_1848.jpg",
-        "/uploads/img_9609.jpg"
-      ],
-      "id": "9138",
-      "year": 2012
-    },
-    {
       "km": 115000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -853,6 +831,28 @@
       ],
       "id": "Juan1",
       "year": 2011
+    },
+    {
+      "km": 50287,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 13500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "SUZUKI SWIFT",
+      "images": [
+        "/uploads/img_9608-2.jpg",
+        "/uploads/img_9607.jpg",
+        "/uploads/img_9610.jpg",
+        "/uploads/img_1850.jpg",
+        "/uploads/img_1849.jpg",
+        "/uploads/img_1848.jpg",
+        "/uploads/img_9609.jpg"
+      ],
+      "id": "9138",
+      "year": 2012
     },
     {
       "km": 107000,
