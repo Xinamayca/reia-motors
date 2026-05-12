@@ -831,29 +831,6 @@
       "year": 2011
     },
     {
-      "km": 130000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 7500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Suzuki Swift",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.07-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.07-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.07.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.08-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.09.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.08.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.09-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-05-at-12.47.09-2-.jpeg"
-      ],
-      "id": "Dit1",
-      "year": 2008
-    },
-    {
       "km": 107000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -1499,6 +1476,29 @@
       ],
       "id": "7720",
       "year": 2019
+    },
+    {
+      "km": 130000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 7500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Suzuki Swift",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.07-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.07-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.07.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.08-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.09.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.08.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.09-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-05-at-12.47.09-2-.jpeg"
+      ],
+      "id": "Dit1",
+      "year": 2008
     },
     {
       "km": 77000,
