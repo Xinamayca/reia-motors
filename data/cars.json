@@ -1568,6 +1568,29 @@
       ],
       "id": "2343",
       "year": 2025
+    },
+    {
+      "km": 85000,
+      "body": "Sedan",
+      "trans": "Manual",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Rio",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-11-at-20.11.40-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-11-at-20.11.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-11-at-20.11.40.jpeg",
+        "/uploads/whatsapp-image-2026-05-11-at-20.11.40-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-11-at-20.11.41.jpeg",
+        "/uploads/whatsapp-image-2026-05-11-at-20.11.41-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-11-at-20.11.41-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-11-at-20.11.40-3-.jpeg"
+      ],
+      "id": "3141",
+      "year": 2017
     }
   ]
 }
