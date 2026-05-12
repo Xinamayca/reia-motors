@@ -19,7 +19,7 @@ var CarsPreview = createClass({
         var km = car.km ? Number(car.km).toLocaleString('en-US') + ' km' : '—';
         var meta = [car.body, car.fuel, car.trans, km].filter(Boolean).join(' · ');
 
-        return h('div', { key: i, className: 'car-card' + (car.sold ? ' sold' : '') },
+        return h('div', { key: (car.id || '') + '|' + i, className: 'car-card' + (car.sold ? ' sold' : '') },
           h('div', { className: 'card-img-wrap' },
             img
               ? h('img', { src: img, className: 'card-img' })
