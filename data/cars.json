@@ -260,25 +260,6 @@
       "year": 2016
     },
     {
-      "km": 218523,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "FORD EDGE",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-19.59.59.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.27-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.42.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.27.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.27-2-.jpeg"
-      ],
-      "id": "9666",
-      "year": 2011
-    },
-    {
       "km": 191000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1345,6 +1326,26 @@
       ],
       "id": "1896",
       "year": 2013
+    },
+    {
+      "km": 218523,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "FORD EDGE",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-19.59.59.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.27-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.42.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.27.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.27-2-.jpeg"
+      ],
+      "id": "9666",
+      "year": 2011
     },
     {
       "km": 170000,
