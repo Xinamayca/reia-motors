@@ -174,6 +174,29 @@
       "year": 2012
     },
     {
+      "km": 79000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 22000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Chevrolet Trax Premier",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.00-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.01.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.00.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.02-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.02.jpeg"
+      ],
+      "id": "3727",
+      "year": 2017
+    },
+    {
       "km": 169741,
       "body": "SUV",
       "trans": "Automatic",
@@ -484,6 +507,28 @@
       "year": 2012
     },
     {
+      "km": 31000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "NISSAN VERSA",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.35.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-3-.jpeg"
+      ],
+      "id": "0240",
+      "year": 2022
+    },
+    {
       "km": 142797,
       "body": "Sedan",
       "trans": "Automatic",
@@ -528,28 +573,6 @@
       "year": 2019
     },
     {
-      "km": 31000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "NISSAN VERSA",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.35.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-3-.jpeg"
-      ],
-      "id": "0240",
-      "year": 2022
-    },
-    {
       "km": 125125,
       "body": "Sedan",
       "trans": "Automatic",
@@ -571,6 +594,29 @@
       ],
       "id": "9348",
       "year": 2013
+    },
+    {
+      "km": 152000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "MG GT",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-1-.jpeg",
+        null,
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.44.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.45.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.44-1-.jpeg"
+      ],
+      "id": "0311",
+      "year": 2019
     },
     {
       "km": 67000,
@@ -1618,52 +1664,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 152000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "MG GT",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-1-.jpeg",
-        null,
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.43.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.44.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.45.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.44-1-.jpeg"
-      ],
-      "id": "0311",
-      "year": 2019
-    },
-    {
-      "km": 79000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 22000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Chevrolet Trax Premier",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.00-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.01.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.00.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.02-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.02-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.39.02.jpeg"
-      ],
-      "id": "3727",
-      "year": 2017
     }
   ]
 }
