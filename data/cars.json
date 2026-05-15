@@ -909,7 +909,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "JEEP WRANGLER",
+      "title": "Jeep Wrangler",
       "images": [
         "/uploads/whatsapp-image-2026-05-01-at-16.46.06.jpeg",
         "/uploads/whatsapp-image-2026-05-01-at-16.46.05-1-.jpeg",
@@ -931,7 +931,7 @@
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "jeep wrangler",
+      "title": "Jeep Wrangler",
       "images": [
         "/uploads/whatsapp-image-2026-04-30-at-18.31.38-2-.jpeg",
         "/uploads/whatsapp-image-2026-04-30-at-18.31.38.jpeg",
@@ -953,7 +953,7 @@
       "featured": true,
       "currency": "AWG",
       "fuel": "Gasoline",
-      "title": "JEEP WRANGLER",
+      "title": "Jeep Wrangler",
       "images": [
         "/uploads/whatsapp-image-2026-04-16-at-23.23.04-2-.jpeg",
         "/uploads/whatsapp-image-2026-04-16-at-23.23.03-2-.jpeg",
@@ -966,6 +966,29 @@
       ],
       "id": "Om2",
       "year": 2014
+    },
+    {
+      "km": 79000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 29000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Wrangler",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-14-at-19.32.30-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.32.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.32.30.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.32.31-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.32.32.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.32.32-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.32.33.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.32.31-2-.jpeg"
+      ],
+      "id": "OM3",
+      "year": 2015
     },
     {
       "km": 143492,
@@ -1595,6 +1618,52 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 152000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "MG GT",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-1-.jpeg",
+        null,
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.44.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.45.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.44-1-.jpeg"
+      ],
+      "id": "0311",
+      "year": 2019
+    },
+    {
+      "km": 79000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 22000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Chevrolet Trax Premier",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.00-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.01.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.00.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.02-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.39.02.jpeg"
+      ],
+      "id": "3727",
+      "year": 2017
     }
   ]
 }
