@@ -1036,29 +1036,6 @@
       "year": 2009
     },
     {
-      "km": 92300,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 18000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Renegade",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.20.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-3-.jpeg"
-      ],
-      "id": "4443",
-      "year": 2016
-    },
-    {
       "km": 110000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1326,6 +1303,29 @@
       ],
       "id": "JUN1",
       "year": 2015
+    },
+    {
+      "km": 92300,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 18000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Jeep Renegade",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.20.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.20-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.51.21-3-.jpeg"
+      ],
+      "id": "4443",
+      "year": 2016
     },
     {
       "km": 75297,
