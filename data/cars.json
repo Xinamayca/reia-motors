@@ -485,28 +485,6 @@
       "year": 2017
     },
     {
-      "km": 31000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "NISSAN VERSA",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.35.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.37-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.04.36-3-.jpeg"
-      ],
-      "id": "0240",
-      "year": 2022
-    },
-    {
       "km": 85000,
       "body": "Sedan",
       "trans": "Automatic",
