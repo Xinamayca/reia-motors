@@ -111,6 +111,29 @@
       "year": 2022
     },
     {
+      "km": 40000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 36000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Haval Jolion GWN",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-21-at-19.13.12-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-19.13.12-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-19.15.45.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-19.15.46-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-19.15.47.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-19.15.46.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-19.13.13.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-19.13.12-2-.jpeg"
+      ],
+      "id": "3574",
+      "year": 2023
+    },
+    {
       "km": 264000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -283,6 +306,29 @@
       "year": 2016
     },
     {
+      "km": 126000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford Escape",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.00-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.00-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.00.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-19.03.28.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.03.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.01.jpeg"
+      ],
+      "id": "3454",
+      "year": 2013
+    },
+    {
       "km": 191000,
       "body": "SUV",
       "trans": "Automatic",
@@ -394,6 +440,29 @@
       ],
       "id": "0810",
       "year": 2013
+    },
+    {
+      "km": 130000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 19500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Rio",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.23.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.22-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.22.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.24.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.25.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.25-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.23-1-.jpeg"
+      ],
+      "id": "s259",
+      "year": 2019
     },
     {
       "km": 6108,
@@ -706,6 +775,28 @@
       "year": 2019
     },
     {
+      "km": 53000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota Mark X",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.18-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.18.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.20.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.20-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-1-.jpeg"
+      ],
+      "id": "6805",
+      "year": 2012
+    },
+    {
       "km": 111580,
       "body": "Sedan",
       "trans": "Automatic",
@@ -836,6 +927,27 @@
       ],
       "id": "9138",
       "year": 2012
+    },
+    {
+      "km": 190000,
+      "body": "Hatchback",
+      "trans": "Manual",
+      "price": 8500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Suzuki Swift",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.47-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.47.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.47-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.48-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.48.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.47-1-.jpeg"
+      ],
+      "id": "JOH1",
+      "year": 2008
     },
     {
       "km": 107000,
@@ -1641,118 +1753,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 126000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Ford Escape",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.00-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.00-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.00.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.03.28.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.03.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.01.jpeg"
-      ],
-      "id": "3454",
-      "year": 2013
-    },
-    {
-      "km": 130000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 19500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Kia Rio",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.23.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.22-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.22.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.24.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.25.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.25-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.23-1-.jpeg"
-      ],
-      "id": "s259",
-      "year": 2019
-    },
-    {
-      "km": 53000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 2012,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Toyota Mark X",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.18-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.18.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.20.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.20-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-1-.jpeg"
-      ],
-      "id": "6805",
-      "year": 2012
-    },
-    {
-      "km": 40000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 36000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Haval Jolion GWN",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-21-at-19.13.12-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.13.12-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.15.45.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.15.46-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.15.47.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.15.46.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.13.13.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.13.12-2-.jpeg"
-      ],
-      "id": "3574",
-      "year": 2023
-    },
-    {
-      "km": 190000,
-      "body": "Hatchback",
-      "trans": "Manual",
-      "price": 8500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Suzuki Swift",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.47-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.47.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.47-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.48-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.48.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.47-1-.jpeg"
-      ],
-      "id": "JOH1",
-      "year": 2008
     }
   ]
 }
