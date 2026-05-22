@@ -649,6 +649,7 @@
       "price": 17500,
       "featured": false,
       "currency": "AWG",
+      "sold": false,
       "fuel": "Gasoline",
       "title": "SUZUKI CIAS",
       "images": [
@@ -671,6 +672,7 @@
       "price": 13500,
       "featured": false,
       "currency": "AWG",
+      "sold": false,
       "fuel": "Gasoline",
       "title": "CHEVROLET BEAT LT",
       "images": [
@@ -707,49 +709,6 @@
       ],
       "id": "2411",
       "year": 2012
-    },
-    {
-      "km": 142797,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 34000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Hybrid",
-      "title": "TOYOTA CAMRY",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-20-at-22.30.52-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-22.30.52-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-22.30.53-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-22.30.53.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-22.30.52-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-22.30.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-20-at-22.30.56.jpeg"
-      ],
-      "id": "0927",
-      "year": 2018
-    },
-    {
-      "km": 176435,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 22500,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "TOYOTA YARIS",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.00.30.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.13-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.14.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.13.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.13-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.12-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.12.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.14-1-.jpeg"
-      ],
-      "id": "2809",
-      "year": 2018
     },
     {
       "km": 72268,
@@ -1572,6 +1531,51 @@
       ],
       "id": "8730",
       "year": 2007
+    },
+    {
+      "km": 142797,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 34000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Hybrid",
+      "title": "TOYOTA CAMRY",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.52-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.52-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.53.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.52-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-20-at-22.30.56.jpeg"
+      ],
+      "id": "0927",
+      "year": 2018
+    },
+    {
+      "km": 176435,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 22500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "TOYOTA YARIS",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.00.30.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.13-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.14.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.13.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.13-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.12-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.12.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.14-1-.jpeg"
+      ],
+      "id": "2809",
+      "year": 2018
     },
     {
       "km": 57000,
