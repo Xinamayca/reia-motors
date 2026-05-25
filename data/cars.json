@@ -799,29 +799,6 @@
       "year": 2009
     },
     {
-      "km": 158000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 11500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Hybrid",
-      "title": "HONDA FIT 10TH ANNIVERSARY",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.38.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.39.jpeg"
-      ],
-      "id": "JUN3",
-      "year": 2012
-    },
-    {
       "km": 60000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -907,28 +884,6 @@
       ],
       "id": "JOH1",
       "year": 2008
-    },
-    {
-      "km": 107000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 11500,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "MAZDA DEMIO",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.00.55.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.00.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.00-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.58.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.59.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.59-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.58.00-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.59-1-.jpeg"
-      ],
-      "id": "9505",
-      "year": 2013
     },
     {
       "km": 181000,
@@ -1668,6 +1623,29 @@
       "year": 2025
     },
     {
+      "km": 158000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 11500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Hybrid",
+      "title": "HONDA FIT 10TH ANNIVERSARY",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.38.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.39-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.40.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.39.jpeg"
+      ],
+      "id": "JUN3",
+      "year": 2012
+    },
+    {
       "km": 115000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -1688,6 +1666,29 @@
       ],
       "id": "Juan1",
       "year": 2011
+    },
+    {
+      "km": 107000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 11500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "MAZDA DEMIO",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-20.00.55.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.00.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.00-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.58.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.59.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.59-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.58.00-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.59-1-.jpeg"
+      ],
+      "id": "9505",
+      "year": 2013
     },
     {
       "km": 130000,
