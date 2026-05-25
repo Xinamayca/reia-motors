@@ -306,29 +306,6 @@
       "year": 2016
     },
     {
-      "km": 126000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Ford Escape",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.00-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.00-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.00.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.03.28.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.03.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.23.01.jpeg"
-      ],
-      "id": "3454",
-      "year": 2013
-    },
-    {
       "km": 191000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1488,6 +1465,29 @@
       "year": 2007
     },
     {
+      "km": 126000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Ford Escape",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.00-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.00-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.00.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-19.03.28.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.03.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.23.01.jpeg"
+      ],
+      "id": "3454",
+      "year": 2013
+    },
+    {
       "km": 142797,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1758,6 +1758,45 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 32678,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 66000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford Explorer",
+      "id": "8104",
+      "year": 2023
+    },
+    {
+      "km": 200000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 11500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota Yaris",
+      "id": "6105",
+      "year": 2014
+    },
+    {
+      "km": 161000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Tucson",
+      "id": "9948",
+      "year": 2017
     }
   ]
 }
