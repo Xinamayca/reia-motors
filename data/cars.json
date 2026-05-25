@@ -45,6 +45,29 @@
       "year": 2025
     },
     {
+      "km": 32678,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 66000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford Explorer",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.55-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.53.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.53-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.52.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.53-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.55.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.53-3-.jpeg"
+      ],
+      "id": "8104",
+      "year": 2023
+    },
+    {
       "km": 1000,
       "body": "SUV",
       "trans": "Automatic",
@@ -264,27 +287,6 @@
       "year": 2014
     },
     {
-      "km": 126791,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 21500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Creta",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.56.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.58.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-2-.jpeg"
-      ],
-      "id": "0175",
-      "year": 2017
-    },
-    {
       "km": 124000,
       "body": "SUV",
       "trans": "Automatic",
@@ -306,27 +308,48 @@
       "year": 2016
     },
     {
-      "km": 191000,
+      "km": 126791,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 12500,
+      "price": 21500,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "ford escape",
+      "title": "Hyundai Creta",
       "images": [
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-6-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.06-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.08.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07.jpeg"
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.56.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.57.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.58.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-2-.jpeg"
       ],
-      "id": "1202",
-      "year": 2010
+      "id": "0175",
+      "year": 2017
+    },
+    {
+      "km": 161000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Tucson",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.29.59.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.01.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.00.jpeg"
+      ],
+      "id": "9948",
+      "year": 2017
     },
     {
       "km": 157000,
@@ -350,6 +373,29 @@
       ],
       "id": "vic1",
       "year": 2006
+    },
+    {
+      "km": 191000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "ford escape",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-6-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.06-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.08.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07.jpeg"
+      ],
+      "id": "1202",
+      "year": 2010
     },
     {
       "km": 110000,
@@ -1781,52 +1827,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 32678,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 66000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Ford Explorer",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.55-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.53.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.53-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.53-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.52.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.53-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.55.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.53-3-.jpeg"
-      ],
-      "id": "8104",
-      "year": 2023
-    },
-    {
-      "km": 161000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Tucson",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.29.59.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.01.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.00.jpeg"
-      ],
-      "id": "9948",
-      "year": 2017
     }
   ]
 }
