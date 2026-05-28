@@ -1836,7 +1836,7 @@
       "price": 5000,
       "featured": false,
       "currency": "AWG",
-      "sold": true,
+      "sold": false,
       "fuel": "Gasoline",
       "title": "KIA PICANTO",
       "images": [
