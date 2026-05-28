@@ -1693,6 +1693,29 @@
       "year": 2013
     },
     {
+      "km": 200000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 11500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Toyota Yaris",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.38-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.39-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.39-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.38-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.39-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-00.26.39.jpeg"
+      ],
+      "id": "6105",
+      "year": 2014
+    },
+    {
       "km": 152000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1827,29 +1850,6 @@
       ],
       "id": "Dit1",
       "year": 2008
-    },
-    {
-      "km": 200000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 11500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "Toyota Yaris",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.38-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.39-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.39-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.38-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.39-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-00.26.39.jpeg"
-      ],
-      "id": "6105",
-      "year": 2014
     },
     {
       "km": 77000,
