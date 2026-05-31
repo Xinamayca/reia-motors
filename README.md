@@ -78,6 +78,20 @@ Car dealership website for REIA Motors, Aruba. Built with vanilla HTML/CSS/JS, D
 - Click **Publish**
 - The card will show a "Sold" badge and the WhatsApp button will be disabled on the detail page
 
+### Reordering cars (IMPORTANT)
+
+Decap CMS has an upstream bug where editing a field in the same session as a drag-to-reorder can write the edit to the **wrong car** ([decap-cms#7458](https://github.com/decaporg/decap-cms/issues/7458)). To avoid it, always do reordering and field edits in separate publishes:
+
+1. Drag a car to its new position
+2. Click **Publish**
+3. **Reload the admin page in the browser**
+4. Only then toggle Sold, change a price, or edit any other field
+5. Click **Publish** again
+
+The orange warning banner at the top of the Cars editor reminds you of this. If you skip the reload step, a Sold toggle (or any other change) may land on a different car than the one you clicked.
+
+The Decap CMS version is pinned to `3.12.2` in `admin/index.html`. Do not bump it without re-testing the reorder + toggle workflow.
+
 ---
 
 ## Deployment
