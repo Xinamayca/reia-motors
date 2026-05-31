@@ -13,6 +13,16 @@ var CarsPreview = createClass({
     cars = cars.toJS();
 
     return h('div', { className: 'preview-wrap' },
+      h('div', { className: 'reorder-warning' },
+        h('div', { className: 'reorder-warning-title' }, 'Important — read before editing'),
+        h('div', { className: 'reorder-warning-body' },
+          'If you drag a car to a new position, click ',
+          h('strong', null, 'Publish'),
+          ', then ',
+          h('strong', null, 'reload this page'),
+          ' before toggling Sold or changing any other field. Otherwise your edit may save to the wrong car.'
+        )
+      ),
       cars.map(function (car, i) {
         var img = car.images && car.images.length ? car.images[0] : null;
         var price = car.price ? Number(car.price).toLocaleString('en-US') : '—';

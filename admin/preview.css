@@ -23,6 +23,35 @@ body {
   gap: 12px;
 }
 
+.reorder-warning {
+  background: #fff4e6;
+  border: 2px solid #ff8a00;
+  border-left: 6px solid #ff8a00;
+  border-radius: 6px;
+  padding: 14px 16px;
+  margin-bottom: 4px;
+}
+
+.reorder-warning-title {
+  font-size: 13px;
+  font-weight: 500;
+  color: #b75200;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-bottom: 6px;
+}
+
+.reorder-warning-body {
+  font-size: 13px;
+  color: #5a3000;
+  line-height: 1.5;
+}
+
+.reorder-warning-body strong {
+  font-weight: 500;
+  color: #b75200;
+}
+
 .car-card {
   background: #fff;
   border: 1px solid #e4e3de;
