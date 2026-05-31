@@ -601,6 +601,29 @@
       "year": 2018
     },
     {
+      "km": 123000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Accent",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.25.46.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.25.44.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.25.44-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.25.45.jpeg"
+      ],
+      "id": "7529",
+      "year": 2020
+    },
+    {
       "km": 79074,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -908,26 +931,27 @@
       "year": 2006
     },
     {
-      "km": 70000,
+      "km": 75000,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 27000,
+      "price": 32500,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
       "title": "Jeep Wrangler",
       "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.05.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-2-.jpeg"
+        "/uploads/whatsapp-image-2026-05-30-at-23.26.54-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.26.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.26.55.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.26.54.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.26.54-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.26.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.26.54-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.26.53.jpeg"
       ],
-      "id": "HEM1",
-      "year": 2008
+      "id": "om2",
+      "year": 2014
     },
     {
       "km": 160000,
@@ -953,6 +977,51 @@
       "year": 2009
     },
     {
+      "km": 79000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 27500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Wrangler",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.22.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-4-.jpeg"
+      ],
+      "id": "om1",
+      "year": 2015
+    },
+    {
+      "km": 70000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 27000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Wrangler",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.06.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.05.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-16.46.06-2-.jpeg"
+      ],
+      "id": "HEM1",
+      "year": 2008
+    },
+    {
       "km": 143492,
       "body": "SUV",
       "trans": "Automatic",
@@ -973,6 +1042,29 @@
       ],
       "id": "8763",
       "year": 2009
+    },
+    {
+      "km": 90000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 22000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Renegade",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.41.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.03-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.03.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.05.jpeg"
+      ],
+      "id": "4443",
+      "year": 2016
     },
     {
       "km": 110000,
@@ -1739,98 +1831,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 123000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Accent",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.46.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.44.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.44-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.45.jpeg"
-      ],
-      "id": "7529",
-      "year": 2020
-    },
-    {
-      "km": 75000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 32500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Wrangler",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-30-at-23.26.54-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.26.54-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.26.55.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.26.54.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.26.54-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.26.53-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.26.54-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.26.53.jpeg"
-      ],
-      "id": "om2",
-      "year": 2014
-    },
-    {
-      "km": 79000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 27000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Wrangler",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.22.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-4-.jpeg"
-      ],
-      "id": "om1",
-      "year": 2015
-    },
-    {
-      "km": 90000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 22000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Renegade",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.41.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.03-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.03.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.05.jpeg"
-      ],
-      "id": "4443",
-      "year": 2016
     }
   ]
 }
