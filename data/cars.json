@@ -1199,7 +1199,7 @@
       "body": "Motorcycle",
       "trans": "Manual",
       "price": 19500,
-      "featured": true,
+      "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "HARLEY DAVISON SPORTSTER 1200",
