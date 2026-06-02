@@ -1094,7 +1094,7 @@
       "body": "Truck",
       "trans": "Automatic",
       "price": 65000,
-      "featured": true,
+      "featured": false,
       "currency": "AWG",
       "fuel": "Gasoline",
       "title": "CHEVROLET SILVERADO",
