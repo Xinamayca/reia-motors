@@ -560,7 +560,7 @@
       "body": "Sedan",
       "trans": "Automatic",
       "price": 25000,
-      "featured": false,
+      "featured": true,
       "currency": "AWG",
       "sold": false,
       "fuel": "Hybrid",
