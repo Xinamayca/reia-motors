@@ -427,7 +427,7 @@
       "body": "Sedan",
       "trans": "Automatic",
       "price": 75000,
-      "featured": true,
+      "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
