@@ -377,29 +377,6 @@
       "year": 2009
     },
     {
-      "km": 191000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 12500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "ford escape",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-6-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.06-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.08.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07.jpeg"
-      ],
-      "id": "1202",
-      "year": 2010
-    },
-    {
       "km": 210000,
       "body": "SUV",
       "trans": "Automatic",
@@ -423,26 +400,27 @@
       "year": 2013
     },
     {
-      "km": 83000,
-      "body": "Hatchback",
+      "km": 191000,
+      "body": "SUV",
       "trans": "Automatic",
-      "price": 35000,
-      "featured": true,
+      "price": 12500,
+      "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Nissan Fairlady 370Z",
+      "title": "ford escape",
       "images": [
-        "/uploads/whatsapp-image-2026-05-28-at-01.01.52-copy.jpeg",
-        "/uploads/whatsapp-image-2026-05-28-at-01.01.53.jpeg",
-        "/uploads/whatsapp-image-2026-05-28-at-01.01.53-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-28-at-01.01.53-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-28-at-01.01.54-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-28-at-01.01.54.jpeg",
-        "/uploads/whatsapp-image-2026-05-28-at-01.01.54-2-.jpeg"
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-6-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.06-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.08.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-22.49.07.jpeg"
       ],
-      "id": "2624",
-      "year": 2009
+      "id": "1202",
+      "year": 2010
     },
     {
       "km": 29000,
@@ -466,6 +444,28 @@
       ],
       "id": "4536",
       "year": 2020
+    },
+    {
+      "km": 83000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 35000,
+      "featured": true,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Fairlady 370Z",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-28-at-01.01.52-copy.jpeg",
+        "/uploads/whatsapp-image-2026-05-28-at-01.01.53.jpeg",
+        "/uploads/whatsapp-image-2026-05-28-at-01.01.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-28-at-01.01.53-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-28-at-01.01.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-28-at-01.01.54.jpeg",
+        "/uploads/whatsapp-image-2026-05-28-at-01.01.54-2-.jpeg"
+      ],
+      "id": "2624",
+      "year": 2009
     },
     {
       "km": 110000,
