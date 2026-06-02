@@ -5,7 +5,7 @@
       "body": "SUV",
       "trans": "Automatic",
       "price": 50000,
-      "featured": true,
+      "featured": false,
       "currency": "AWG",
       "fuel": "Electric",
       "title": "Honda E-NS1",
@@ -289,25 +289,27 @@
       "year": 2018
     },
     {
-      "km": 124000,
+      "km": 161000,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 20000,
+      "price": 25000,
       "featured": false,
       "currency": "AWG",
+      "sold": false,
       "fuel": "Gasoline",
-      "title": "KIA SPORTAGE",
+      "title": "Hyundai Tucson",
       "images": [
-        "/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-2-.jpeg"
+        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.29.59.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.01.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.00.jpeg"
       ],
-      "id": "6096",
-      "year": 2016
+      "id": "9948",
+      "year": 2017
     },
     {
       "km": 126791,
@@ -331,27 +333,71 @@
       "year": 2017
     },
     {
-      "km": 161000,
+      "km": 124000,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 25000,
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "KIA SPORTAGE",
+      "images": [
+        "/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-2-.jpeg"
+      ],
+      "id": "6096",
+      "year": 2016
+    },
+    {
+      "km": 240000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 18000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Hyundai Tucson",
+      "title": "Mitsubishi Nativa",
       "images": [
-        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.29.59.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.01.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.00.jpeg"
+        "/uploads/whatsapp-image-2026-06-02-at-00.00.07-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.00.07.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.00.07-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.00.08.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.00.08-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.00.08-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.00.08-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.00.08-2-.jpeg"
       ],
-      "id": "9948",
-      "year": 2017
+      "id": "1688",
+      "year": 2009
+    },
+    {
+      "km": 210000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Honda CRV",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.29-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.28.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.29-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.27.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.29.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-3-.jpeg"
+      ],
+      "id": "bra1",
+      "year": 2013
     },
     {
       "km": 191000,
@@ -381,7 +427,7 @@
       "body": "Hatchback",
       "trans": "Automatic",
       "price": 35000,
-      "featured": false,
+      "featured": true,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
@@ -399,10 +445,33 @@
       "year": 2009
     },
     {
+      "km": 29000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 75000,
+      "featured": true,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Mercedes Benz CLA 200",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.46-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.46.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.46-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.47-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.47-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.47.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.46-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.45.jpeg"
+      ],
+      "id": "4536",
+      "year": 2020
+    },
+    {
       "km": 110000,
       "body": "Sedan",
       "trans": "Automatic",
-      "price": 65000,
+      "price": 55000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
