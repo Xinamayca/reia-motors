@@ -377,29 +377,6 @@
       "year": 2009
     },
     {
-      "km": 210000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Honda CRV",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.29-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.28.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.29-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.27.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.29.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-3-.jpeg"
-      ],
-      "id": "bra1",
-      "year": 2013
-    },
-    {
       "km": 191000,
       "body": "SUV",
       "trans": "Automatic",
@@ -423,11 +400,34 @@
       "year": 2010
     },
     {
+      "km": 210000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Honda CRV",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.29-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.28.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.29-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.27.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.29.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-3-.jpeg"
+      ],
+      "id": "bra1",
+      "year": 2013
+    },
+    {
       "km": 83000,
       "body": "Hatchback",
       "trans": "Automatic",
       "price": 35000,
-      "featured": true,
+      "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
