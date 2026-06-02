@@ -922,7 +922,7 @@
       "body": "Hatchback",
       "trans": "Automatic",
       "price": 30000,
-      "featured": true,
+      "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
