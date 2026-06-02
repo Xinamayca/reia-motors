@@ -427,7 +427,7 @@
       "body": "Hatchback",
       "trans": "Automatic",
       "price": 35000,
-      "featured": false,
+      "featured": true,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
