@@ -1660,7 +1660,7 @@
       "price": 12000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "Toyota Mark X",
       "images": [
