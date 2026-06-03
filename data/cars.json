@@ -830,28 +830,6 @@
       "year": 2011
     },
     {
-      "km": 53000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 12000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Toyota Mark X",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.18-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.18.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.20.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.20-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-1-.jpeg"
-      ],
-      "id": "6805",
-      "year": 2012
-    },
-    {
       "km": 111580,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1674,6 +1652,28 @@
       ],
       "id": "9912",
       "year": 2013
+    },
+    {
+      "km": 53000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota Mark X",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.18-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.18.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.20.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.20-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.30.19-1-.jpeg"
+      ],
+      "id": "6805",
+      "year": 2012
     },
     {
       "km": 200000,
