@@ -134,29 +134,6 @@
       "year": 2022
     },
     {
-      "km": 40000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 36000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Haval Jolion GWN",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-21-at-19.13.12-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.13.12-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.15.45.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.15.46-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.15.47.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.15.46.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.13.13.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-19.13.12-2-.jpeg"
-      ],
-      "id": "3574",
-      "year": 2023
-    },
-    {
       "km": 33000,
       "body": "SUV",
       "trans": "Automatic",
@@ -309,27 +286,6 @@
         "/uploads/whatsapp-image-2026-05-25-at-01.30.00.jpeg"
       ],
       "id": "9948",
-      "year": 2017
-    },
-    {
-      "km": 126791,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 21500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Creta",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.56.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.58.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.30.57-2-.jpeg"
-      ],
-      "id": "0175",
       "year": 2017
     },
     {
