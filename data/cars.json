@@ -1116,26 +1116,6 @@
       "year": 2012
     },
     {
-      "km": 96000,
-      "body": "Truck",
-      "trans": "Automatic",
-      "price": 58000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "chevrolet colorado",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-2-.jpeg"
-      ],
-      "id": "2655",
-      "year": 2022
-    },
-    {
       "km": 72888,
       "body": "Truck",
       "trans": "Automatic",
@@ -1155,6 +1135,26 @@
       ],
       "id": "8637",
       "year": 2017
+    },
+    {
+      "km": 96000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 58000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "chevrolet colorado",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-2-.jpeg"
+      ],
+      "id": "2655",
+      "year": 2022
     },
     {
       "km": 90700,
