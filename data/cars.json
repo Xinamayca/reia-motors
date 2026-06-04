@@ -1116,6 +1116,26 @@
       "year": 2012
     },
     {
+      "km": 96000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 58000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "chevrolet colorado",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-2-.jpeg"
+      ],
+      "id": "2655",
+      "year": 2022
+    },
+    {
       "km": 72888,
       "body": "Truck",
       "trans": "Automatic",
@@ -1137,24 +1157,26 @@
       "year": 2017
     },
     {
-      "km": 96000,
+      "km": 90700,
       "body": "Truck",
       "trans": "Automatic",
-      "price": 58000,
+      "price": 54000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
-      "fuel": "Gasoline",
-      "title": "chevrolet colorado",
+      "fuel": "Diesel",
+      "title": "Nissan Frontier 4x4",
       "images": [
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-00.37.51-2-.jpeg"
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-7-.jpeg",
+        "/uploads/whatsapp-image-2026-05-10-at-15.57.57.jpeg"
       ],
-      "id": "2655",
-      "year": 2022
+      "id": "8983",
+      "year": 2019
     },
     {
       "km": 200000,
@@ -1362,28 +1384,6 @@
       ],
       "id": "0767",
       "year": 2007
-    },
-    {
-      "km": 90700,
-      "body": "Truck",
-      "trans": "Automatic",
-      "price": 54000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Diesel",
-      "title": "Nissan Frontier 4x4",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.56-7-.jpeg",
-        "/uploads/whatsapp-image-2026-05-10-at-15.57.57.jpeg"
-      ],
-      "id": "8983",
-      "year": 2019
     },
     {
       "km": 75297,
