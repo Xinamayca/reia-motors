@@ -1885,6 +1885,7 @@
       "km": 138000,
       "body": "SUV",
       "trans": "Automatic",
+      "price": 15000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -1925,11 +1926,6 @@
       ],
       "id": "2918",
       "year": 2022
-    },
-    {
-      "currency": "AWG",
-      "featured": false,
-      "sold": false
     }
   ]
 }
