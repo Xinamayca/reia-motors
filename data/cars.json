@@ -1949,6 +1949,52 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 120000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota Yaris",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-5-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.54.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.56.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.56-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.55-3-.jpeg"
+      ],
+      "id": "rol1",
+      "year": 2018
+    },
+    {
+      "km": 155000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 16000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "KIA Rio",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.50.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.50-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.50-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.49.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.48.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.49-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.49-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.50-2-.jpeg"
+      ],
+      "id": "4619",
+      "year": 2016
     }
   ]
 }
