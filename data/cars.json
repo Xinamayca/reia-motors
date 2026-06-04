@@ -1143,6 +1143,7 @@
       "price": 58000,
       "featured": false,
       "currency": "AWG",
+      "sold": false,
       "fuel": "Gasoline",
       "title": "chevrolet colorado",
       "images": [
