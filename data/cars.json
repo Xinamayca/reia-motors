@@ -379,29 +379,6 @@
       "year": 2009
     },
     {
-      "km": 210000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Honda CRV",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.29-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.28.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.29-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.27.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.29.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-00.26.28-3-.jpeg"
-      ],
-      "id": "bra1",
-      "year": 2013
-    },
-    {
       "km": 191000,
       "body": "SUV",
       "trans": "Automatic",
@@ -591,14 +568,14 @@
       "fuel": "Gasoline",
       "title": "VOLKWAGEN SETTA",
       "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.21-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.22.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.21.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.21-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.22-3-.jpeg"
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.27.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.25.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.26.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.27-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-1-.jpeg"
       ],
       "id": "9348",
       "year": 2013
@@ -1951,7 +1928,7 @@
       "year": 2015
     },
     {
-      "km": 120000,
+      "km": 183000,
       "body": "Sedan",
       "trans": "Automatic",
       "price": 20000,
@@ -1995,6 +1972,52 @@
       ],
       "id": "4619",
       "year": 2016
+    },
+    {
+      "km": 200000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 35000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford F350",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-06-at-20.37.17-5-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.37.17-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.37.16-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.37.17.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.37.17-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.37.18.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.37.16-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.37.17-4-.jpeg"
+      ],
+      "id": "5107",
+      "year": 2000
+    },
+    {
+      "km": 54000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Diesel",
+      "title": "Mazda Demio",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.35.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.34.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.36-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.36-1-.jpeg"
+      ],
+      "id": "juan1",
+      "year": 2015
     }
   ]
 }
