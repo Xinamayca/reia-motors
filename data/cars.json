@@ -1054,6 +1054,29 @@
       "year": 2009
     },
     {
+      "km": 173000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 10000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Picanto",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-6-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.22.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.22-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.22-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-5-.jpeg"
+      ],
+      "id": "sas1",
+      "year": 2012
+    },
+    {
       "km": 146000,
       "body": "SUV",
       "trans": "Automatic",
@@ -2088,29 +2111,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 173000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 10000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Kia Picanto",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-6-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.22.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.22-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.22-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-5-.jpeg"
-      ],
-      "id": "sas1",
-      "year": 2012
     }
   ]
 }
