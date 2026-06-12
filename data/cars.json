@@ -809,29 +809,6 @@
       "year": 2019
     },
     {
-      "km": 156888,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 10500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "kia optima",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-03-at-17.30.08.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.05.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.05-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.06.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.06-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.06-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.05-2-.jpeg"
-      ],
-      "id": "2411",
-      "year": 2012
-    },
-    {
       "km": 183000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1864,6 +1841,28 @@
       "year": 2019
     },
     {
+      "km": 152000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "MG GT",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.44.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.45.jpeg",
+        "/uploads/whatsapp-image-2026-05-14-at-19.21.44-1-.jpeg"
+      ],
+      "id": "0311",
+      "year": 2019
+    },
+    {
       "km": 99000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1931,26 +1930,27 @@
       "year": 2014
     },
     {
-      "km": 152000,
+      "km": 156888,
       "body": "Sedan",
       "trans": "Automatic",
-      "price": 15000,
+      "price": 10500,
       "featured": false,
       "currency": "AWG",
       "sold": true,
       "fuel": "Gasoline",
-      "title": "MG GT",
+      "title": "kia optima",
       "images": [
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.43.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.43-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.44.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.45.jpeg",
-        "/uploads/whatsapp-image-2026-05-14-at-19.21.44-1-.jpeg"
+        "/uploads/whatsapp-image-2026-05-03-at-17.30.08.jpeg",
+        "/uploads/whatsapp-image-2026-05-03-at-18.40.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-03-at-18.40.05.jpeg",
+        "/uploads/whatsapp-image-2026-05-03-at-18.40.05-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-03-at-18.40.06.jpeg",
+        "/uploads/whatsapp-image-2026-05-03-at-18.40.06-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-03-at-18.40.06-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-03-at-18.40.05-2-.jpeg"
       ],
-      "id": "0311",
-      "year": 2019
+      "id": "2411",
+      "year": 2012
     },
     {
       "km": 0,
