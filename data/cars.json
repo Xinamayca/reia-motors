@@ -448,52 +448,6 @@
       "year": 2026
     },
     {
-      "km": 146000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 13000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "hyundai accent",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-06-at-23.14.05-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.14.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.14.05.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.14.06-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.14.06.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.14.06-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.14.06-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.14.05-4-.jpeg"
-      ],
-      "id": "0810",
-      "year": 2013
-    },
-    {
-      "km": 130000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 19000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "Kia Rio",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.23.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.22-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.22.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.24.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.25.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.25-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.26.23-1-.jpeg"
-      ],
-      "id": "s259",
-      "year": 2019
-    },
-    {
       "km": 63006,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1842,6 +1796,29 @@
       "year": 2019
     },
     {
+      "km": 130000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 19000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Kia Rio",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.23.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.22-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.22.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.24.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.25.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.25-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-21-at-18.26.23-1-.jpeg"
+      ],
+      "id": "s259",
+      "year": 2019
+    },
+    {
       "km": 152000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1883,6 +1860,29 @@
         "/uploads/whatsapp-image-2026-04-16-at-21.10.55-1-.jpeg"
       ],
       "id": "9912",
+      "year": 2013
+    },
+    {
+      "km": 146000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 13000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "hyundai accent",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.05-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.05.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.06-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.06.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.06-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.06-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-06-at-23.14.05-4-.jpeg"
+      ],
+      "id": "0810",
       "year": 2013
     },
     {
