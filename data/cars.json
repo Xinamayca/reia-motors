@@ -291,28 +291,6 @@
       "year": 2017
     },
     {
-      "km": 124000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "KIA SPORTAGE",
-      "images": [
-        "/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-2-.jpeg"
-      ],
-      "id": "6096",
-      "year": 2016
-    },
-    {
       "km": 240000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1547,6 +1525,28 @@
       ],
       "id": "6476",
       "year": 2015
+    },
+    {
+      "km": 124000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "KIA SPORTAGE",
+      "images": [
+        "/uploads/whatsapp-image-2026-03-20-at-17.14.39.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.02-2-.jpeg"
+      ],
+      "id": "6096",
+      "year": 2016
     },
     {
       "km": 44000,
