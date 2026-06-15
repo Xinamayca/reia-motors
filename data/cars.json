@@ -834,29 +834,6 @@
       "year": 2007
     },
     {
-      "km": 70300,
-      "body": "Hatchback",
-      "trans": "Manual",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Note",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-03-at-21.53.12-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.53.13-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.53.13-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.53.13.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.53.12-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.53.12-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.53.12-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.53.12.jpeg"
-      ],
-      "id": "0302",
-      "year": 2016
-    },
-    {
       "km": 43000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -942,6 +919,29 @@
       ],
       "id": "JOH1",
       "year": 2008
+    },
+    {
+      "km": 70300,
+      "body": "Hatchback",
+      "trans": "Manual",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Note",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-03-at-21.53.12-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-03-at-21.53.13-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-03-at-21.53.13-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-03-at-21.53.13.jpeg",
+        "/uploads/whatsapp-image-2026-06-03-at-21.53.12-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-03-at-21.53.12-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-03-at-21.53.12-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-03-at-21.53.12.jpeg"
+      ],
+      "id": "0302",
+      "year": 2016
     },
     {
       "km": 170000,
