@@ -271,6 +271,52 @@
       "year": 2012
     },
     {
+      "km": 161000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Tucson",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.29.59.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.01.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-25-at-01.30.00.jpeg"
+      ],
+      "id": "9948",
+      "year": 2017
+    },
+    {
+      "km": 104000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Tucson",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-02-at-22.03.41-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-22.03.42.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-22.03.42-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-22.03.42-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-22.03.41-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-22.03.42-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-22.03.42-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-02-at-22.03.41.jpeg"
+      ],
+      "id": "9930",
+      "year": 2017
+    },
+    {
       "km": 129400,
       "body": "SUV",
       "trans": "Automatic",
@@ -335,52 +381,6 @@
       ],
       "id": "0396",
       "year": 2018
-    },
-    {
-      "km": 104000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Tucson",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-02-at-22.03.41-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-22.03.42.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-22.03.42-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-22.03.42-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-22.03.41-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-22.03.42-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-22.03.42-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-02-at-22.03.41.jpeg"
-      ],
-      "id": "9930",
-      "year": 2017
-    },
-    {
-      "km": 161000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Tucson",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.29.59-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.29.59.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.00-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.01.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-25-at-01.30.00.jpeg"
-      ],
-      "id": "9948",
-      "year": 2017
     },
     {
       "km": 240000,
