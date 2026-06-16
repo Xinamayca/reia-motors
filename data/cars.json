@@ -2112,6 +2112,75 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 115000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 56000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Detour x70 Plus",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.13-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.12.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.11.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.13.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-4-.jpeg"
+      ],
+      "id": "3875",
+      "year": 2024
+    },
+    {
+      "km": 100000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 46000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "GAC GS3",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.25-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.24.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.24-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.25-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.25.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.23.jpeg"
+      ],
+      "id": "9306",
+      "year": 2025
+    },
+    {
+      "km": 270000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 74000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota corolla cross",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.20-5-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.19-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.20-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.20.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.19-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.20-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.19.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.20-3-.jpeg"
+      ],
+      "id": "2883",
+      "year": 2022
     }
   ]
 }
