@@ -1190,28 +1190,6 @@
       "year": 2008
     },
     {
-      "km": 143492,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 19000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "JEEP LIBERTY",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.43.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-2-.jpeg"
-      ],
-      "id": "8763",
-      "year": 2009
-    },
-    {
       "km": 191000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1258,10 +1236,32 @@
       "year": 2016
     },
     {
+      "km": 143492,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 19000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "JEEP LIBERTY",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.43.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.45-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.03.44-2-.jpeg"
+      ],
+      "id": "8763",
+      "year": 2009
+    },
+    {
       "km": 110000,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 19500,
+      "price": 19000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
