@@ -906,7 +906,7 @@
       "price": 20000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "Nissan Note",
       "images": [
