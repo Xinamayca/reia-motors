@@ -47,51 +47,6 @@
       "year": 2022
     },
     {
-      "km": 115000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 56000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Detour x70 Plus",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.13-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.12.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.11.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.13.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-4-.jpeg"
-      ],
-      "id": "G1",
-      "year": 2024
-    },
-    {
-      "km": 0,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Electric",
-      "title": "Honda E-NS1",
-      "images": [
-        "/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.32-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.34.jpeg"
-      ],
-      "id": "0541",
-      "year": 2025
-    },
-    {
       "km": 32678,
       "body": "SUV",
       "trans": "Automatic",
@@ -113,28 +68,6 @@
       ],
       "id": "8104",
       "year": 2023
-    },
-    {
-      "km": 0,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Electric",
-      "title": "Honda E-NS1",
-      "images": [
-        "/uploads/whatsapp-image-2026-02-27-at-17.11.32.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.32.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.34.jpeg"
-      ],
-      "id": "0496",
-      "year": 2024
     },
     {
       "km": 1000,
@@ -179,6 +112,96 @@
       ],
       "id": "5658",
       "year": 2019
+    },
+    {
+      "km": 115000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 56000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Detour x70 Plus",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.13-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.12.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.11.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.13.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.12-4-.jpeg"
+      ],
+      "id": "G1",
+      "year": 2024
+    },
+    {
+      "km": 0,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Electric",
+      "title": "Honda E-NS1",
+      "images": [
+        "/uploads/whatsapp-image-2026-02-27-at-17.11.32.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.32.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.34.jpeg"
+      ],
+      "id": "0496",
+      "year": 2024
+    },
+    {
+      "km": 0,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Electric",
+      "title": "Honda E-NS1",
+      "images": [
+        "/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.32-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.34.jpeg"
+      ],
+      "id": "0541",
+      "year": 2025
+    },
+    {
+      "km": 100000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 46000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "GAC GS3",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.25-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.24.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.24-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.25-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.25.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.34.23.jpeg"
+      ],
+      "id": "G2",
+      "year": 2025
     },
     {
       "km": 25723,
@@ -1189,6 +1212,29 @@
       "year": 2009
     },
     {
+      "km": 191000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 22500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Wrangler",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.59-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.59.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.59-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.58.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-3-.jpeg"
+      ],
+      "id": "4177",
+      "year": 2012
+    },
+    {
       "km": 90000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1254,6 +1300,29 @@
       ],
       "id": "8637",
       "year": 2017
+    },
+    {
+      "km": 250000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Chevrolet Silverado",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-6-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-5-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.30-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.30.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.29.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.28.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-4-.jpeg"
+      ],
+      "id": "0243",
+      "year": 2018
     },
     {
       "km": 96000,
@@ -2181,75 +2250,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 100000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 46000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "GAC GS3",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.25-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.24.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.24-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.24-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.25-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.25.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.34.23.jpeg"
-      ],
-      "id": "G2",
-      "year": 2025
-    },
-    {
-      "km": 250000,
-      "body": "Truck",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Chevrolet Silverado",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-6-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-5-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.35.30-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.35.30.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.35.29.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.35.28.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-4-.jpeg"
-      ],
-      "id": "0243",
-      "year": 2018
-    },
-    {
-      "km": 191000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 22500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Wrangler",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-15-at-19.36.59-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.36.59.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.36.59-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.36.58.jpeg",
-        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-3-.jpeg"
-      ],
-      "id": "4177",
-      "year": 2012
     }
   ]
 }
