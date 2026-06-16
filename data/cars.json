@@ -2133,7 +2133,7 @@
         "/uploads/whatsapp-image-2026-06-15-at-19.34.12-3-.jpeg",
         "/uploads/whatsapp-image-2026-06-15-at-19.34.12-4-.jpeg"
       ],
-      "id": "3875",
+      "id": "G1",
       "year": 2024
     },
     {
@@ -2156,14 +2156,14 @@
         "/uploads/whatsapp-image-2026-06-15-at-19.34.25.jpeg",
         "/uploads/whatsapp-image-2026-06-15-at-19.34.23.jpeg"
       ],
-      "id": "9306",
+      "id": "G2",
       "year": 2025
     },
     {
       "km": 270000,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 74000,
+      "price": 75000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -2179,8 +2179,77 @@
         "/uploads/whatsapp-image-2026-06-15-at-19.35.19.jpeg",
         "/uploads/whatsapp-image-2026-06-15-at-19.35.20-3-.jpeg"
       ],
-      "id": "2883",
+      "id": "G3",
       "year": 2022
+    },
+    {
+      "km": 250000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Chevrolet Silverado",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-6-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-5-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.30-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.30.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.29.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.28.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.35.29-4-.jpeg"
+      ],
+      "id": "0243",
+      "year": 2018
+    },
+    {
+      "km": 36000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 80000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Changing Unique",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.50.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.51-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.50-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.51.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.49.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.50-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.50-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.50-3-.jpeg"
+      ],
+      "id": "G1",
+      "year": 2024
+    },
+    {
+      "km": 191000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 22500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Wrangler",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.59-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.59.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.59-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.58.jpeg",
+        "/uploads/whatsapp-image-2026-06-15-at-19.36.58-3-.jpeg"
+      ],
+      "id": "4177",
+      "year": 2012
     }
   ]
 }
