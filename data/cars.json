@@ -539,29 +539,6 @@
       "year": 2016
     },
     {
-      "km": 125125,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 14500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "VOLKWAGEN SETTA",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-22.33.27.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-22.33.25.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-22.33.26.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-22.33.27-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-1-.jpeg"
-      ],
-      "id": "9348",
-      "year": 2013
-    },
-    {
       "km": 155000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1975,6 +1952,29 @@
         "/uploads/whatsapp-image-2026-04-16-at-21.10.55-1-.jpeg"
       ],
       "id": "9912",
+      "year": 2013
+    },
+    {
+      "km": 125125,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 14500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "VOLKWAGEN SETTA",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.27.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.25.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.26.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.27-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-22.33.26-1-.jpeg"
+      ],
+      "id": "9348",
       "year": 2013
     },
     {
