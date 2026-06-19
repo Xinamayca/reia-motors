@@ -24,29 +24,6 @@
       "year": 2024
     },
     {
-      "km": 27000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 75000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Toyota corolla cross",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.18-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.18-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.18.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.17-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.16.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.18-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.17.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.17-3-.jpeg"
-      ],
-      "id": "G3",
-      "year": 2022
-    },
-    {
       "km": 32678,
       "body": "SUV",
       "trans": "Automatic",
@@ -135,6 +112,29 @@
       ],
       "id": "G1",
       "year": 2024
+    },
+    {
+      "km": 27000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 55000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota corolla cross",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.18-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.18-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.18.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.17-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.16.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.18-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.17.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.17-3-.jpeg"
+      ],
+      "id": "G3",
+      "year": 2022
     },
     {
       "km": 0,
