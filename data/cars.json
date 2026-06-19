@@ -91,29 +91,6 @@
       "year": 2019
     },
     {
-      "km": 11500,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 55000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "jetour x70 Plus",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.37-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.37.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.38.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.36.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.37-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-2-.jpeg"
-      ],
-      "id": "G1",
-      "year": 2024
-    },
-    {
       "km": 27000,
       "body": "SUV",
       "trans": "Automatic",
@@ -135,6 +112,29 @@
       ],
       "id": "G3",
       "year": 2022
+    },
+    {
+      "km": 11500,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 55000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "jetour x70 Plus",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.37-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.37.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.38.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.36.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.37-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-2-.jpeg"
+      ],
+      "id": "G1",
+      "year": 2024
     },
     {
       "km": 0,
