@@ -1144,29 +1144,6 @@
       "year": 2022
     },
     {
-      "km": 4000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 60000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Compass Altitude 4x4",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-22-at-20.17.27-6-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.17.26-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.17.27.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.17.27-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.17.26.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.17.27-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.17.26-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.17.27-4-.jpeg"
-      ],
-      "id": "IOASA",
-      "year": 2024
-    },
-    {
       "km": 75000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1278,6 +1255,52 @@
         "/uploads/whatsapp-image-2026-06-15-at-19.36.58-3-.jpeg"
       ],
       "id": "4177",
+      "year": 2012
+    },
+    {
+      "km": 4000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 60000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Compass Altitude 4x4",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-22-at-20.17.27-6-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.17.26-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.17.27.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.17.27-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.17.26.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.17.27-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.17.26-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.17.27-4-.jpeg"
+      ],
+      "id": "IOASA",
+      "year": 2024
+    },
+    {
+      "km": 114000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 22500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Compass 4x4",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.19.08.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.19.08-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.19.10.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.19.10-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-3-.jpeg"
+      ],
+      "id": "STDTCH",
       "year": 2012
     },
     {
@@ -2341,29 +2364,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 114000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 22500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Compass 4x4",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.08.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.08-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.10.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.10-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-22-at-20.19.09-3-.jpeg"
-      ],
-      "id": "STDTCH",
-      "year": 2012
     }
   ]
 }
