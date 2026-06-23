@@ -2295,6 +2295,29 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 68986,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 17500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Chevrolet Sonic LT",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-22-at-20.06.24-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.06.23.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.06.24-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.06.24.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.06.23-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.06.23-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.06.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-22-at-20.06.23-2-.jpeg"
+      ],
+      "id": "3925",
+      "year": 2017
     }
   ]
 }
