@@ -2364,6 +2364,29 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 59000,
+      "body": "Truck",
+      "trans": "Manual",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Diesel",
+      "title": "Nissan Frontier",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-30-at-20.19.42-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.19.41-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.19.41.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.19.42-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.19.42.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.19.43.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.19.43-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.19.42-1-.jpeg"
+      ],
+      "id": "4417",
+      "year": 2019
     }
   ]
 }
