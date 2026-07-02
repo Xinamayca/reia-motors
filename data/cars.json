@@ -744,28 +744,6 @@
       "year": 2009
     },
     {
-      "km": 129000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 13500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "CHEVROLET BEAT LT",
-      "images": [
-        "/uploads/whatsapp-image-2026-03-20-at-17.18.14.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.07-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.08.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.53.41-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.53.41-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.53.41.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.07-3-.jpeg"
-      ],
-      "id": "8039",
-      "year": 2019
-    },
-    {
       "km": 183000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1981,6 +1959,28 @@
       ],
       "id": "9348",
       "year": 2013
+    },
+    {
+      "km": 129000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 13500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "CHEVROLET BEAT LT",
+      "images": [
+        "/uploads/whatsapp-image-2026-03-20-at-17.18.14.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.07-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.08.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.53.41-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.53.41-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-21.53.41.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.07-3-.jpeg"
+      ],
+      "id": "8039",
+      "year": 2019
     },
     {
       "km": 146000,
