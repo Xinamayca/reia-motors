@@ -721,29 +721,6 @@
       "year": 2017
     },
     {
-      "km": 54000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Diesel",
-      "title": "Mazda Demio",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-06-at-20.36.35.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-20.36.34.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-20.36.36-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-06-at-20.36.36-1-.jpeg"
-      ],
-      "id": "juan1",
-      "year": 2015
-    },
-    {
       "km": 112000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1958,6 +1935,29 @@
       ],
       "id": "9912",
       "year": 2013
+    },
+    {
+      "km": 54000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Diesel",
+      "title": "Mazda Demio",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.35.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.34.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.36-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.35-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-06-at-20.36.36-1-.jpeg"
+      ],
+      "id": "juan1",
+      "year": 2015
     },
     {
       "km": 125125,
