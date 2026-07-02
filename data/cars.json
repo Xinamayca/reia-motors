@@ -835,29 +835,6 @@
       "year": 2011
     },
     {
-      "km": 111580,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 10000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "TOYOTA AXIO",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.56.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.56-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.57-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.58.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.58-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.00.57.jpeg"
-      ],
-      "id": "9319",
-      "year": 2007
-    },
-    {
       "km": 43000,
       "body": "Hatchback",
       "trans": "Automatic",
