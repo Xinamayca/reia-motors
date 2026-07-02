@@ -1168,29 +1168,6 @@
       "year": 2008
     },
     {
-      "km": 79000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 26500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Wrangler",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.22.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-4-.jpeg"
-      ],
-      "id": "om1",
-      "year": 2015
-    },
-    {
       "km": 191000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1212,6 +1189,29 @@
       ],
       "id": "4177",
       "year": 2012
+    },
+    {
+      "km": 79000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 26500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Wrangler",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.22.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.22-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.23-4-.jpeg"
+      ],
+      "id": "om1",
+      "year": 2015
     },
     {
       "km": 4000,
