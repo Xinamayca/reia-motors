@@ -204,28 +204,6 @@
       "year": 2025
     },
     {
-      "km": 25723,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 40000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "CHEROLET TRACKER",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-20.03.38.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.48-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.48-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.48-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.48-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.49.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.49-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.59.47-1-.jpeg"
-      ],
-      "id": "0889",
-      "year": 2022
-    },
-    {
       "km": 33000,
       "body": "SUV",
       "trans": "Automatic",
@@ -358,29 +336,6 @@
       ],
       "id": "3727",
       "year": 2017
-    },
-    {
-      "km": 169741,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 22000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "ford ecosport turbo",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-07-at-00.06.18-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-00.06.18-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-00.06.18-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-00.06.18-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-00.06.18.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-00.06.19-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-00.06.19-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-00.06.19.jpeg"
-      ],
-      "id": "0396",
-      "year": 2018
     },
     {
       "km": 240000,
