@@ -2232,6 +2232,121 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 80000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 45000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia seltos",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-4-.jpeg"
+      ],
+      "id": "9163",
+      "year": 2022
+    },
+    {
+      "km": 240000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 16500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Acura MDX",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.29-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.29-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.29-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.29-8-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.29-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.29-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.29-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.29-1-.jpeg"
+      ],
+      "id": "7101",
+      "year": 2011
+    },
+    {
+      "km": 69000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 23500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jaguar XF",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-8-.jpeg"
+      ],
+      "id": "ja1",
+      "year": 2016
+    },
+    {
+      "km": 72000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 17500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Suzuki Ciaz",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-8-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-7-.jpeg"
+      ],
+      "id": "su1",
+      "year": 2017
+    },
+    {
+      "km": 105000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 19000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Rio",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-8-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.20.10.jpeg"
+      ],
+      "id": "ki1",
+      "year": 2019
     }
   ]
 }
