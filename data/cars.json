@@ -204,6 +204,29 @@
       "year": 2025
     },
     {
+      "km": 80000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 45000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia seltos",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-4-.jpeg"
+      ],
+      "id": "9163",
+      "year": 2022
+    },
+    {
       "km": 33000,
       "body": "SUV",
       "trans": "Automatic",
@@ -2232,29 +2255,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 80000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 45000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Kia seltos",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-9-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.08.05.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-6-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-7-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.08.05-4-.jpeg"
-      ],
-      "id": "9163",
-      "year": 2022
     },
     {
       "km": 240000,
