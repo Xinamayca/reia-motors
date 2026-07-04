@@ -410,21 +410,21 @@
       "km": 191000,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 12500,
+      "price": 10000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
       "title": "ford escape",
       "images": [
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-6-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.06-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.08.jpeg",
-        "/uploads/whatsapp-image-2026-04-21-at-22.49.07.jpeg"
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-2-.jpeg"
       ],
       "id": "1202",
       "year": 2010
@@ -2347,6 +2347,51 @@
       ],
       "id": "ki1",
       "year": 2019
+    },
+    {
+      "km": 190000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Santa fe",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-04-at-01.08.48-8-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.08.48.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.08.48-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.08.48-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.08.48-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.08.48-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.08.48-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.08.48-1-.jpeg"
+      ],
+      "id": "hy1",
+      "year": 2014
+    },
+    {
+      "km": 200000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 16500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Lexus RX350",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-30-at-20.23.43.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.23.43-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.23.42-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.23.42.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.23.43-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.23.42-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.23.42-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-30-at-20.23.43-1-.jpeg"
+      ],
+      "id": "le1"
     }
   ]
 }
