@@ -746,6 +746,29 @@
       "year": 2015
     },
     {
+      "km": 72000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 17500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Suzuki Ciaz",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-8-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-7-.jpeg"
+      ],
+      "id": "su1",
+      "year": 2017
+    },
+    {
       "km": 170000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -2324,29 +2347,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 72000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 17500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Suzuki Ciaz",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-8-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-6-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-9-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-7-.jpeg"
-      ],
-      "id": "su1",
-      "year": 2017
     },
     {
       "km": 190000,
