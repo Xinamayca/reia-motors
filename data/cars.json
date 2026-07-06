@@ -47,29 +47,6 @@
       "year": 2023
     },
     {
-      "km": 1000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 62500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Electric",
-      "title": "KIA EV5",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.21.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.20-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.20.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.55.22.jpeg"
-      ],
-      "id": "blue1",
-      "year": 2025
-    },
-    {
       "km": 111998,
       "body": "SUV",
       "trans": "Automatic",
@@ -1627,6 +1604,29 @@
       ],
       "id": "8983",
       "year": 2019
+    },
+    {
+      "km": 1000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 62500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Electric",
+      "title": "KIA EV5",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.20-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.21-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.20.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.55.22.jpeg"
+      ],
+      "id": "blue1",
+      "year": 2025
     },
     {
       "km": 75297,
