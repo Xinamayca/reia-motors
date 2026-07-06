@@ -69,6 +69,29 @@
       "year": 2019
     },
     {
+      "km": 1359,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 55000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Hybrid",
+      "title": "TOYOTA COROLLA CROSS",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.46.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.46-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.48.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.47.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-4-.jpeg"
+      ],
+      "id": "4052",
+      "year": 2024
+    },
+    {
       "km": 27000,
       "body": "SUV",
       "trans": "Automatic",
@@ -179,6 +202,29 @@
         "/uploads/whatsapp-image-2026-06-18-at-19.47.01.jpeg"
       ],
       "id": "G2",
+      "year": 2025
+    },
+    {
+      "km": 55,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 45000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Electric",
+      "title": "BYD YUAN UP EV",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.38-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.38-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.38-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.37.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.38-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.38.jpeg"
+      ],
+      "id": "6665",
       "year": 2025
     },
     {
@@ -770,6 +816,29 @@
       "year": 2015
     },
     {
+      "km": 112000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Maxima",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.31-5-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.30-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.32.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.31-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.31-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.30.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.31-2-.jpeg"
+      ],
+      "id": "8536",
+      "year": 2009
+    },
+    {
       "km": 72000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -814,29 +883,6 @@
       ],
       "id": "6800",
       "year": 2012
-    },
-    {
-      "km": 112000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 12500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Maxima",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.31-5-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.30-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.32.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.31-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.31-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.31-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.30.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.31-2-.jpeg"
-      ],
-      "id": "8536",
-      "year": 2009
     },
     {
       "km": 183000,
@@ -906,6 +952,29 @@
       ],
       "id": "9461",
       "year": 2024
+    },
+    {
+      "km": 82,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 30000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Electric",
+      "title": "BYD SEAGULL EV",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.19-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.17-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.19.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.17.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.18-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.18.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.18-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.18-1-.jpeg"
+      ],
+      "id": "5120",
+      "year": 2025
     },
     {
       "km": 50287,
@@ -2394,75 +2463,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 82,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Electric",
-      "title": "BYD SEAGULL EV",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.19-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.17-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.19.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.17.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.18-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.18.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.18-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.18-1-.jpeg"
-      ],
-      "id": "5120",
-      "year": 2025
-    },
-    {
-      "km": 55,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 45000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Electric",
-      "title": "BYD YUAN UP EV",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.38-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.38-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.38-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.37.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.38-6-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.38.jpeg"
-      ],
-      "id": "6665",
-      "year": 2025
-    },
-    {
-      "km": 1359,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 55000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Hybrid",
-      "title": "TOYOTA COROLLA CROSS",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-6-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.46.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.46-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.48.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.47.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-4-.jpeg"
-      ],
-      "id": "4052",
-      "year": 2024
     }
   ]
 }
