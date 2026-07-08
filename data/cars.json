@@ -2486,6 +2486,28 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 106000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Honda HR-V",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-08-at-16.10.31-10-.jpeg",
+        "/uploads/whatsapp-image-2026-07-08-at-16.10.31-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-08-at-16.10.31-8-.jpeg",
+        "/uploads/whatsapp-image-2026-07-08-at-16.10.31-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-08-at-16.10.31-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-08-at-16.10.31-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-08-at-16.10.31-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-08-at-16.10.31-3-.jpeg"
+      ],
+      "id": "0709"
     }
   ]
 }
