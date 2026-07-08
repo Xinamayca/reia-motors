@@ -523,11 +523,34 @@
       "year": 2010
     },
     {
+      "km": 29000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 62500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Mercedes Benz CLA 200",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.46-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.46.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.46-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.47-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.47-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.47.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.46-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-01-at-23.59.45.jpeg"
+      ],
+      "id": "4536",
+      "year": 2020
+    },
+    {
       "km": 83000,
       "body": "Hatchback",
       "trans": "Automatic",
       "price": 35000,
-      "featured": true,
+      "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
@@ -543,29 +566,6 @@
       ],
       "id": "2624",
       "year": 2009
-    },
-    {
-      "km": 29000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 62500,
-      "featured": true,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Mercedes Benz CLA 200",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-01-at-23.59.46-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-01-at-23.59.46.jpeg",
-        "/uploads/whatsapp-image-2026-06-01-at-23.59.46-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-01-at-23.59.47-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-01-at-23.59.47-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-01-at-23.59.47.jpeg",
-        "/uploads/whatsapp-image-2026-06-01-at-23.59.46-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-01-at-23.59.45.jpeg"
-      ],
-      "id": "4536",
-      "year": 2020
     },
     {
       "km": 110000,
