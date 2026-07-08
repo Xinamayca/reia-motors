@@ -69,29 +69,6 @@
       "year": 2019
     },
     {
-      "km": 1359,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 55000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Hybrid",
-      "title": "TOYOTA COROLLA CROSS",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-6-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.46.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.46-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.48.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.47.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-4-.jpeg"
-      ],
-      "id": "4052",
-      "year": 2024
-    },
-    {
       "km": 27000,
       "body": "SUV",
       "trans": "Automatic",
@@ -113,6 +90,29 @@
       ],
       "id": "G3",
       "year": 2022
+    },
+    {
+      "km": 1359,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 55000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Hybrid",
+      "title": "TOYOTA COROLLA CROSS",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.46.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.46-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.48.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.47.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-13.53.47-4-.jpeg"
+      ],
+      "id": "4052",
+      "year": 2024
     },
     {
       "km": 11500,
