@@ -5,7 +5,7 @@
       "body": "SUV",
       "trans": "Automatic",
       "price": 80000,
-      "featured": false,
+      "featured": true,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
