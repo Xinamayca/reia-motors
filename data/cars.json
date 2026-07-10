@@ -454,29 +454,6 @@
       "year": 2012
     },
     {
-      "km": 240000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Diesel",
-      "title": "Mitsubishi Nativa",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.06.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.05-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.05.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.05-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.05-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.05-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.04-1-.jpeg"
-      ],
-      "id": "1688",
-      "year": 2009
-    },
-    {
       "km": 191000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1741,6 +1718,29 @@
       ],
       "id": "1896",
       "year": 2013
+    },
+    {
+      "km": 240000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Diesel",
+      "title": "Mitsubishi Nativa",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-06-at-17.26.06.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-17.26.05-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-17.26.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-17.26.05.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-17.26.05-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-17.26.05-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-17.26.05-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-06-at-17.26.04-1-.jpeg"
+      ],
+      "id": "1688",
+      "year": 2009
     },
     {
       "km": 138000,
