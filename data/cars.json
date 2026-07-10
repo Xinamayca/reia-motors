@@ -2463,6 +2463,29 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 127000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan versa",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-09-at-23.30.36.jpeg",
+        "/uploads/whatsapp-image-2026-07-09-at-23.30.34.jpeg",
+        "/uploads/whatsapp-image-2026-07-09-at-23.30.35-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-09-at-23.30.35-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-09-at-23.30.35.jpeg",
+        "/uploads/whatsapp-image-2026-07-09-at-23.30.36-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-09-at-23.30.34-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-09-at-23.30.35-4-.jpeg"
+      ],
+      "id": "8406",
+      "year": 2016
     }
   ]
 }
