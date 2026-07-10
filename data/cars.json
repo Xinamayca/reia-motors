@@ -460,7 +460,7 @@
       "price": 15000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Diesel",
       "title": "Mitsubishi Nativa",
       "images": [
