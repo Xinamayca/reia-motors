@@ -544,27 +544,6 @@
       "year": 2020
     },
     {
-      "km": 18668,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 43000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "hyundai accent",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-06-at-23.28.29-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.28.29-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.28.29-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.28.29-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.28.29-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-06-at-23.28.30.jpeg"
-      ],
-      "id": "8730",
-      "year": 2026
-    },
-    {
       "km": 105000,
       "body": "Sedan",
       "trans": "Automatic",
