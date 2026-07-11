@@ -568,29 +568,6 @@
       "year": 2019
     },
     {
-      "km": 155000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 14500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "KIA Rio",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.50.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.50-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.50-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.49.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.48.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.49-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.49-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-04-at-16.52.50-2-.jpeg"
-      ],
-      "id": "4619",
-      "year": 2016
-    },
-    {
       "km": 127000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -611,6 +588,29 @@
         "/uploads/whatsapp-image-2026-07-11-at-14.18.22-1-.jpeg"
       ],
       "id": "3951",
+      "year": 2016
+    },
+    {
+      "km": 155000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 14500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "KIA Rio",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.50.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.50-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.50-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.49.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.48.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.49-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.49-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-04-at-16.52.50-2-.jpeg"
+      ],
+      "id": "4619",
       "year": 2016
     },
     {
