@@ -706,6 +706,29 @@
       "year": 2020
     },
     {
+      "km": 113787,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 17000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Accent",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-10-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-8-.jpeg",
+        "/uploads/whatsapp-image-2026-07-11-at-14.18.57.jpeg"
+      ],
+      "id": "9482",
+      "year": 2016
+    },
+    {
       "km": 79074,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -2512,29 +2535,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 113787,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 17000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Accent",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-10-.jpeg",
-        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-9-.jpeg",
-        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-7-.jpeg",
-        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-11-at-14.18.57-8-.jpeg",
-        "/uploads/whatsapp-image-2026-07-11-at-14.18.57.jpeg"
-      ],
-      "id": "9482",
-      "year": 2016
     }
   ]
 }
