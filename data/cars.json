@@ -1003,28 +1003,6 @@
       "year": 2016
     },
     {
-      "km": 50287,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 13000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "SUZUKI SWIFT",
-      "images": [
-        "/uploads/img_9608-2.jpg",
-        "/uploads/img_9607.jpg",
-        "/uploads/img_9610.jpg",
-        "/uploads/img_1850.jpg",
-        "/uploads/img_1849.jpg",
-        "/uploads/img_1848.jpg",
-        "/uploads/img_9609.jpg"
-      ],
-      "id": "9138",
-      "year": 2012
-    },
-    {
       "km": 75000,
       "body": "Hatchback",
       "trans": "Automatic",
