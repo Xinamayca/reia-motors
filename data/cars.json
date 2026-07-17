@@ -1469,66 +1469,42 @@
       "year": 2015
     },
     {
-      "km": 5700,
+      "km": 2022,
       "body": "Motorcycle",
-      "trans": "Manual",
-      "price": 26500,
+      "trans": "Automatic",
+      "price": 28000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Harley Davidson Sportster Iron 1200cc",
+      "title": "Suzuki Gsxr 750cc",
       "images": [
-        "/uploads/whatsapp-image-2026-04-29-at-17.47.49-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-29-at-17.47.47.jpeg",
-        "/uploads/whatsapp-image-2026-04-29-at-17.47.49.jpeg",
-        "/uploads/whatsapp-image-2026-04-29-at-17.47.49-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-29-at-17.47.48-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-29-at-17.47.47-1-.jpeg"
+        "/uploads/whatsapp-image-2026-07-16-at-22.25.28.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.25.28-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.25.27.jpeg"
       ],
-      "id": "3077",
-      "year": 2020
+      "id": "1435",
+      "year": 1000
     },
     {
-      "km": 0,
+      "km": 15500,
       "body": "Motorcycle",
       "trans": "Manual",
-      "price": 9000,
+      "price": 28000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "Kayo A300",
+      "title": "HONDA X-ADV SPECIAL EDITION 750",
       "images": [
-        "/uploads/whatsapp-image-2026-04-30-at-16.03.46.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.03.46-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.03.47.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.03.48.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.03.49.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.03.48-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-16.03.47-1-.jpeg"
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.41-5-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.41.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.41-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.41-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-01-at-15.55.41-2-.jpeg"
       ],
-      "id": "0002",
-      "year": 2026
-    },
-    {
-      "km": 0,
-      "body": "Motorcycle",
-      "trans": "Manual",
-      "price": 12000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Honda CRF 250R",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.52-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.51.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.52.jpeg",
-        "/uploads/whatsapp-image-2026-04-30-at-18.57.53.jpeg"
-      ],
-      "id": "1714",
-      "year": 2010
+      "id": "JUN2",
+      "year": 2024
     },
     {
       "km": 10000,
@@ -1552,24 +1528,66 @@
       "year": 2023
     },
     {
-      "km": 15500,
+      "km": 5700,
       "body": "Motorcycle",
       "trans": "Manual",
-      "price": 28000,
+      "price": 26000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
       "fuel": "Gasoline",
-      "title": "HONDA X-ADV SPECIAL EDITION 750",
+      "title": "Harley Davidson Sportster Iron 1200cc",
       "images": [
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.41-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.41.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.41-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.41-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-01-at-15.55.41-2-.jpeg"
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.49-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.47.jpeg",
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.49.jpeg",
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.49-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.48-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-29-at-17.47.47-1-.jpeg"
       ],
-      "id": "JUN2",
-      "year": 2024
+      "id": "3077",
+      "year": 2020
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 12000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Honda CRF 250R",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.52-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.51.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.52.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-18.57.53.jpeg"
+      ],
+      "id": "1714",
+      "year": 2010
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 9000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kayo A300",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.46.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.46-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.47.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.48.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.49.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.48-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-30-at-16.03.47-1-.jpeg"
+      ],
+      "id": "0002",
+      "year": 2026
     },
     {
       "km": 0,
@@ -2582,24 +2600,6 @@
       ],
       "id": "2485",
       "year": 2017
-    },
-    {
-      "km": 2022,
-      "body": "Motorcycle",
-      "trans": "Automatic",
-      "price": 28000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Suzuki Gsxr 750cc",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-16-at-22.25.28.jpeg",
-        "/uploads/whatsapp-image-2026-07-16-at-22.25.28-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-16-at-22.25.27.jpeg"
-      ],
-      "id": "1435",
-      "year": 1000
     }
   ]
 }
