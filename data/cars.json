@@ -683,29 +683,6 @@
       "year": 2017
     },
     {
-      "km": 69000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 23500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jaguar XF",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-9-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-6-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-7-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-8-.jpeg"
-      ],
-      "id": "ja1",
-      "year": 2016
-    },
-    {
       "km": 85000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -727,6 +704,51 @@
       ],
       "id": "3365",
       "year": 2019
+    },
+    {
+      "km": 79074,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Gasoline",
+      "title": "TOYOTA AQUA GR",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-12-at-19.58.16.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.42-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.43.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.44.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-20.57.42.jpeg"
+      ],
+      "id": "6139",
+      "year": 2018
+    },
+    {
+      "km": 69000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 23500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jaguar XF",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-02-at-19.09.45-8-.jpeg"
+      ],
+      "id": "ja1",
+      "year": 2016
     },
     {
       "km": 123000,
@@ -773,28 +795,6 @@
       ],
       "id": "9482",
       "year": 2016
-    },
-    {
-      "km": 79074,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Gasoline",
-      "title": "TOYOTA AQUA GR",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-12-at-19.58.16.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.42-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.43.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.44.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.43-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-20.57.42.jpeg"
-      ],
-      "id": "6139",
-      "year": 2018
     },
     {
       "km": 147000,
