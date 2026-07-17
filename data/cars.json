@@ -871,7 +871,7 @@
       "price": 12000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "Nissan versa",
       "images": [
@@ -886,29 +886,6 @@
       ],
       "id": "8406",
       "year": 2016
-    },
-    {
-      "km": 190000,
-      "body": "Sedan",
-      "trans": "Manual",
-      "price": 10000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "MITSUBISHI LANCER",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.14.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.14-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.14-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.14-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.14-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.15.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.14-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-17.26.13.jpeg"
-      ],
-      "id": "0247",
-      "year": 2011
     },
     {
       "km": 50000,
