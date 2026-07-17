@@ -2513,6 +2513,96 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 88000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 16000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Rio",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.17-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.15-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.19.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.14.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.17.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.15-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.16.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.15-1-.jpeg"
+      ],
+      "id": "2203",
+      "year": 2016
+    },
+    {
+      "km": 90000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Cherolet Trax LTZ",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.26-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.25-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.25.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.26.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.26-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.25-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.25-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.26-1-.jpeg"
+      ],
+      "id": "7538",
+      "year": 2016
+    },
+    {
+      "km": 93000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Cherokee",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.36-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.35.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.36-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.36.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.37.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.36-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.35-1-.jpeg"
+      ],
+      "id": "2485",
+      "year": 2017
+    },
+    {
+      "km": 1000,
+      "body": "Motorcycle",
+      "trans": "Automatic",
+      "price": 28000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Suzuki Gsxr 750cc",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-16-at-22.25.27-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.25.28.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.25.28-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.25.27-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.25.27.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.25.28-2-.jpeg"
+      ],
+      "id": "1435",
+      "year": 2022
     }
   ]
 }
