@@ -115,6 +115,52 @@
       "year": 2022
     },
     {
+      "km": 59000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Santa Fe",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.54.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.55.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.56.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.56-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-4-.jpeg"
+      ],
+      "id": "7800",
+      "year": 2019
+    },
+    {
+      "km": 62541,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Changan cs55 plus",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.06.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.05-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.05.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.04.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-2-.jpeg"
+      ],
+      "id": "8490",
+      "year": 2023
+    },
+    {
       "km": 0,
       "body": "SUV",
       "trans": "Automatic",
@@ -2577,52 +2623,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 62541,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Changan csss plus",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.06.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.05-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.05.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.04.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.52.04-2-.jpeg"
-      ],
-      "id": "8490",
-      "year": 2023
-    },
-    {
-      "km": 59000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Santa Fe",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.54.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.55.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.56.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.56-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-4-.jpeg"
-      ],
-      "id": "7800",
-      "year": 2019
     }
   ]
 }
