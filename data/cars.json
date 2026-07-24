@@ -706,29 +706,6 @@
       "year": 2017
     },
     {
-      "km": 85000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 25000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Hybrid",
-      "title": "Toyota Levin",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.35.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.36.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.36-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-15.22.37.jpeg"
-      ],
-      "id": "3365",
-      "year": 2019
-    },
-    {
       "km": 79074,
       "body": "Hatchback",
       "trans": "Automatic",
