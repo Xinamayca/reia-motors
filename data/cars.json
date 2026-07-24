@@ -957,29 +957,6 @@
       "year": 2024
     },
     {
-      "km": 82,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 30000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Electric",
-      "title": "BYD SEAGULL EV",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.19-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.17-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.19.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.17.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.18-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.18.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.18-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-06-at-13.53.18-1-.jpeg"
-      ],
-      "id": "5120",
-      "year": 2025
-    },
-    {
       "km": 127826,
       "body": "Hatchback",
       "trans": "Manual",
