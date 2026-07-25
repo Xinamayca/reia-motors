@@ -819,6 +819,29 @@
       "year": 2015
     },
     {
+      "km": 103000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 17500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford Figo",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.47-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.46.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.47.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.47-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-3-.jpeg"
+      ],
+      "id": "7525",
+      "year": 2019
+    },
+    {
       "km": 113787,
       "body": "Sedan",
       "trans": "Automatic",
@@ -2554,29 +2577,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 103000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 17500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Ford Figo",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.47-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.46.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.47.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.47-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-3-.jpeg"
-      ],
-      "id": "7525",
-      "year": 2019
     }
   ]
 }
