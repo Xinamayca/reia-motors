@@ -2669,6 +2669,29 @@
       ],
       "id": "4968",
       "year": 2012
+    },
+    {
+      "km": 74910,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 16500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Honda Fit",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-29-at-19.19.36-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-19.19.36.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-19.19.36-8-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-19.19.36-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-19.19.36-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-19.19.36-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-19.19.36-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-19.19.36-2-.jpeg"
+      ],
+      "id": "0128",
+      "year": 2013
     }
   ]
 }
