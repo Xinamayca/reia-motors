@@ -2577,6 +2577,98 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 2109,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 85000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Diesel",
+      "title": "Isuzu luxe",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.14.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.14-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.15-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.17.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.18.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.16.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.16-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.15.jpeg"
+      ],
+      "id": "1366",
+      "year": 2026
+    },
+    {
+      "km": 111000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 16500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Sonata",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.34-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.33-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.35-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.35.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.34-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.35-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.34.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.34-3-.jpeg"
+      ],
+      "id": "1840",
+      "year": 2014
+    },
+    {
+      "km": 144000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 16000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Note",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.41-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.41.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.40-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.40.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.43.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.42.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.42-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.43-1-.jpeg"
+      ],
+      "id": "0434",
+      "year": 2018
+    },
+    {
+      "km": 85000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 15000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota Vitz RS",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-29-at-18.35.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.35.01.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.35.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.35.00-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.58-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.59-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.59.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.35.00.jpeg"
+      ],
+      "id": "4968",
+      "year": 2012
     }
   ]
 }
