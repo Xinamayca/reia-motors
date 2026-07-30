@@ -506,7 +506,7 @@
       "price": 14000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "Nissan Juke",
       "images": [
