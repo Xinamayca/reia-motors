@@ -797,6 +797,29 @@
       "year": 2018
     },
     {
+      "km": 111000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 16500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Sonata",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.34-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.33-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.35-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.35.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.34-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.35-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.34.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.34-3-.jpeg"
+      ],
+      "id": "1840",
+      "year": 2014
+    },
+    {
       "km": 147000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -2646,29 +2669,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 111000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 16500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Sonata",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.34-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.33-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.35-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.35.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.34-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.35-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.34.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.34-3-.jpeg"
-      ],
-      "id": "1840",
-      "year": 2014
     }
   ]
 }
