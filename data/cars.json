@@ -326,7 +326,7 @@
       "price": 25000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "Honda HR-V",
       "images": [
