@@ -935,6 +935,29 @@
       "year": 2024
     },
     {
+      "km": 54672,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 27500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Electric",
+      "title": "Changan E-star Benni",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.54.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.48-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.52.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.49-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.48-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.52-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.53-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-29-at-18.34.53.jpeg"
+      ],
+      "id": "5634",
+      "year": 2023
+    },
+    {
       "km": 74910,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -2647,29 +2670,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 54672,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 27500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Electric",
-      "title": "Changan E-star Benni",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.54.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.48-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.52.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.49-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.48-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.52-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.53-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.53.jpeg"
-      ],
-      "id": "5634",
-      "year": 2023
     },
     {
       "km": 0,
