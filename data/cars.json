@@ -1517,28 +1517,6 @@
       "year": 2000
     },
     {
-      "km": 78080,
-      "body": "Van",
-      "trans": "Automatic",
-      "price": 23000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Hybrid",
-      "title": "Nissan Serena",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.47-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.47.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.48.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-1-.jpeg"
-      ],
-      "id": "4468",
-      "year": 2015
-    },
-    {
       "km": 2022,
       "body": "Motorcycle",
       "trans": "Automatic",
@@ -1658,6 +1636,28 @@
       ],
       "id": "0002",
       "year": 2026
+    },
+    {
+      "km": 78080,
+      "body": "Van",
+      "trans": "Automatic",
+      "price": 23000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Hybrid",
+      "title": "Nissan Serena",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.47-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.47.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.48.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-4-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-07-at-17.34.48-1-.jpeg"
+      ],
+      "id": "4468",
+      "year": 2015
     },
     {
       "km": 0,
