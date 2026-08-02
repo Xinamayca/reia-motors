@@ -1523,7 +1523,7 @@
       "price": 26000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "HONDA X-ADV 750",
       "images": [
