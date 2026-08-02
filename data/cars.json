@@ -660,35 +660,13 @@
       "year": 2016
     },
     {
-      "km": 85000,
-      "body": "Sedan",
-      "trans": "Manual",
-      "price": 14500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Kia Rio",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-11-at-20.11.40-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-11-at-20.11.40-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-11-at-20.11.40.jpeg",
-        "/uploads/whatsapp-image-2026-05-11-at-20.11.40-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-11-at-20.11.41.jpeg",
-        "/uploads/whatsapp-image-2026-05-11-at-20.11.41-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-11-at-20.11.41-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-11-at-20.11.40-3-.jpeg"
-      ],
-      "id": "3141",
-      "year": 2017
-    },
-    {
       "km": 79074,
       "body": "Hatchback",
       "trans": "Automatic",
       "price": 25000,
       "featured": false,
       "currency": "AWG",
+      "sold": false,
       "fuel": "Gasoline",
       "title": "TOYOTA AQUA GR",
       "images": [
