@@ -683,29 +683,6 @@
       "year": 2016
     },
     {
-      "km": 123000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 19000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Accent",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-5-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.46.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.44.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.44-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.45-4-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.25.45.jpeg"
-      ],
-      "id": "7529",
-      "year": 2020
-    },
-    {
       "km": 103000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -1002,29 +979,6 @@
       ],
       "id": "0434",
       "year": 2018
-    },
-    {
-      "km": 85000,
-      "body": "Hatchback",
-      "trans": "Manual",
-      "price": 14000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Toyota Vitz RS",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-29-at-18.35.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.35.01.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.35.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.35.00-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.58-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.59-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.34.59.jpeg",
-        "/uploads/whatsapp-image-2026-07-29-at-18.35.00.jpeg"
-      ],
-      "id": "4968",
-      "year": 2012
     },
     {
       "km": 75000,
