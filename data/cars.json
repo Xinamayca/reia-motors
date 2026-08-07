@@ -2644,6 +2644,75 @@
       ],
       "id": "4532",
       "year": 2015
+    },
+    {
+      "km": 150000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "nissan murano",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48.jpeg"
+      ],
+      "id": "2034",
+      "year": 2004
+    },
+    {
+      "km": 60000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 14000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan March",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-3-.jpeg"
+      ],
+      "id": "3272",
+      "year": 2014
+    },
+    {
+      "km": 107000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 14500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota Vitz",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-8-.jpeg"
+      ],
+      "id": "8541",
+      "year": 2011
     }
   ]
 }
