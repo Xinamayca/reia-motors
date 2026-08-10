@@ -115,29 +115,6 @@
       "year": 2022
     },
     {
-      "km": 59000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 45000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Santa Fe",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.54.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.55.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.56.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.56-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-4-.jpeg"
-      ],
-      "id": "7800",
-      "year": 2019
-    },
-    {
       "km": 62541,
       "body": "SUV",
       "trans": "Automatic",
@@ -228,6 +205,29 @@
       "year": 2024
     },
     {
+      "km": 59000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 45000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Santa Fe",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.54.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.55.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.56.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.56-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-23-at-17.51.55-4-.jpeg"
+      ],
+      "id": "7800",
+      "year": 2019
+    },
+    {
       "km": 55,
       "body": "SUV",
       "trans": "Automatic",
@@ -295,6 +295,29 @@
       ],
       "id": "G2",
       "year": 2025
+    },
+    {
+      "km": 52766,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 40000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford Explorer",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-9-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-6-.jpeg"
+      ],
+      "id": "5785",
+      "year": 2018
     },
     {
       "km": 88110,
@@ -452,6 +475,29 @@
       ],
       "id": "le1",
       "year": 2010
+    },
+    {
+      "km": 150000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "nissan murano",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.48.jpeg"
+      ],
+      "id": "2034",
+      "year": 2004
     },
     {
       "km": 191000,
@@ -956,6 +1002,52 @@
       ],
       "id": "0434",
       "year": 2018
+    },
+    {
+      "km": 107000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 14500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Toyota Vitz",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-8-.jpeg"
+      ],
+      "id": "8541",
+      "year": 2011
+    },
+    {
+      "km": 60000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 14000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan March",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-3-.jpeg"
+      ],
+      "id": "3272",
+      "year": 2014
     },
     {
       "km": 75000,
@@ -2644,98 +2736,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 150000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 12500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "nissan murano",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-8-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-6-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-4-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.48-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.48.jpeg"
-      ],
-      "id": "2034",
-      "year": 2004
-    },
-    {
-      "km": 60000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 14000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan March",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-8-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.30.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-4-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.30-3-.jpeg"
-      ],
-      "id": "3272",
-      "year": 2014
-    },
-    {
-      "km": 107000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 14500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Toyota Vitz",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.09.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-4-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-6-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-06-at-23.55.09-8-.jpeg"
-      ],
-      "id": "8541",
-      "year": 2011
-    },
-    {
-      "km": 52766,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 40000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Ford Explorer",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-9-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-07-at-00.30.19-6-.jpeg"
-      ],
-      "id": "5785",
-      "year": 2018
     }
   ]
 }
