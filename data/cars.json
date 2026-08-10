@@ -1226,52 +1226,6 @@
       "year": 2012
     },
     {
-      "km": 90000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "Jeep Renegade",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-30-at-23.27.41.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.03-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.03.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-30-at-23.28.05.jpeg"
-      ],
-      "id": "4443",
-      "year": 2016
-    },
-    {
-      "km": 93000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 17500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "Jeep Cherokee",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-16-at-22.22.36-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-16-at-22.22.35.jpeg",
-        "/uploads/whatsapp-image-2026-07-16-at-22.22.36-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-16-at-22.22.36.jpeg",
-        "/uploads/whatsapp-image-2026-07-16-at-22.22.37.jpeg",
-        "/uploads/whatsapp-image-2026-07-16-at-22.22.36-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-16-at-22.22.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-16-at-22.22.35-1-.jpeg"
-      ],
-      "id": "2485",
-      "year": 2017
-    },
-    {
       "km": 110000,
       "body": "SUV",
       "trans": "Automatic",
@@ -1671,6 +1625,52 @@
       ],
       "id": "om1",
       "year": 2015
+    },
+    {
+      "km": 90000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Jeep Renegade",
+      "images": [
+        "/uploads/whatsapp-image-2026-05-30-at-23.27.41.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.03-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-3-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.05-1-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.03.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.04-2-.jpeg",
+        "/uploads/whatsapp-image-2026-05-30-at-23.28.05.jpeg"
+      ],
+      "id": "4443",
+      "year": 2016
+    },
+    {
+      "km": 93000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 17500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Jeep Cherokee",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.36-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.35.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.36-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.36.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.37.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.36-2-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-07-16-at-22.22.35-1-.jpeg"
+      ],
+      "id": "2485",
+      "year": 2017
     },
     {
       "km": 181000,
