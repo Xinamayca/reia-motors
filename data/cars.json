@@ -208,7 +208,7 @@
       "km": 59000,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 45000,
+      "price": 42000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -254,7 +254,7 @@
       "km": 80000,
       "body": "SUV",
       "trans": "Automatic",
-      "price": 45000,
+      "price": 38000,
       "featured": false,
       "currency": "AWG",
       "sold": false,
@@ -981,7 +981,7 @@
       "year": 2013
     },
     {
-      "km": 144000,
+      "km": 14000,
       "body": "Hatchback",
       "trans": "Automatic",
       "price": 15000,
