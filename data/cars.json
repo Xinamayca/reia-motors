@@ -2759,6 +2759,29 @@
       ],
       "id": "f12",
       "year": 2008
+    },
+    {
+      "km": 25000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 70000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Chevrolet Traverse",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.57-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.57.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.58-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.58-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.57-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.58.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.58-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.58-1-.jpeg"
+      ],
+      "id": "2023",
+      "year": 2023
     }
   ]
 }
