@@ -2782,6 +2782,29 @@
       ],
       "id": "2023",
       "year": 2023
+    },
+    {
+      "km": 168000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Rio",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-12-at-00.20.37-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.20.37.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.20.37-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.20.38.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.20.37-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.20.37-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.20.37-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.20.36.jpeg"
+      ],
+      "id": "7537",
+      "year": 2013
     }
   ]
 }
