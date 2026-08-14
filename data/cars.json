@@ -2805,6 +2805,29 @@
       ],
       "id": "7537",
       "year": 2013
+    },
+    {
+      "km": 34900,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Electric",
+      "title": "KIA EV5",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.08-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.08-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.09.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.09-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.09-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.09-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.08-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-11-at-14.16.08-2-.jpeg"
+      ],
+      "id": "2071",
+      "year": 2024
     }
   ]
 }
