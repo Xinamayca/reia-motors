@@ -2828,6 +2828,75 @@
       ],
       "id": "2071",
       "year": 2024
+    },
+    {
+      "km": 200000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Hybrid",
+      "title": "Toyota Camry Se",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-15-at-00.07.35-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.07.35-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.07.35-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.07.35-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.07.35-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.07.35.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.07.35-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.07.35-5-.jpeg"
+      ],
+      "id": "t1",
+      "year": 2016
+    },
+    {
+      "km": 47000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 13000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Mazda Demio",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-15-at-00.07.56-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.13.03-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.13.03-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.13.03-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.13.03.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.13.03-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.13.03-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.13.03-1-.jpeg"
+      ],
+      "id": "M4",
+      "year": 2011
+    },
+    {
+      "km": 20000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 46000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Mazda CX-30",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-4-.jpeg"
+      ],
+      "id": "M3",
+      "year": 2026
     }
   ]
 }
