@@ -1171,7 +1171,7 @@
       "price": 31000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "Jeep Wrangler",
       "images": [
