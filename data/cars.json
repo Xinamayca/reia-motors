@@ -24,6 +24,29 @@
       "year": 2024
     },
     {
+      "km": 25000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 70000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Chevrolet Traverse",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-12-at-00.33.11-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.33.11.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.33.12-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.33.10.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.33.12-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.33.12.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.33.12-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-12-at-00.33.11-3-.jpeg"
+      ],
+      "id": "2023",
+      "year": 2023
+    },
+    {
       "km": 32678,
       "body": "SUV",
       "trans": "Automatic",
@@ -2828,29 +2851,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 25000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 70000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Chevrolet Traverse",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-12-at-00.33.11-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.33.11.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.33.12-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.33.10.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.33.12-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.33.12.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.33.12-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.33.11-3-.jpeg"
-      ],
-      "id": "2023",
-      "year": 2023
     },
     {
       "km": 168000,
