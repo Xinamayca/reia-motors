@@ -389,6 +389,52 @@
       "year": 2018
     },
     {
+      "km": 86000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 27500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Suzuki Vitara",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-9-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-6-.jpeg"
+      ],
+      "id": "8400",
+      "year": 2018
+    },
+    {
+      "km": 104000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 27500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Hyundai Tucson",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.56.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-1-.jpeg"
+      ],
+      "id": "1723",
+      "year": 2019
+    },
+    {
       "km": 88110,
       "body": "SUV",
       "trans": "Automatic",
@@ -1188,6 +1234,29 @@
       "year": 2014
     },
     {
+      "km": 84000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 13500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Honda Fit",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-9-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-22.24.10.jpeg"
+      ],
+      "id": "o6",
+      "year": 2014
+    },
+    {
       "km": 47000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -1619,6 +1688,26 @@
       ],
       "id": "JUN2",
       "year": 2024
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 26500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Yamaha Raptor 700RA",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-23.46.44.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-1-.jpeg"
+      ],
+      "id": "f4",
+      "year": 2022
     },
     {
       "km": 5700,
@@ -2851,95 +2940,6 @@
       ],
       "id": "4532",
       "year": 2015
-    },
-    {
-      "km": 86000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 27500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Suzuki Vitara",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-9-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-4-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-8-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-6-.jpeg"
-      ],
-      "id": "8400",
-      "year": 2018
-    },
-    {
-      "km": 104000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 27500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Hyundai Tucson",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-8-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-6-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.56.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-4-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.56-1-.jpeg"
-      ],
-      "id": "1723",
-      "year": 2019
-    },
-    {
-      "km": 84000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 13500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Honda Fit",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-9-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-4-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10-8-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.24.10.jpeg"
-      ],
-      "id": "o6",
-      "year": 2014
-    },
-    {
-      "km": 0,
-      "body": "Motorcycle",
-      "trans": "Manual",
-      "price": 26500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Yamaha Raptor 700RA",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-23.46.44.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-1-.jpeg"
-      ],
-      "id": "f4",
-      "year": 2022
     }
   ]
 }
