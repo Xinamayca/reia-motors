@@ -2920,6 +2920,26 @@
       ],
       "id": "o6",
       "year": 2014
+    },
+    {
+      "km": 0,
+      "body": "Motorcycle",
+      "trans": "Manual",
+      "price": 26500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Yamaha Raptor 700RA",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-23.46.44.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-17-at-23.46.44-1-.jpeg"
+      ],
+      "id": "f4",
+      "year": 2022
     }
   ]
 }
