@@ -1010,7 +1010,7 @@
       "price": 12500,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Hybrid",
       "title": "Toyota Camry Se",
       "images": [
