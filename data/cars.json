@@ -2963,6 +2963,52 @@
       ],
       "id": "N7",
       "year": 2016
+    },
+    {
+      "km": 110000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 19000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Ford Escape",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-19-at-18.48.16-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.48.16-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.48.16.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.48.16-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.48.16-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.48.16-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.48.16-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.48.16-6-.jpeg"
+      ],
+      "id": "F1",
+      "year": 2013
+    },
+    {
+      "km": 190000,
+      "body": "Truck",
+      "trans": "Automatic",
+      "price": 25000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Jeep Wrangler",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-19-at-18.47.47.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.47.47-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.47.47-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.47.47-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.47.47-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.47.47-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.47.47-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-19-at-18.47.47-8-.jpeg"
+      ],
+      "id": "J1",
+      "year": 2012
     }
   ]
 }
