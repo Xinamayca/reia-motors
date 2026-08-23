@@ -729,29 +729,6 @@
       "year": 2016
     },
     {
-      "km": 168000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 12500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "Kia Rio",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-12-at-00.20.37-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.20.37.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.20.37-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.20.38.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.20.37-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.20.37-4-.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.20.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-12-at-00.20.36.jpeg"
-      ],
-      "id": "7537",
-      "year": 2013
-    },
-    {
       "km": 127000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -1231,29 +1208,6 @@
       ],
       "id": "2435",
       "year": 2014
-    },
-    {
-      "km": 173000,
-      "body": "Hatchback",
-      "trans": "Manual",
-      "price": 10000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "Kia Picanto",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-6-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.22.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.22-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.22-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-5-.jpeg"
-      ],
-      "id": "sas1",
-      "year": 2012
     },
     {
       "km": 170000,
@@ -2830,28 +2784,6 @@
       "year": 2012
     },
     {
-      "km": 115000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 10000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "Suzuki Swift",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.01.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02.jpeg"
-      ],
-      "id": "Juan1",
-      "year": 2011
-    },
-    {
       "km": 107000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -2873,6 +2805,51 @@
       ],
       "id": "9505",
       "year": 2013
+    },
+    {
+      "km": 173000,
+      "body": "Hatchback",
+      "trans": "Manual",
+      "price": 10000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Kia Picanto",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-6-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.22.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.22-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.22-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.55.21-5-.jpeg"
+      ],
+      "id": "sas1",
+      "year": 2012
+    },
+    {
+      "km": 115000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 10000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Suzuki Swift",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.01.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02.jpeg"
+      ],
+      "id": "Juan1",
+      "year": 2011
     },
     {
       "km": 190000,
