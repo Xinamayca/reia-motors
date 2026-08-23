@@ -251,29 +251,6 @@
       "year": 2024
     },
     {
-      "km": 22000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 46000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "Mazda CX-30",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-6-.jpeg",
-        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-15-at-00.04.54.jpeg",
-        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-8-.jpeg",
-        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-4-.jpeg"
-      ],
-      "id": "M3",
-      "year": 2026
-    },
-    {
       "km": 55,
       "body": "SUV",
       "trans": "Automatic",
@@ -2035,6 +2012,29 @@
       ],
       "id": "blue1",
       "year": 2025
+    },
+    {
+      "km": 22000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 46000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Mazda CX-30",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-15-at-00.04.54-4-.jpeg"
+      ],
+      "id": "M3",
+      "year": 2026
     },
     {
       "km": 33000,
