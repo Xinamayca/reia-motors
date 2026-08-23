@@ -1308,7 +1308,7 @@
       "price": 10000,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "Kia Picanto",
       "images": [
@@ -2940,52 +2940,6 @@
       ],
       "id": "Dit1",
       "year": 2008
-    },
-    {
-      "km": 77000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 5000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "TOYOTA VITS",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.37-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.03.38-1-.jpeg"
-      ],
-      "id": "XNKA",
-      "year": 2014
-    },
-    {
-      "km": 140000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 5000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "KIA PICANTO",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.34.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.34-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.35.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.36.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.02.35-4-.jpeg"
-      ],
-      "id": "4532",
-      "year": 2015
     }
   ]
 }
