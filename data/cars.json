@@ -615,6 +615,29 @@
       "year": 2010
     },
     {
+      "km": 191000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 10000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "ford escape",
+      "images": [
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-9-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-3-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-6-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-4-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-5-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-7-.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11.jpeg",
+        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-2-.jpeg"
+      ],
+      "id": "1202",
+      "year": 2010
+    },
+    {
       "km": 150000,
       "body": "SUV",
       "trans": "Automatic",
@@ -636,29 +659,6 @@
       ],
       "id": "2034",
       "year": 2004
-    },
-    {
-      "km": 191000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 10000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "ford escape",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-9-.jpeg",
-        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-6-.jpeg",
-        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-7-.jpeg",
-        "/uploads/whatsapp-image-2026-07-04-at-01.12.11.jpeg",
-        "/uploads/whatsapp-image-2026-07-04-at-01.12.11-2-.jpeg"
-      ],
-      "id": "1202",
-      "year": 2010
     },
     {
       "km": 170000,
