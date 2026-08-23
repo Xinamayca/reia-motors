@@ -320,29 +320,6 @@
       "year": 2022
     },
     {
-      "km": 100000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 42500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "GAC GS3",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-18-at-19.47.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.47.03-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.47.03-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.47.02-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.47.03.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.47.02-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.47.02-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.47.01.jpeg"
-      ],
-      "id": "G2",
-      "year": 2025
-    },
-    {
       "km": 52766,
       "body": "SUV",
       "trans": "Automatic",
@@ -2035,6 +2012,29 @@
       ],
       "id": "M3",
       "year": 2026
+    },
+    {
+      "km": 100000,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 42500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "GAC GS3",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-18-at-19.47.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.47.03-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.47.03-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.47.02-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.47.03.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.47.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.47.02-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.47.01.jpeg"
+      ],
+      "id": "G2",
+      "year": 2025
     },
     {
       "km": 33000,
