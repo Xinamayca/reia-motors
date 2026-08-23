@@ -2511,28 +2511,6 @@
       "year": 2019
     },
     {
-      "km": 99000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 15000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "HYUNDAI ELANTRA",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.55.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.56-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.57.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-21.10.55-1-.jpeg"
-      ],
-      "id": "9912",
-      "year": 2013
-    },
-    {
       "km": 54000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -2692,29 +2670,6 @@
       "year": 2014
     },
     {
-      "km": 156888,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 10500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "kia optima",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-03-at-17.30.08.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.05-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.05.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.05-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.06.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.06-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.06-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-03-at-18.40.05-2-.jpeg"
-      ],
-      "id": "2411",
-      "year": 2012
-    },
-    {
       "km": 0,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -2850,27 +2805,6 @@
       ],
       "id": "Juan1",
       "year": 2011
-    },
-    {
-      "km": 190000,
-      "body": "Hatchback",
-      "trans": "Manual",
-      "price": 7500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": true,
-      "fuel": "Gasoline",
-      "title": "Suzuki Swift",
-      "images": [
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.47-2-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.47.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.47-3-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.48-1-.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.48.jpeg",
-        "/uploads/whatsapp-image-2026-05-21-at-18.30.47-1-.jpeg"
-      ],
-      "id": "JOH1",
-      "year": 2008
     },
     {
       "km": 130000,
