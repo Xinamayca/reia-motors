@@ -804,7 +804,7 @@
       "price": 12500,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "Kia Rio",
       "images": [
