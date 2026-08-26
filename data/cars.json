@@ -225,7 +225,7 @@
         "/uploads/whatsapp-image-2026-04-16-at-23.13.34.jpeg"
       ],
       "id": "0496",
-      "year": 2024
+      "year": 2025
     },
     {
       "km": 11500,
@@ -2828,6 +2828,52 @@
       ],
       "id": "Dit1",
       "year": 2008
+    },
+    {
+      "km": 8800,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Electric",
+      "title": "Honda E-NS1",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-9-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-4-.jpeg"
+      ],
+      "id": "0297",
+      "year": 2025
+    },
+    {
+      "km": 147333,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 18000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Sportage",
+      "images": [
+        "/uploads/whatsapp-image-2026-08-25-at-21.40.09-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.40.09-4-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.40.09.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.40.09-1-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.40.09-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.40.09-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.40.09-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.40.09-5-.jpeg"
+      ],
+      "id": "4143",
+      "year": 2014
     }
   ]
 }
