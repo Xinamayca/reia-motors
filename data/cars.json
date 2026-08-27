@@ -1319,29 +1319,6 @@
       "year": 2006
     },
     {
-      "km": 106000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 100000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Jeep Wrangler",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-03-at-21.31.15-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.31.15-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.31.15-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.31.14-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.31.13.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.31.14.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.31.15-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-03-at-21.31.14-2-.jpeg"
-      ],
-      "id": "2918",
-      "year": 2022
-    },
-    {
       "km": 70000,
       "body": "SUV",
       "trans": "Automatic",
