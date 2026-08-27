@@ -981,6 +981,29 @@
       "year": 2016
     },
     {
+      "km": 170000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 12500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Versa",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.03-6-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.03-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.02.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.04-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.03-5-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.03-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.03.jpeg",
+        "/uploads/whatsapp-image-2026-06-11-at-00.54.04.jpeg"
+      ],
+      "id": "6800",
+      "year": 2012
+    },
+    {
       "km": 50000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -2305,29 +2328,6 @@
       ],
       "id": "4216",
       "year": 2011
-    },
-    {
-      "km": 170000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 12500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Versa",
-      "images": [
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.03-6-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.03-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.02.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.04-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.03-5-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.03-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.03.jpeg",
-        "/uploads/whatsapp-image-2026-06-11-at-00.54.04.jpeg"
-      ],
-      "id": "6800",
-      "year": 2012
     },
     {
       "km": 191000,
