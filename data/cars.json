@@ -206,6 +206,29 @@
       "year": 2025
     },
     {
+      "km": 11500,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": true,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "jetour x70 Plus",
+      "images": [
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.37-4-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.37.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.38.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-1-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.36.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.37-2-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-3-.jpeg",
+        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-2-.jpeg"
+      ],
+      "id": "G4",
+      "year": 2024
+    },
+    {
       "km": 0,
       "body": "SUV",
       "trans": "Automatic",
@@ -228,27 +251,27 @@
       "year": 2025
     },
     {
-      "km": 11500,
+      "km": 8800,
       "body": "SUV",
       "trans": "Automatic",
       "price": 50000,
-      "featured": true,
+      "featured": false,
       "currency": "AWG",
       "sold": false,
-      "fuel": "Gasoline",
-      "title": "jetour x70 Plus",
+      "fuel": "Electric",
+      "title": "Honda E-NS1",
       "images": [
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.37-4-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.37.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.38.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-1-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.36.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.37-2-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-3-.jpeg",
-        "/uploads/whatsapp-image-2026-06-18-at-19.46.38-2-.jpeg"
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-9-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-8-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-5-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-3-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-7-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-6-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-4-.jpeg"
       ],
-      "id": "G4",
-      "year": 2024
+      "id": "0297",
+      "year": 2025
     },
     {
       "km": 55,
@@ -2828,29 +2851,6 @@
       ],
       "id": "Dit1",
       "year": 2008
-    },
-    {
-      "km": 8800,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Electric",
-      "title": "Honda E-NS1",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-9-.jpeg",
-        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-8-.jpeg",
-        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-5-.jpeg",
-        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-6-.jpeg",
-        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-25-at-21.39.55-4-.jpeg"
-      ],
-      "id": "0297",
-      "year": 2025
     },
     {
       "km": 147333,
