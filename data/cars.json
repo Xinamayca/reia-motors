@@ -184,28 +184,6 @@
       "year": 2023
     },
     {
-      "km": 0,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 50000,
-      "featured": false,
-      "currency": "AWG",
-      "fuel": "Electric",
-      "title": "Honda E-NS1",
-      "images": [
-        "/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.32-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-4-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.34.jpeg"
-      ],
-      "id": "0541",
-      "year": 2025
-    },
-    {
       "km": 11500,
       "body": "SUV",
       "trans": "Automatic",
@@ -227,6 +205,28 @@
       ],
       "id": "G4",
       "year": 2024
+    },
+    {
+      "km": 0,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 50000,
+      "featured": false,
+      "currency": "AWG",
+      "fuel": "Electric",
+      "title": "Honda E-NS1",
+      "images": [
+        "/uploads/whatsapp-image-2026-02-27-at-17.11.32-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.32-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-4-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.33-3-.jpeg",
+        "/uploads/whatsapp-image-2026-04-16-at-23.13.34.jpeg"
+      ],
+      "id": "0541",
+      "year": 2025
     },
     {
       "km": 0,
