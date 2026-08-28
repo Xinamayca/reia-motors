@@ -890,29 +890,6 @@
       "year": 2016
     },
     {
-      "km": 103000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 17500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Ford Figo",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.47-3-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.46.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.47.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.47-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-23-at-17.51.46-3-.jpeg"
-      ],
-      "id": "7525",
-      "year": 2019
-    },
-    {
       "km": 183000,
       "body": "Sedan",
       "trans": "Automatic",
@@ -1002,29 +979,6 @@
       ],
       "id": "ANT1",
       "year": 2011
-    },
-    {
-      "km": 72000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 17500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Suzuki Ciaz",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-8-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-4-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-6-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-9-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.09.24-7-.jpeg"
-      ],
-      "id": "su1",
-      "year": 2017
     },
     {
       "km": 155000,
