@@ -79,14 +79,14 @@
       "fuel": "Gasoline",
       "title": "Ford Expedition",
       "images": [
-        "/uploads/whatsapp-image-2026-02-26-at-15.33.36.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.30.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-3-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.32-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-16-at-23.13.31-2-.jpeg"
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-4-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-1-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.16-7-.jpeg"
       ],
       "id": "5658",
       "year": 2019
@@ -2828,6 +2828,52 @@
       ],
       "id": "Dit1",
       "year": 2008
+    },
+    {
+      "km": 44598,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 57500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Sportage",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-9-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-1-.jpeg"
+      ],
+      "id": "5750",
+      "year": 2025
+    },
+    {
+      "km": 65000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Versa",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-9-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-4-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-1-.jpeg"
+      ],
+      "id": "0134",
+      "year": 2020
     }
   ]
 }
