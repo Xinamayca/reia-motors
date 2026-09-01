@@ -389,29 +389,6 @@
       "year": 2018
     },
     {
-      "km": 86000,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 27500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Suzuki Vitara",
-      "images": [
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-9-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-4-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-8-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-1-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-7-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-2-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-3-.jpeg",
-        "/uploads/whatsapp-image-2026-08-17-at-22.23.31-6-.jpeg"
-      ],
-      "id": "8400",
-      "year": 2018
-    },
-    {
       "km": 88110,
       "body": "SUV",
       "trans": "Automatic",
