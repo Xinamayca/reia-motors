@@ -936,6 +936,29 @@
       "year": 2018
     },
     {
+      "km": 65000,
+      "body": "Sedan",
+      "trans": "Automatic",
+      "price": 20000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Nissan Versa",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-9-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-3-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-4-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-1-.jpeg"
+      ],
+      "id": "0134",
+      "year": 2020
+    },
+    {
       "km": 147000,
       "body": "Hatchback",
       "trans": "Automatic",
@@ -2851,29 +2874,6 @@
       ],
       "id": "Dit1",
       "year": 2008
-    },
-    {
-      "km": 65000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 20000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Nissan Versa",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-9-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-3-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-4-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.09.07-1-.jpeg"
-      ],
-      "id": "0134",
-      "year": 2020
     },
     {
       "km": 99830,
