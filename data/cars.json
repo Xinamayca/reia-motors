@@ -92,6 +92,29 @@
       "year": 2019
     },
     {
+      "km": 44598,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 57500,
+      "featured": false,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Sportage",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-9-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-1-.jpeg"
+      ],
+      "id": "5750",
+      "year": 2025
+    },
+    {
       "km": 1359,
       "body": "SUV",
       "trans": "Automatic",
@@ -2828,29 +2851,6 @@
       ],
       "id": "Dit1",
       "year": 2008
-    },
-    {
-      "km": 44598,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 57500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Kia Sportage",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-9-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-1-.jpeg"
-      ],
-      "id": "5750",
-      "year": 2025
     },
     {
       "km": 65000,
