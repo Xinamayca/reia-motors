@@ -729,29 +729,6 @@
       "year": 2009
     },
     {
-      "km": 105000,
-      "body": "Sedan",
-      "trans": "Automatic",
-      "price": 19000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Kia Rio",
-      "images": [
-        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-9-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-8-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-6-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-5-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-2-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-1-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.20.10-7-.jpeg",
-        "/uploads/whatsapp-image-2026-07-02-at-19.20.10.jpeg"
-      ],
-      "id": "ki1",
-      "year": 2019
-    },
-    {
       "km": 88000,
       "body": "Sedan",
       "trans": "Automatic",
