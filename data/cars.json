@@ -92,6 +92,29 @@
       "year": 2019
     },
     {
+      "km": 44598,
+      "body": "SUV",
+      "trans": "Automatic",
+      "price": 57500,
+      "featured": true,
+      "currency": "AWG",
+      "sold": false,
+      "fuel": "Gasoline",
+      "title": "Kia Sportage",
+      "images": [
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-9-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-5-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-6-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-7-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-8-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-2-.jpeg",
+        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-1-.jpeg"
+      ],
+      "id": "5750",
+      "year": 2025
+    },
+    {
       "km": 1359,
       "body": "SUV",
       "trans": "Automatic",
@@ -2808,58 +2831,13 @@
       "year": 2012
     },
     {
-      "km": 44598,
-      "body": "SUV",
-      "trans": "Automatic",
-      "price": 57500,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Kia Sportage",
-      "images": [
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-9-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-5-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-6-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-7-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-8-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-2-.jpeg",
-        "/uploads/whatsapp-image-2026-09-01-at-10.08.55-1-.jpeg"
-      ],
-      "id": "5750",
-      "year": 2025
-    },
-    {
-      "km": 115000,
-      "body": "Hatchback",
-      "trans": "Automatic",
-      "price": 10000,
-      "featured": false,
-      "currency": "AWG",
-      "sold": false,
-      "fuel": "Gasoline",
-      "title": "Suzuki Swift",
-      "images": [
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-1-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-5-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.01.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-2-.jpeg",
-        "/uploads/whatsapp-image-2026-04-28-at-17.05.02.jpeg"
-      ],
-      "id": "Juan1",
-      "year": 2011
-    },
-    {
       "km": 107000,
       "body": "Hatchback",
       "trans": "Automatic",
       "price": 11500,
       "featured": false,
       "currency": "AWG",
-      "sold": false,
+      "sold": true,
       "fuel": "Gasoline",
       "title": "MAZDA DEMIO",
       "images": [
@@ -2874,6 +2852,28 @@
       ],
       "id": "9505",
       "year": 2013
+    },
+    {
+      "km": 115000,
+      "body": "Hatchback",
+      "trans": "Automatic",
+      "price": 10000,
+      "featured": false,
+      "currency": "AWG",
+      "sold": true,
+      "fuel": "Gasoline",
+      "title": "Suzuki Swift",
+      "images": [
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-1-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-5-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.01.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.01-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02-2-.jpeg",
+        "/uploads/whatsapp-image-2026-04-28-at-17.05.02.jpeg"
+      ],
+      "id": "Juan1",
+      "year": 2011
     },
     {
       "km": 130000,
