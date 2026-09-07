@@ -2837,7 +2837,7 @@
       "price": 11500,
       "featured": false,
       "currency": "AWG",
-      "sold": true,
+      "sold": false,
       "fuel": "Gasoline",
       "title": "MAZDA DEMIO",
       "images": [
